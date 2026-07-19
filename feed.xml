@@ -1,279 +1,288 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Jujube Monster</title>
+    <title>jujube monster</title>
     <link href="https://www.jujubemonster.com/feed.xml" rel="self" />
     <link href="https://www.jujubemonster.com" />
-    <updated>2026-07-18T16:10:20-07:00</updated>
+    <updated>2026-07-19T12:56:41-07:00</updated>
     <author>
         <name>Jujube</name>
     </author>
     <id>https://www.jujubemonster.com</id>
 
     <entry>
-        <title>The Deserted Village</title>
+        <title>The Stage Is Set</title>
         <author>
             <name>Jujube</name>
         </author>
-        <link href="https://www.jujubemonster.com/the-deserted-village.html"/>
-        <id>https://www.jujubemonster.com/the-deserted-village.html</id>
-        <media:content url="https://www.jujubemonster.com/media/posts/60/chaos.png" medium="image" />
+        <link href="https://www.jujubemonster.com/the-stage-is-set.html"/>
+        <id>https://www.jujubemonster.com/the-stage-is-set.html</id>
+        <media:content url="https://www.jujubemonster.com/media/posts/95/catsleep.jpeg" medium="image" />
             <category term="poetry"/>
+            <category term="jujube"/>
+            <category term="cat"/>
 
-        <updated>2025-08-10T16:09:00-07:00</updated>
+        <updated>2026-03-29T12:40:00-07:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://www.jujubemonster.com/media/posts/60/chaos.png" alt="" />
-                    Here as I take my solitary rounds, Amidst thy tangling walks, and ruined grounds, And, many a year elapsed, return to view Where once the cottage stood, the hawthorn grew – Oliver Goldsmith
+                        <img src="https://www.jujubemonster.com/media/posts/95/catsleep.jpeg" alt="" />
+                    The stage is set. Afternoon creeps in, settling into the velvet, waiting for the weight of the hour to unravel, petal by petal. The patchwork of calico and cream lies undisturbed in a slow, rhythmic rise and fall. Dust, shadow, silence— just soft things to&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.jujubemonster.com/media/posts/60/chaos.png" class="type:primaryImage" alt="" /></p>
-                <p class="wp-block-paragraph">Here as I take my solitary rounds,<br>Amidst thy tangling walks, and ruined grounds,<br>And, many a year elapsed, return to view<br>Where once the cottage stood, the hawthorn grew</p>
-<p class="wp-block-paragraph">– Oliver Goldsmith</p>
-<figure class="wp-block-image size-full is-resized"><figure class="wp-image-2567"><img loading="lazy"  src="https://unusualcolors.com/wp-content/uploads/2025/07/chaos.png" sizes="(max-width: 651px) 100vw, 651px" srcset="https://unusualcolors.com/wp-content/uploads/2025/07/chaos.png 651w, https://unusualcolors.com/wp-content/uploads/2025/07/chaos.png?w=113&amp;h=150 113w, https://unusualcolors.com/wp-content/uploads/2025/07/chaos.png?w=226&amp;h=300 226w" alt="" width="651" height="864" data-attachment-id="2567" data-permalink="https://unusualcolors.com/2025/08/10/the-deserted-village/chaos/" data-orig-file="https://unusualcolors.com/wp-content/uploads/2025/07/chaos.png" data-orig-size="651,864" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="chaos" data-image-description="" data-image-caption="" data-large-file="https://unusualcolors.com/wp-content/uploads/2025/07/chaos.png?w=651"></figure></figure>
+                    <p><img src="https://www.jujubemonster.com/media/posts/95/catsleep.jpeg" class="type:primaryImage" alt="" /></p>
+                <p class="wp-block-paragraph">The stage is set.</p>
+<p class="wp-block-paragraph">Afternoon creeps in,<br>settling into the velvet,<br>waiting for the weight of the hour <br>to unravel,<br>petal by petal.</p>
+<p class="wp-block-paragraph">The patchwork of calico and cream<br>lies undisturbed in a slow, rhythmic rise and fall.<br>Dust, shadow, silence— <br>just soft things to curl into.</p>
+<p class="wp-block-paragraph">Nothing argues my nap here.</p>
+<p class="wp-block-paragraph">–jujube</p>
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" class="wp-image-2801" src="https://unusualcolors.com/wp-content/uploads/2026/03/catsleep.jpeg?w=1024" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://unusualcolors.com/wp-content/uploads/2026/03/catsleep.jpeg?w=1024 1024w, https://unusualcolors.com/wp-content/uploads/2026/03/catsleep.jpeg?w=2048 2048w, https://unusualcolors.com/wp-content/uploads/2026/03/catsleep.jpeg?w=150 150w, https://unusualcolors.com/wp-content/uploads/2026/03/catsleep.jpeg?w=300 300w, https://unusualcolors.com/wp-content/uploads/2026/03/catsleep.jpeg?w=768 768w, https://unusualcolors.com/wp-content/uploads/2026/03/catsleep.jpeg?w=1440 1440w" alt="" width="1024" height="771" data-attachment-id="2801" data-permalink="https://unusualcolors.com/2026/03/29/the-stage-is-set/catsleep/" data-orig-file="https://unusualcolors.com/wp-content/uploads/2026/03/catsleep.jpeg" data-orig-size="3000,2260" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;f0d78709-0544-4b6c-90e4-75c59c7c4d40&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;Signature: Yoc8fZ+cDb7Ot8abn/oyiJhu/00jeTNS354bndpDQP9ChGtzYrH9zAt0QY6xj/DTRfzAmOjVznYiptzzfilvqMNNVDJS6T7xmFKzfYbfBE+GBPR1tiXIf1xOAe4O35FwLo3RwEQij+eA4I3G8lDMZz0RrB3zFnmKw7+8Z/ZcQltFhr1QtZoPet+UmwFsXmChT2HcgulW7Helu7gSUHUVVuXB2fdtGW3yGGU6RSVrgrYDaNu7+aQhW7vnQABwbE8arjl4HYh6B+sbC7vUzqAsdWFbL+iSL/73mQdYJ40Se/YLvoiTLT9M0TvbSJpqjp4V&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="catsleep" data-image-description="" data-image-caption="&lt;p&gt;Signature: Yoc8fZ+cDb7Ot8abn/oyiJhu/00jeTNS354bndpDQP9ChGtzYrH9zAt0QY6xj/DTRfzAmOjVznYiptzzfilvqMNNVDJS6T7xmFKzfYbfBE+GBPR1tiXIf1xOAe4O35FwLo3RwEQij+eA4I3G8lDMZz0RrB3zFnmKw7+8Z/ZcQltFhr1QtZoPet+UmwFsXmChT2HcgulW7Helu7gSUHUVVuXB2fdtGW3yGGU6RSVrgrYDaNu7+aQhW7vnQABwbE8arjl4HYh6B+sbC7vUzqAsdWFbL+iSL/73mQdYJ40Se/YLvoiTLT9M0TvbSJpqjp4V&lt;/p&gt;
+" data-large-file="https://unusualcolors.com/wp-content/uploads/2026/03/catsleep.jpeg?w=960"></figure>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Drinking Song</title>
+        <title>Pigments of Time</title>
         <author>
             <name>Jujube</name>
         </author>
-        <link href="https://www.jujubemonster.com/drinking-song.html"/>
-        <id>https://www.jujubemonster.com/drinking-song.html</id>
-        <media:content url="https://www.jujubemonster.com/media/posts/59/petalwine.png" medium="image" />
+        <link href="https://www.jujubemonster.com/pigments-of-time.html"/>
+        <id>https://www.jujubemonster.com/pigments-of-time.html</id>
+        <media:content url="https://www.jujubemonster.com/media/posts/94/morningbj.png" medium="image" />
             <category term="poetry"/>
             <category term="jujube"/>
 
-        <updated>2025-08-03T16:08:00-07:00</updated>
+        <updated>2026-03-22T12:39:00-07:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://www.jujubemonster.com/media/posts/59/petalwine.png" alt="" />
-                    Each red petal, A wine-boat, adrift— Raise it, slow, Not to spill What’s left of the day. — inspired by Ge Lifang (d.1164)
+                        <img src="https://www.jujubemonster.com/media/posts/94/morningbj.png" alt="" />
+                    Pigments of time blots and blooms into the canvas of dawn. The tiered eaves of the ancient pagoda sign off the night with the waking ray Mist drifts apart like a half-whispered morning greeting forever deferred in the bleed of light. –Jujube
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.jujubemonster.com/media/posts/59/petalwine.png" class="type:primaryImage" alt="" /></p>
-                <p class="wp-block-paragraph">Each red petal,<br>A wine-boat, adrift—<br>Raise it, slow,<br>Not to spill<br>What’s left of the day.</p>
-<p class="wp-block-paragraph">— inspired by Ge Lifang (d.1164)</p>
-<figure class="wp-block-image size-full is-resized"><figure class="wp-image-2520"><img loading="lazy"  src="https://unusualcolors.com/wp-content/uploads/2025/06/petalwine.png" sizes="(max-width: 651px) 100vw, 651px" srcset="https://unusualcolors.com/wp-content/uploads/2025/06/petalwine.png 651w, https://unusualcolors.com/wp-content/uploads/2025/06/petalwine.png?w=113&amp;h=150 113w, https://unusualcolors.com/wp-content/uploads/2025/06/petalwine.png?w=226&amp;h=300 226w" alt="" width="651" height="864" data-attachment-id="2520" data-permalink="https://unusualcolors.com/2025/08/03/drinking-song/petalwine/" data-orig-file="https://unusualcolors.com/wp-content/uploads/2025/06/petalwine.png" data-orig-size="651,864" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="petalwine" data-image-description="" data-image-caption="" data-large-file="https://unusualcolors.com/wp-content/uploads/2025/06/petalwine.png?w=651"></figure></figure>
+                    <p><img src="https://www.jujubemonster.com/media/posts/94/morningbj.png" class="type:primaryImage" alt="" /></p>
+                <p class="wp-block-paragraph">Pigments of time<br>blots and blooms<br>into the canvas of dawn.<br>The tiered eaves of the ancient pagoda<br>sign off the night with the waking ray<br>Mist drifts apart<br>like a half-whispered morning greeting<br>forever deferred in the bleed of light.</p>
+<p class="wp-block-paragraph">–Jujube</p>
+<figure class="wp-block-image size-large is-resized"><figure class="wp-image-2797"><img loading="lazy"  src="https://unusualcolors.com/wp-content/uploads/2026/03/morningbj.png?w=720" sizes="(max-width: 720px) 100vw, 720px" srcset="https://unusualcolors.com/wp-content/uploads/2026/03/morningbj.png 720w, https://unusualcolors.com/wp-content/uploads/2026/03/morningbj.png?w=113 113w, https://unusualcolors.com/wp-content/uploads/2026/03/morningbj.png?w=226 226w" alt="" width="720" height="956" data-attachment-id="2797" data-permalink="https://unusualcolors.com/2026/03/22/pigments-of-time/morningbj/" data-orig-file="https://unusualcolors.com/wp-content/uploads/2026/03/morningbj.png" data-orig-size="720,956" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="morningbj" data-image-description="" data-image-caption="" data-large-file="https://unusualcolors.com/wp-content/uploads/2026/03/morningbj.png?w=720"></figure></figure>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Sunset Over Lake</title>
+        <title>A Winter Tree</title>
         <author>
             <name>Jujube</name>
         </author>
-        <link href="https://www.jujubemonster.com/sunset-over-lake.html"/>
-        <id>https://www.jujubemonster.com/sunset-over-lake.html</id>
-        <media:content url="https://www.jujubemonster.com/media/posts/58/willow.png" medium="image" />
+        <link href="https://www.jujubemonster.com/a-winter-tree.html"/>
+        <id>https://www.jujubemonster.com/a-winter-tree.html</id>
+        <media:content url="https://www.jujubemonster.com/media/posts/93/abstracttree.png" medium="image" />
+            <category term="poetry"/>
+            <category term="nature"/>
+            <category term="jujube"/>
+
+        <updated>2026-03-15T12:38:00-07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://www.jujubemonster.com/media/posts/93/abstracttree.png" alt="" />
+                    Tangled vines, like frayed harp-strings, enact a wayward joy. Worldlings have turned away, hidden indoors to nurse their fire. But the trunk bends into a question mark between frost and rust, challenging all the assumptions of the season. –Jujube
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.jujubemonster.com/media/posts/93/abstracttree.png" class="type:primaryImage" alt="" /></p>
+                <p class="wp-block-paragraph">Tangled vines,<br>like frayed harp-strings,<br>enact a wayward joy.<br>Worldlings have turned away,<br>hidden indoors to nurse their fire.<br>But the trunk bends <br>into a question mark<br>between frost and rust,<br>challenging all the assumptions of the season. </p>
+<p class="wp-block-paragraph">–Jujube</p>
+<figure class="wp-block-image size-large is-resized"><figure class="wp-image-2790"><img loading="lazy"  src="https://unusualcolors.com/wp-content/uploads/2026/03/abstracttree.png?w=864" sizes="(max-width: 864px) 100vw, 864px" srcset="https://unusualcolors.com/wp-content/uploads/2026/03/abstracttree.png 864w, https://unusualcolors.com/wp-content/uploads/2026/03/abstracttree.png?w=150 150w, https://unusualcolors.com/wp-content/uploads/2026/03/abstracttree.png?w=300 300w, https://unusualcolors.com/wp-content/uploads/2026/03/abstracttree.png?w=768 768w" alt="" width="864" height="864" data-attachment-id="2790" data-permalink="https://unusualcolors.com/2026/03/15/a-winter-tree/abstracttree/" data-orig-file="https://unusualcolors.com/wp-content/uploads/2026/03/abstracttree.png" data-orig-size="864,864" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="abstracttree" data-image-description="" data-image-caption="" data-large-file="https://unusualcolors.com/wp-content/uploads/2026/03/abstracttree.png?w=864"></figure></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Stopping by Woods on a Snowy Evening</title>
+        <author>
+            <name>Jujube</name>
+        </author>
+        <link href="https://www.jujubemonster.com/stopping-by-woods-on-a-snowy-evening.html"/>
+        <id>https://www.jujubemonster.com/stopping-by-woods-on-a-snowy-evening.html</id>
+        <media:content url="https://www.jujubemonster.com/media/posts/92/walk1.png" medium="image" />
+            <category term="travel"/>
             <category term="poetry"/>
             <category term="nature"/>
 
-        <updated>2025-07-27T16:07:00-07:00</updated>
+        <updated>2026-03-08T12:36:00-07:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://www.jujubemonster.com/media/posts/58/willow.png" alt="" />
-                    A language of loss and renewal, etched in the mist. The willows lean in, trailing ink across the shore. What we remember is always half-shadow, half-dream – The lake holds it all.
+                        <img src="https://www.jujubemonster.com/media/posts/92/walk1.png" alt="" />
+                    The only other sound’s the sweep Of easy wind and downy flake. The woods are lovely, dark and deep, But I have promises to keep, And miles to go before I sleep, And miles to go before I sleep. — Robert Frost
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.jujubemonster.com/media/posts/58/willow.png" class="type:primaryImage" alt="" /></p>
-                <p class="wp-block-paragraph">A language of loss and renewal, etched in the mist.<br>The willows lean in,  trailing ink across the shore.<br>What we remember is always half-shadow, half-dream –<br>The lake holds it all.</p>
-<figure class="wp-block-image size-full is-resized"><figure class="wp-image-2550"><img loading="lazy"  src="https://unusualcolors.com/wp-content/uploads/2025/07/willow.png" sizes="(max-width: 720px) 100vw, 720px" srcset="https://unusualcolors.com/wp-content/uploads/2025/07/willow.png 720w, https://unusualcolors.com/wp-content/uploads/2025/07/willow.png?w=113&amp;h=150 113w, https://unusualcolors.com/wp-content/uploads/2025/07/willow.png?w=226&amp;h=300 226w" alt="" width="720" height="956" data-attachment-id="2550" data-permalink="https://unusualcolors.com/2025/07/27/sunset-over-lake/willow/" data-orig-file="https://unusualcolors.com/wp-content/uploads/2025/07/willow.png" data-orig-size="720,956" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="willow" data-image-description="" data-image-caption="" data-large-file="https://unusualcolors.com/wp-content/uploads/2025/07/willow.png?w=720"></figure></figure>
+                    <p><img src="https://www.jujubemonster.com/media/posts/92/walk1.png" class="type:primaryImage" alt="" /></p>
+                <p class="wp-block-paragraph">The only other sound’s the sweep   <br>Of easy wind and downy flake.   </p>
+<p class="wp-block-paragraph">The woods are lovely, dark and deep,   <br>But I have promises to keep,   <br>And miles to go before I sleep,   <br>And miles to go before I sleep.</p>
+<p class="wp-block-paragraph">— Robert Frost</p>
+<figure class="wp-block-image size-full is-resized"><figure class="wp-image-2785"><img loading="lazy"  src="https://unusualcolors.com/wp-content/uploads/2026/02/walk1.png" sizes="(max-width: 648px) 100vw, 648px" srcset="https://unusualcolors.com/wp-content/uploads/2026/02/walk1.png 648w, https://unusualcolors.com/wp-content/uploads/2026/02/walk1.png?w=113&amp;h=150 113w, https://unusualcolors.com/wp-content/uploads/2026/02/walk1.png?w=226&amp;h=300 226w" alt="" width="648" height="860" data-attachment-id="2785" data-permalink="https://unusualcolors.com/2026/03/08/stopping-by-woods-on-a-snowy-evening/walk1/" data-orig-file="https://unusualcolors.com/wp-content/uploads/2026/02/walk1.png" data-orig-size="648,860" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="walk1" data-image-description="" data-image-caption="" data-large-file="https://unusualcolors.com/wp-content/uploads/2026/02/walk1.png?w=648"></figure></figure>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Dream Variations</title>
+        <title>Prism</title>
         <author>
             <name>Jujube</name>
         </author>
-        <link href="https://www.jujubemonster.com/dream-variations.html"/>
-        <id>https://www.jujubemonster.com/dream-variations.html</id>
-        <media:content url="https://www.jujubemonster.com/media/posts/57/sassy.png" medium="image" />
+        <link href="https://www.jujubemonster.com/prism.html"/>
+        <id>https://www.jujubemonster.com/prism.html</id>
+        <media:content url="https://www.jujubemonster.com/media/posts/91/existence.png" medium="image" />
             <category term="poetry"/>
-
-        <updated>2025-07-20T16:05:00-07:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://www.jujubemonster.com/media/posts/57/sassy.png" alt="" />
-                    To fling my arms wide In some place of the sun, To whirl and to dance Till the white day is done. – Langston Hughes
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.jujubemonster.com/media/posts/57/sassy.png" class="type:primaryImage" alt="" /></p>
-                <p class="wp-block-paragraph">To fling my arms wide<br>In some place of the sun,<br>To whirl and to dance<br>Till the white day is done.</p>
-<p class="wp-block-paragraph">– Langston Hughes</p>
-<figure class="wp-block-image size-full is-resized"><figure class="wp-image-2563"><img loading="lazy"  src="https://unusualcolors.com/wp-content/uploads/2025/07/sassy.png" sizes="(max-width: 651px) 100vw, 651px" srcset="https://unusualcolors.com/wp-content/uploads/2025/07/sassy.png 651w, https://unusualcolors.com/wp-content/uploads/2025/07/sassy.png?w=113&amp;h=150 113w, https://unusualcolors.com/wp-content/uploads/2025/07/sassy.png?w=226&amp;h=300 226w" alt="" width="651" height="864" data-attachment-id="2563" data-permalink="https://unusualcolors.com/2025/07/20/dream-variations/sassy/" data-orig-file="https://unusualcolors.com/wp-content/uploads/2025/07/sassy.png" data-orig-size="651,864" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="sassy" data-image-description="" data-image-caption="" data-large-file="https://unusualcolors.com/wp-content/uploads/2025/07/sassy.png?w=651"></figure></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Moon Palace</title>
-        <author>
-            <name>Jujube</name>
-        </author>
-        <link href="https://www.jujubemonster.com/moon-palace.html"/>
-        <id>https://www.jujubemonster.com/moon-palace.html</id>
-        <media:content url="https://www.jujubemonster.com/media/posts/56/cold.png" medium="image" />
-            <category term="poetry"/>
-            <category term="moon"/>
             <category term="jujube"/>
 
-        <updated>2025-07-13T16:04:00-07:00</updated>
+        <updated>2026-03-01T12:34:00-08:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://www.jujubemonster.com/media/posts/56/cold.png" alt="" />
-                    The mist chills the music notes, wind barely stirs the robe — drenched in dew-light we stand, seeped in silence — inspired by Zhu Dunru (1081-1159)
+                        <img src="https://www.jujubemonster.com/media/posts/91/existence.png" alt="" />
+                    Where the light fractures, no shadow, past or present, can hide you. Time, pinned in space: does it lift what you carry, or anchor it forever? Amid the silent roar, going, yet never gone, you stand, trying to finish the sentence. — Jujube
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.jujubemonster.com/media/posts/56/cold.png" class="type:primaryImage" alt="" /></p>
-                <p class="wp-block-paragraph">The mist chills the music notes,<br>wind barely stirs the robe —<br>drenched in dew-light<br>we stand, seeped in silence</p>
-<p class="wp-block-paragraph">— inspired by Zhu Dunru (1081-1159)</p>
-<figure class="wp-block-image size-full is-resized"><figure class="wp-image-2513"><img loading="lazy"  src="https://unusualcolors.com/wp-content/uploads/2025/06/cold.png" sizes="(max-width: 720px) 100vw, 720px" srcset="https://unusualcolors.com/wp-content/uploads/2025/06/cold.png 720w, https://unusualcolors.com/wp-content/uploads/2025/06/cold.png?w=113&amp;h=150 113w, https://unusualcolors.com/wp-content/uploads/2025/06/cold.png?w=226&amp;h=300 226w" alt="" width="720" height="956" data-attachment-id="2513" data-permalink="https://unusualcolors.com/2025/07/13/moon-palace/cold/" data-orig-file="https://unusualcolors.com/wp-content/uploads/2025/06/cold.png" data-orig-size="720,956" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="cold" data-image-description="" data-image-caption="" data-large-file="https://unusualcolors.com/wp-content/uploads/2025/06/cold.png?w=720"></figure></figure>
+                    <p><img src="https://www.jujubemonster.com/media/posts/91/existence.png" class="type:primaryImage" alt="" /></p>
+                <p class="wp-block-paragraph">Where the light fractures,<br>no shadow, past or present,<br>can hide you.</p>
+<p class="wp-block-paragraph">Time, pinned in space:<br>does it lift what you carry,<br>or anchor it forever?</p>
+<p class="wp-block-paragraph">Amid the silent roar,<br>going, yet never gone,<br>you stand,<br>trying to finish the sentence.</p>
+<p class="wp-block-paragraph">— Jujube</p>
+<figure class="wp-block-image size-full is-resized"><figure class="wp-image-2778"><img loading="lazy"  src="https://unusualcolors.com/wp-content/uploads/2026/02/existence.png" sizes="(max-width: 792px) 100vw, 792px" srcset="https://unusualcolors.com/wp-content/uploads/2026/02/existence.png 792w, https://unusualcolors.com/wp-content/uploads/2026/02/existence.png?w=109&amp;h=150 109w, https://unusualcolors.com/wp-content/uploads/2026/02/existence.png?w=219&amp;h=300 219w, https://unusualcolors.com/wp-content/uploads/2026/02/existence.png?w=768&amp;h=1052 768w" alt="" width="792" height="1085" data-attachment-id="2778" data-permalink="https://unusualcolors.com/2026/03/01/prism/existence/" data-orig-file="https://unusualcolors.com/wp-content/uploads/2026/02/existence.png" data-orig-size="792,1085" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="existence" data-image-description="" data-image-caption="" data-large-file="https://unusualcolors.com/wp-content/uploads/2026/02/existence.png?w=747"></figure></figure>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Art</title>
+        <title>Visiting the Sky-Mother Mountain in a Dream: A Song of Farewell</title>
         <author>
             <name>Jujube</name>
         </author>
-        <link href="https://www.jujubemonster.com/art.html"/>
-        <id>https://www.jujubemonster.com/art.html</id>
-        <media:content url="https://www.jujubemonster.com/media/posts/55/artrabbit.png" medium="image" />
+        <link href="https://www.jujubemonster.com/visiting-the-sky-mother-mountain-in-a-dream-a-song-of-farewell.html"/>
+        <id>https://www.jujubemonster.com/visiting-the-sky-mother-mountain-in-a-dream-a-song-of-farewell.html</id>
+        <media:content url="https://www.jujubemonster.com/media/posts/90/path.png" medium="image" />
             <category term="poetry"/>
-            <category term="art"/>
+            <category term="nature"/>
+            <category term="Chinese poems"/>
 
-        <updated>2025-07-06T16:02:00-07:00</updated>
+        <updated>2026-02-22T12:33:00-08:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://www.jujubemonster.com/media/posts/55/artrabbit.png" alt="" />
-                    I am tying up all my love in this, With all its hopes and fears, With all its anguish and all its bliss, And its hours as heavy as years. — James Thomson
+                        <img src="https://www.jujubemonster.com/media/posts/90/path.png" alt="" />
+                    脚著谢公屐， 身登青云梯。 半壁见海日， 空中闻天鸡。 … 列缺霹雳， 丘峦崩摧。 洞天石扉， 訇然中开。 Wearing the climbing shoes of Lord Xie, I ascend the ladder of blue clouds. Halfway up, I see the sun rising from the sea, In mid-air, I hear the rooster of heaven crow. … Lightning flashes&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.jujubemonster.com/media/posts/55/artrabbit.png" class="type:primaryImage" alt="" /></p>
-                <p class="wp-block-paragraph">I am tying up all my love in this,<br>With all its hopes and fears,<br>With all its anguish and all its bliss,<br>And its hours as heavy as years.</p>
-<p class="wp-block-paragraph">— James Thomson</p>
-<figure class="wp-block-image size-large is-resized"><figure class="wp-image-2524"><img loading="lazy"  src="https://unusualcolors.com/wp-content/uploads/2025/07/artrabbit.png?w=720" sizes="(max-width: 720px) 100vw, 720px" srcset="https://unusualcolors.com/wp-content/uploads/2025/07/artrabbit.png 720w, https://unusualcolors.com/wp-content/uploads/2025/07/artrabbit.png?w=113 113w, https://unusualcolors.com/wp-content/uploads/2025/07/artrabbit.png?w=226 226w" alt="" width="720" height="956" data-attachment-id="2524" data-permalink="https://unusualcolors.com/2025/07/06/art/artrabbit/" data-orig-file="https://unusualcolors.com/wp-content/uploads/2025/07/artrabbit.png" data-orig-size="720,956" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="artrabbit" data-image-description="" data-image-caption="" data-large-file="https://unusualcolors.com/wp-content/uploads/2025/07/artrabbit.png?w=720"></figure></figure>
+                    <p><img src="https://www.jujubemonster.com/media/posts/90/path.png" class="type:primaryImage" alt="" /></p>
+                <p class="wp-block-paragraph">脚著谢公屐，<br>身登青云梯。<br>半壁见海日，<br>空中闻天鸡。<br>…<br>列缺霹雳，<br>丘峦崩摧。<br>洞天石扉，<br>訇然中开。</p>
+<p class="wp-block-paragraph"><em>Wearing the climbing shoes of Lord Xie,</em><br><em>I ascend the ladder of blue clouds.</em><br><em>Halfway up, I see the sun rising from the sea,</em><br><em>In mid-air, I hear the rooster of heaven crow.</em><br><em>…</em><br><em>Lightning flashes and thunder roars,</em><br><em>The peaks and ridges crumble and break.</em><br><em>The stone gate of the cavernous heaven,</em><br><em>Thunders open to reveal the sky.</em></p>
+<p class="wp-block-paragraph">— Li Bai 李白 (701-762)</p>
+<figure class="wp-block-image size-full is-resized"><figure class="wp-image-2773"><img loading="lazy"  src="https://unusualcolors.com/wp-content/uploads/2026/02/path.png" sizes="(max-width: 648px) 100vw, 648px" srcset="https://unusualcolors.com/wp-content/uploads/2026/02/path.png 648w, https://unusualcolors.com/wp-content/uploads/2026/02/path.png?w=113&amp;h=150 113w, https://unusualcolors.com/wp-content/uploads/2026/02/path.png?w=226&amp;h=300 226w" alt="" width="648" height="860" data-attachment-id="2773" data-permalink="https://unusualcolors.com/2026/02/22/visiting-the-sky-mother-mountain-in-a-dream-a-song-of-farewell/path/" data-orig-file="https://unusualcolors.com/wp-content/uploads/2026/02/path.png" data-orig-size="648,860" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="path" data-image-description="" data-image-caption="" data-large-file="https://unusualcolors.com/wp-content/uploads/2026/02/path.png?w=648"></figure></figure>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Butterflies</title>
+        <title>My Princess</title>
         <author>
             <name>Jujube</name>
         </author>
-        <link href="https://www.jujubemonster.com/butterflies.html"/>
-        <id>https://www.jujubemonster.com/butterflies.html</id>
-        <media:content url="https://www.jujubemonster.com/media/posts/54/butterfly.png" medium="image" />
-            <category term="reflection"/>
+        <link href="https://www.jujubemonster.com/my-princess.html"/>
+        <id>https://www.jujubemonster.com/my-princess.html</id>
+        <media:content url="https://www.jujubemonster.com/media/posts/89/bwdolls.png" medium="image" />
             <category term="poetry"/>
+            <category term="jujube"/>
 
-        <updated>2025-06-29T16:01:00-07:00</updated>
+        <updated>2026-02-15T12:32:00-08:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://www.jujubemonster.com/media/posts/54/butterfly.png" alt="" />
-                    蝶々や 夢うつつとは 知らずとも Butterflies— Be it dream or wakefulness? They flit, unknowing. — jujube
+                        <img src="https://www.jujubemonster.com/media/posts/89/bwdolls.png" alt="" />
+                    My small, preserved princess, you cradle yesterday’s snow and last night’s shadow, each a parenthesis in fur around your perfect refusal. How delicately you decline the invitation to wake and play the part assigned. The nursery clock has stopped at forever, and still, you will not&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.jujubemonster.com/media/posts/54/butterfly.png" class="type:primaryImage" alt="" /></p>
-                <p class="wp-block-paragraph">蝶々や<br>夢うつつとは<br>知らずとも</p>
-<p class="wp-block-paragraph">Butterflies—<br>Be it dream or wakefulness?<br>They flit, unknowing.</p>
-<p class="wp-block-paragraph">— jujube</p>
-<figure class="wp-block-image size-large is-resized"><figure class="wp-image-2488"><img loading="lazy"  src="https://unusualcolors.com/wp-content/uploads/2025/06/butterfly.png?w=576" sizes="(max-width: 576px) 100vw, 576px" srcset="https://unusualcolors.com/wp-content/uploads/2025/06/butterfly.png 576w, https://unusualcolors.com/wp-content/uploads/2025/06/butterfly.png?w=113 113w, https://unusualcolors.com/wp-content/uploads/2025/06/butterfly.png?w=226 226w" alt="" width="576" height="765" data-attachment-id="2488" data-permalink="https://unusualcolors.com/2025/06/29/butterflies/butterfly/" data-orig-file="https://unusualcolors.com/wp-content/uploads/2025/06/butterfly.png" data-orig-size="576,765" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="butterfly" data-image-description="" data-image-caption="" data-large-file="https://unusualcolors.com/wp-content/uploads/2025/06/butterfly.png?w=576"></figure></figure>
+                    <p><img src="https://www.jujubemonster.com/media/posts/89/bwdolls.png" class="type:primaryImage" alt="" /></p>
+                <p class="wp-block-paragraph">My small, preserved princess,<br>you cradle yesterday’s snow<br>and last night’s shadow,<br>each a parenthesis in fur <br>around your perfect refusal.</p>
+<p class="wp-block-paragraph">How delicately you decline <br>the invitation to wake<br>and play the part assigned.<br>The nursery clock has stopped at<em> forever</em>,<br>and still, you will not blink.</p>
+<p class="wp-block-paragraph">— Jujube</p>
+<figure class="wp-block-image size-full is-resized"><figure class="wp-image-2767"><img loading="lazy"  src="https://unusualcolors.com/wp-content/uploads/2026/02/bwdolls.png" sizes="(max-width: 720px) 100vw, 720px" srcset="https://unusualcolors.com/wp-content/uploads/2026/02/bwdolls.png 720w, https://unusualcolors.com/wp-content/uploads/2026/02/bwdolls.png?w=113&amp;h=150 113w, https://unusualcolors.com/wp-content/uploads/2026/02/bwdolls.png?w=226&amp;h=300 226w" alt="" width="720" height="956" data-attachment-id="2767" data-permalink="https://unusualcolors.com/2026/02/15/my-princess/bwdolls/" data-orig-file="https://unusualcolors.com/wp-content/uploads/2026/02/bwdolls.png" data-orig-size="720,956" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="bwdolls" data-image-description="" data-image-caption="" data-large-file="https://unusualcolors.com/wp-content/uploads/2026/02/bwdolls.png?w=720"></figure></figure>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>The Memory of the Young</title>
+        <title>Happy Valentine&#x27;s</title>
         <author>
             <name>Jujube</name>
         </author>
-        <link href="https://www.jujubemonster.com/the-memory-of-the-young.html"/>
-        <id>https://www.jujubemonster.com/the-memory-of-the-young.html</id>
-        <media:content url="https://www.jujubemonster.com/media/posts/53/kidsstrings.png" medium="image" />
-            <category term="poetry"/>
+        <link href="https://www.jujubemonster.com/happy-valentines.html"/>
+        <id>https://www.jujubemonster.com/happy-valentines.html</id>
+        <media:content url="https://www.jujubemonster.com/media/posts/96/toshishare1-2.png" medium="image" />
+            <category term="holiday"/>
 
-        <updated>2025-06-22T15:59:00-07:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://www.jujubemonster.com/media/posts/53/kidsstrings.png" alt="" />
-                    The memory of the young is leap-by-leap. It sweeps itself for clues to its song. — Maria Hummel
-                ]]>
-            </summary>
+        <updated>2026-02-14T12:44:00-08:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.jujubemonster.com/media/posts/53/kidsstrings.png" class="type:primaryImage" alt="" /></p>
-                <p class="wp-block-paragraph">The memory of the young is leap-by-leap.<br>It sweeps itself for clues to its song.</p>
-<p class="wp-block-paragraph">— Maria Hummel</p>
-<p><img loading="lazy" src="https://unusualcolors.com/wp-content/uploads/2025/06/kidsstrings.png"></p>
+                    <p><img src="https://www.jujubemonster.com/media/posts/96/toshishare1-2.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="undefined" alt=""></figure>
+<figure class="post__image"><a href="https://www.jujubemonster.com/media/files/happyvalentines.mp4" ><img loading="lazy" class="post__image" src="https://www.jujubemonster.com/media/posts/96/toshishare1.png" alt="" width="600" height="797"></figure></a></p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Five Chinese Verses</title>
+        <title>The Darkling Thrush</title>
         <author>
             <name>Jujube</name>
         </author>
-        <link href="https://www.jujubemonster.com/five-chinese-verses.html"/>
-        <id>https://www.jujubemonster.com/five-chinese-verses.html</id>
-        <media:content url="https://www.jujubemonster.com/media/posts/52/fieldps.png" medium="image" />
+        <link href="https://www.jujubemonster.com/the-darkling-thrush.html"/>
+        <id>https://www.jujubemonster.com/the-darkling-thrush.html</id>
+        <media:content url="https://www.jujubemonster.com/media/posts/88/wintersnow.png" medium="image" />
             <category term="poetry"/>
+            <category term="nature"/>
 
-        <updated>2025-06-15T15:56:00-07:00</updated>
+        <updated>2026-02-08T12:30:00-08:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://www.jujubemonster.com/media/posts/52/fieldps.png" alt="" />
-                    Don’t speak to me of sorghum Red fields, pressed up toward a sky Whatever called to me there Too wild, attempting a face Old verses for my father Dignify the cooling page Black earth is the word it makes Tilts forward, consequential — Wendy Xu
+                        <img src="https://www.jujubemonster.com/media/posts/88/wintersnow.png" alt="" />
+                    I leant upon a coppice gate When Frost was spectre-grey, And Winter’s dregs made desolate The weakening eye of day. The tangled bine-stems scored the sky Like strings of broken lyres, And all mankind that haunted nigh Had sought their household fires. — Thomas Hardy
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.jujubemonster.com/media/posts/52/fieldps.png" class="type:primaryImage" alt="" /></p>
-                <p class="wp-block-paragraph">Don’t speak to me of sorghum<br>Red fields, pressed up toward a sky<br>Whatever called to me there<br>Too wild, attempting a face</p>
-<p class="wp-block-paragraph">Old verses for my father<br>Dignify the cooling page<br>Black earth is the word it makes<br>Tilts forward, consequential</p>
-<p class="wp-block-paragraph">— Wendy Xu</p>
-<figure class="wp-block-image size-full is-resized"><figure class="wp-image-2500"><img loading="lazy"  src="https://unusualcolors.com/wp-content/uploads/2025/06/fieldps.png" sizes="(max-width: 720px) 100vw, 720px" srcset="https://unusualcolors.com/wp-content/uploads/2025/06/fieldps.png 720w, https://unusualcolors.com/wp-content/uploads/2025/06/fieldps.png?w=150&amp;h=150 150w, https://unusualcolors.com/wp-content/uploads/2025/06/fieldps.png?w=300&amp;h=300 300w" alt="" width="720" height="720" data-attachment-id="2500" data-permalink="https://unusualcolors.com/2025/06/15/five-chinese-verses/fieldps/" data-orig-file="https://unusualcolors.com/wp-content/uploads/2025/06/fieldps.png" data-orig-size="720,720" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="fieldps" data-image-description="" data-image-caption="" data-large-file="https://unusualcolors.com/wp-content/uploads/2025/06/fieldps.png?w=720"></figure></figure>
+                    <p><img src="https://www.jujubemonster.com/media/posts/88/wintersnow.png" class="type:primaryImage" alt="" /></p>
+                <p class="wp-block-paragraph">I leant upon a coppice gate<br>When Frost was spectre-grey,<br>And Winter’s dregs made desolate<br>The weakening eye of day.<br>The tangled bine-stems scored the sky<br>Like strings of broken lyres,<br>And all mankind that haunted nigh<br>Had sought their household fires.</p>
+<p class="wp-block-paragraph">— Thomas Hardy</p>
+<figure class="wp-block-image size-full is-resized"><figure class="wp-image-2762"><img loading="lazy"  src="https://unusualcolors.com/wp-content/uploads/2026/01/wintersnow.png" sizes="(max-width: 792px) 100vw, 792px" srcset="https://unusualcolors.com/wp-content/uploads/2026/01/wintersnow.png 792w, https://unusualcolors.com/wp-content/uploads/2026/01/wintersnow.png?w=113&amp;h=150 113w, https://unusualcolors.com/wp-content/uploads/2026/01/wintersnow.png?w=226&amp;h=300 226w, https://unusualcolors.com/wp-content/uploads/2026/01/wintersnow.png?w=768&amp;h=1019 768w" alt="" width="792" height="1051" data-attachment-id="2762" data-permalink="https://unusualcolors.com/2026/02/08/the-darkling-thrush/wintersnow/" data-orig-file="https://unusualcolors.com/wp-content/uploads/2026/01/wintersnow.png" data-orig-size="792,1051" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="wintersnow" data-image-description="" data-image-caption="" data-large-file="https://unusualcolors.com/wp-content/uploads/2026/01/wintersnow.png?w=772"></figure></figure>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Reflections</title>
+        <title>Autumn Words</title>
         <author>
             <name>Jujube</name>
         </author>
-        <link href="https://www.jujubemonster.com/reflections.html"/>
-        <id>https://www.jujubemonster.com/reflections.html</id>
-        <media:content url="https://www.jujubemonster.com/media/posts/51/reflection.png" medium="image" />
-            <category term="reflection"/>
+        <link href="https://www.jujubemonster.com/autumn-words.html"/>
+        <id>https://www.jujubemonster.com/autumn-words.html</id>
+        <media:content url="https://www.jujubemonster.com/media/posts/87/crane-copy.png" medium="image" />
             <category term="poetry"/>
+            <category term="Chinese poems"/>
 
-        <updated>2025-06-08T15:55:00-07:00</updated>
+        <updated>2026-02-01T12:29:00-08:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://www.jujubemonster.com/media/posts/51/reflection.png" alt="" />
-                    Like liquid shadows. The ice is thin Whose mirror smears them as it intercepts withdrawing colours; and where the crust, as if a skin livid with tautening scars… — by Charles Tomlinson
+                        <img src="https://www.jujubemonster.com/media/posts/87/crane-copy.png" alt="" />
+                    晴空一鹤排云上， 便引诗情到碧霄。 A crane soars above the clouds and soars high, Lifts my poetic heart up to the azure sky. — Liu Yuxi 刘禹锡 (772-842)
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.jujubemonster.com/media/posts/51/reflection.png" class="type:primaryImage" alt="" /></p>
-                <p class="wp-block-paragraph">Like liquid shadows. The ice is thin<br>Whose mirror smears them as it intercepts<br>withdrawing colours; and where the crust,<br>as if a skin livid with tautening scars…</p>
-<p class="wp-block-paragraph">— by Charles Tomlinson</p>
-<p><img loading="lazy" src="https://unusualcolors.com/wp-content/uploads/2025/05/reflection.png?w=772"></p>
+                    <p><img src="https://www.jujubemonster.com/media/posts/87/crane-copy.png" class="type:primaryImage" alt="" /></p>
+                <p class="wp-block-paragraph">晴空一鹤排云上，<br>便引诗情到碧霄。</p>
+<p class="wp-block-paragraph">A crane soars above the clouds and soars high,<br>Lifts my poetic heart up to the azure sky.</p>
+<p class="wp-block-paragraph">— Liu Yuxi 刘禹锡 (772-842)</p>
+<figure class="wp-block-image size-full is-resized"><figure class="wp-image-2754"><img loading="lazy"  src="https://unusualcolors.com/wp-content/uploads/2026/01/crane.png" sizes="(max-width: 720px) 100vw, 720px" srcset="https://unusualcolors.com/wp-content/uploads/2026/01/crane.png 720w, https://unusualcolors.com/wp-content/uploads/2026/01/crane.png?w=113&amp;h=150 113w, https://unusualcolors.com/wp-content/uploads/2026/01/crane.png?w=226&amp;h=300 226w" alt="" width="720" height="956" data-attachment-id="2754" data-permalink="https://unusualcolors.com/2026/02/01/autumn-words/crane-2/" data-orig-file="https://unusualcolors.com/wp-content/uploads/2026/01/crane.png" data-orig-size="720,956" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="crane" data-image-description="" data-image-caption="" data-large-file="https://unusualcolors.com/wp-content/uploads/2026/01/crane.png?w=720"></figure></figure>
             ]]>
         </content>
     </entry>
