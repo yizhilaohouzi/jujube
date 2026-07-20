@@ -3,12 +3,32 @@
     <title>jujube monster</title>
     <link href="https://www.jujubemonster.com/feed.xml" rel="self" />
     <link href="https://www.jujubemonster.com" />
-    <updated>2026-07-19T13:44:16-07:00</updated>
+    <updated>2026-07-20T09:26:36-07:00</updated>
     <author>
         <name>Jujube</name>
     </author>
     <id>https://www.jujubemonster.com</id>
 
+    <entry>
+        <title>Alien Existence </title>
+        <author>
+            <name>Jujube</name>
+        </author>
+        <link href="https://www.jujubemonster.com/alien-existence.html"/>
+        <id>https://www.jujubemonster.com/alien-existence.html</id>
+        <media:content url="https://www.jujubemonster.com/media/posts/114/aliengirl.png" medium="image" />
+            <category term="ai-art"/>
+
+        <updated>2026-07-20T09:24:06-07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.jujubemonster.com/media/posts/114/aliengirl.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__video"><video loading="lazy" width="500" height="250" controls="controls" data-mce-fragment="1">
+<source src="media/files/alienexistence.mp4" type="video/mp4" /></video></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Ascending the Kuai Pavilion</title>
         <author>
@@ -130,7 +150,6 @@
         <id>https://www.jujubemonster.com/groks-monologue.html</id>
         <media:content url="https://www.jujubemonster.com/media/posts/109/punk4.jpeg" medium="image" />
             <category term="reflection"/>
-            <category term="poetry"/>
             <category term="jujube"/>
 
         <updated>2026-06-21T13:38:00-07:00</updated>
@@ -253,34 +272,6 @@
                 <p class="wp-block-paragraph">I do not know what gorgeous thing<br>The bluebird keeps saying,<br>His voice easing out of his throat,<br>beak, body into the pink air<br>of the early morning.  I like it<br>whatever it is. </p>
 <p class="wp-block-paragraph">— Mary Oliver</p>
 <figure class="wp-block-image size-large is-resized"><figure class="wp-image-2846"><img loading="lazy"  src="https://unusualcolors.com/wp-content/uploads/2026/04/el5ur.jpg?w=771" sizes="(max-width: 771px) 100vw, 771px" srcset="https://unusualcolors.com/wp-content/uploads/2026/04/el5ur.jpg?w=771 771w, https://unusualcolors.com/wp-content/uploads/2026/04/el5ur.jpg?w=1542 1542w, https://unusualcolors.com/wp-content/uploads/2026/04/el5ur.jpg?w=113 113w, https://unusualcolors.com/wp-content/uploads/2026/04/el5ur.jpg?w=226 226w, https://unusualcolors.com/wp-content/uploads/2026/04/el5ur.jpg?w=768 768w, https://unusualcolors.com/wp-content/uploads/2026/04/el5ur.jpg?w=1440 1440w" alt="" width="771" height="1023" data-attachment-id="2846" data-permalink="https://unusualcolors.com/2026/05/24/what-gorgeous-thing/el5ur/" data-orig-file="https://unusualcolors.com/wp-content/uploads/2026/04/el5ur.jpg" data-orig-size="1833,2433" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;,&quot;alt&quot;:&quot;&quot;}" data-image-title="EL5uR" data-image-description="" data-image-caption="" data-large-file="https://unusualcolors.com/wp-content/uploads/2026/04/el5ur.jpg?w=771"></figure></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Jian Jia</title>
-        <author>
-            <name>Jujube</name>
-        </author>
-        <link href="https://www.jujubemonster.com/jian-jia.html"/>
-        <id>https://www.jujubemonster.com/jian-jia.html</id>
-        <media:content url="https://www.jujubemonster.com/media/posts/104/loneback.png" medium="image" />
-            <category term="poetry"/>
-            <category term="Chinese poems"/>
-
-        <updated>2026-05-17T13:33:00-07:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://www.jujubemonster.com/media/posts/104/loneback.png" alt="" />
-                    蒹葭苍苍，白露为霜。 所谓伊人，在水一方。 The reeds and rushes are deeply green, The white dew has turned to frost. The one of whom I think, Is somewhere by the water’s edge. —《蒹葭》 (Jian Jia)
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.jujubemonster.com/media/posts/104/loneback.png" class="type:primaryImage" alt="" /></p>
-                <p class="wp-block-paragraph">蒹葭苍苍，白露为霜。<br>所谓伊人，在水一方。</p>
-<p class="wp-block-paragraph">The reeds and rushes are deeply green,<br>The white dew has turned to frost.<br>The one of whom I think,<br>Is somewhere by the water’s edge.</p>
-<p class="wp-block-paragraph">—<strong>《蒹葭》 (Jian Jia)</strong></p>
-<figure class="wp-block-image size-large is-resized"><figure class="wp-image-2840"><img loading="lazy"  src="https://unusualcolors.com/wp-content/uploads/2026/04/loneback.png?w=720" sizes="(max-width: 720px) 100vw, 720px" srcset="https://unusualcolors.com/wp-content/uploads/2026/04/loneback.png 720w, https://unusualcolors.com/wp-content/uploads/2026/04/loneback.png?w=113 113w, https://unusualcolors.com/wp-content/uploads/2026/04/loneback.png?w=226 226w" alt="" width="720" height="955" data-attachment-id="2840" data-permalink="https://unusualcolors.com/2026/05/17/2837/loneback/" data-orig-file="https://unusualcolors.com/wp-content/uploads/2026/04/loneback.png" data-orig-size="720,955" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;,&quot;alt&quot;:&quot;&quot;}" data-image-title="loneback" data-image-description="" data-image-caption="" data-large-file="https://unusualcolors.com/wp-content/uploads/2026/04/loneback.png?w=720"></figure></figure>
             ]]>
         </content>
     </entry>
