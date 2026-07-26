@@ -3,12 +3,79 @@
     <title>jujube monster</title>
     <link href="https://www.jujubemonster.com/feed.xml" rel="self" />
     <link href="https://www.jujubemonster.com" />
-    <updated>2026-07-20T09:26:36-07:00</updated>
+    <updated>2026-07-24T15:20:41-07:00</updated>
     <author>
         <name>Jujube</name>
     </author>
     <id>https://www.jujubemonster.com</id>
 
+    <entry>
+        <title>Autumn</title>
+        <author>
+            <name>Jujube</name>
+        </author>
+        <link href="https://www.jujubemonster.com/autumn.html"/>
+        <id>https://www.jujubemonster.com/autumn.html</id>
+        <media:content url="https://www.jujubemonster.com/media/posts/116/itried-2.png" medium="image" />
+            <category term="poetry"/>
+
+        <updated>2026-07-24T15:20:03-07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://www.jujubemonster.com/media/posts/116/itried-2.png" alt="" />
+                    We are all falling. This hand here is falling. And look at the others: it is in them all. Yet there is One who holds this falling infinitely gently in His hands. -- Rainer Maria Rilke
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.jujubemonster.com/media/posts/116/itried-2.png" class="type:primaryImage" alt="" /></p>
+                <div class="" data-block="true" data-editor="4l8ln" data-offset-key="a0gqn-0-0">
+<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="a0gqn-0-0"><span data-offset-key="a0gqn-0-0">We are all falling. This hand here is falling.</span></div>
+</div>
+<div class="" data-block="true" data-editor="4l8ln" data-offset-key="f7ebi-0-0">
+<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="f7ebi-0-0"><span data-offset-key="f7ebi-0-0">And look at the others: it is in them all.</span></div>
+</div>
+<div class="" data-block="true" data-editor="4l8ln" data-offset-key="ensja-0-0">
+<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="ensja-0-0"><span data-offset-key="ensja-0-0">Yet there is One who holds this falling</span></div>
+</div>
+<div class="" data-block="true" data-editor="4l8ln" data-offset-key="4873s-0-0">
+<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="4873s-0-0"><span data-offset-key="4873s-0-0">infinitely gently in His hands.</span></div>
+</div>
+<div class="" data-block="true" data-editor="4l8ln" data-offset-key="fktf1-0-0">
+<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="fktf1-0-0"><span data-offset-key="fktf1-0-0">-- Rainer Maria Rilke</span></div>
+<div data-offset-key="fktf1-0-0"> </div>
+<div data-offset-key="fktf1-0-0">
+<figure class="post__image"><img loading="lazy"  src="https://www.jujubemonster.com/media/posts/116/itried.png" alt="" width="500" height="664"></figure>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Cat of the Week</title>
+        <author>
+            <name>Jujube</name>
+        </author>
+        <link href="https://www.jujubemonster.com/cat-of-the-week.html"/>
+        <id>https://www.jujubemonster.com/cat-of-the-week.html</id>
+        <media:content url="https://www.jujubemonster.com/media/posts/115/cathorror.png" medium="image" />
+            <category term="cat"/>
+            <category term="ai-art"/>
+
+        <updated>2026-07-24T15:16:40-07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.jujubemonster.com/media/posts/115/cathorror.png" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/115/gallery/horrorcat.png" data-size="648x860"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/115/gallery/horrorcat-thumbnail.png" alt="" width="648" height="860"></a></figure>
+<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/115/gallery/cathorror.png" data-size="648x860"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/115/gallery/cathorror-thumbnail.png" alt="" width="648" height="860"></a></figure>
+<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/115/gallery/messyevil.png" data-size="511x689"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/115/gallery/messyevil-thumbnail.png" alt="" width="511" height="689"></a></figure>
+<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/115/gallery/messyyellow.png" data-size="519x700"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/115/gallery/messyyellow-thumbnail.png" alt="" width="519" height="700"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Alien Existence </title>
         <author>
@@ -217,61 +284,6 @@
                 <p class="wp-block-paragraph">She walks in beauty, like the night<br>Of cloudless climes and starry skies;<br>And all that’s best of dark and bright<br>Meet in her aspect and her eyes…</p>
 <p class="wp-block-paragraph">— Lord Byron</p>
 <figure class="wp-block-image size-large is-resized"><figure class="wp-image-2856"><img loading="lazy"  src="https://unusualcolors.com/wp-content/uploads/2026/04/worryfuture.png?w=648" sizes="(max-width: 648px) 100vw, 648px" srcset="https://unusualcolors.com/wp-content/uploads/2026/04/worryfuture.png 648w, https://unusualcolors.com/wp-content/uploads/2026/04/worryfuture.png?w=113 113w, https://unusualcolors.com/wp-content/uploads/2026/04/worryfuture.png?w=226 226w" alt="" width="648" height="860" data-attachment-id="2856" data-permalink="https://unusualcolors.com/2026/06/07/she-walks-in-beauty/worryfuture/" data-orig-file="https://unusualcolors.com/wp-content/uploads/2026/04/worryfuture.png" data-orig-size="648,860" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;,&quot;alt&quot;:&quot;&quot;}" data-image-title="worryfuture" data-image-description="" data-image-caption="" data-large-file="https://unusualcolors.com/wp-content/uploads/2026/04/worryfuture.png?w=648"></figure></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Because I could not stop for Death –</title>
-        <author>
-            <name>Jujube</name>
-        </author>
-        <link href="https://www.jujubemonster.com/because-i-could-not-stop-for-death-.html"/>
-        <id>https://www.jujubemonster.com/because-i-could-not-stop-for-death-.html</id>
-        <media:content url="https://www.jujubemonster.com/media/posts/106/company1-copy.png" medium="image" />
-            <category term="reflection"/>
-            <category term="poetry"/>
-
-        <updated>2026-05-31T13:35:00-07:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://www.jujubemonster.com/media/posts/106/company1-copy.png" alt="" />
-                    Because I could not stop for Death – He kindly stopped for me – The Carriage held but just Ourselves – And Immortality. We slowly drove – He knew no haste And I had put away My labor and my leisure too, For His Civility&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.jujubemonster.com/media/posts/106/company1-copy.png" class="type:primaryImage" alt="" /></p>
-                <p class="wp-block-paragraph">Because I could not stop for Death –<br>He kindly stopped for me –<br>The Carriage held but just Ourselves –<br>And Immortality.</p>
-<p class="wp-block-paragraph">We slowly drove – He knew no haste<br>And I had put away<br>My labor and my leisure too,<br>For His Civility –</p>
-<p class="wp-block-paragraph">— Emily Dickinson</p>
-<figure class="wp-block-image size-large is-resized"><figure class="wp-image-2851"><img loading="lazy"  src="https://unusualcolors.com/wp-content/uploads/2026/04/company1-copy.png?w=792" sizes="(max-width: 792px) 100vw, 792px" srcset="https://unusualcolors.com/wp-content/uploads/2026/04/company1-copy.png 792w, https://unusualcolors.com/wp-content/uploads/2026/04/company1-copy.png?w=150 150w, https://unusualcolors.com/wp-content/uploads/2026/04/company1-copy.png?w=300 300w, https://unusualcolors.com/wp-content/uploads/2026/04/company1-copy.png?w=768 768w" alt="" width="792" height="792" data-attachment-id="2851" data-permalink="https://unusualcolors.com/2026/05/31/because-i-could-not-stop-for-death/company1-copy/" data-orig-file="https://unusualcolors.com/wp-content/uploads/2026/04/company1-copy.png" data-orig-size="792,792" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;,&quot;alt&quot;:&quot;&quot;}" data-image-title="company1 copy" data-image-description="" data-image-caption="" data-large-file="https://unusualcolors.com/wp-content/uploads/2026/04/company1-copy.png?w=792"></figure></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>What Gorgeous Thing</title>
-        <author>
-            <name>Jujube</name>
-        </author>
-        <link href="https://www.jujubemonster.com/what-gorgeous-thing.html"/>
-        <id>https://www.jujubemonster.com/what-gorgeous-thing.html</id>
-        <media:content url="https://www.jujubemonster.com/media/posts/105/EL5uR.jpg" medium="image" />
-            <category term="poetry"/>
-            <category term="nature"/>
-
-        <updated>2026-05-24T13:34:00-07:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://www.jujubemonster.com/media/posts/105/EL5uR.jpg" alt="" />
-                    I do not know what gorgeous thing The bluebird keeps saying, His voice easing out of his throat, beak, body into the pink air of the early morning. I like it whatever it is. — Mary Oliver
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.jujubemonster.com/media/posts/105/EL5uR.jpg" class="type:primaryImage" alt="" /></p>
-                <p class="wp-block-paragraph">I do not know what gorgeous thing<br>The bluebird keeps saying,<br>His voice easing out of his throat,<br>beak, body into the pink air<br>of the early morning.  I like it<br>whatever it is. </p>
-<p class="wp-block-paragraph">— Mary Oliver</p>
-<figure class="wp-block-image size-large is-resized"><figure class="wp-image-2846"><img loading="lazy"  src="https://unusualcolors.com/wp-content/uploads/2026/04/el5ur.jpg?w=771" sizes="(max-width: 771px) 100vw, 771px" srcset="https://unusualcolors.com/wp-content/uploads/2026/04/el5ur.jpg?w=771 771w, https://unusualcolors.com/wp-content/uploads/2026/04/el5ur.jpg?w=1542 1542w, https://unusualcolors.com/wp-content/uploads/2026/04/el5ur.jpg?w=113 113w, https://unusualcolors.com/wp-content/uploads/2026/04/el5ur.jpg?w=226 226w, https://unusualcolors.com/wp-content/uploads/2026/04/el5ur.jpg?w=768 768w, https://unusualcolors.com/wp-content/uploads/2026/04/el5ur.jpg?w=1440 1440w" alt="" width="771" height="1023" data-attachment-id="2846" data-permalink="https://unusualcolors.com/2026/05/24/what-gorgeous-thing/el5ur/" data-orig-file="https://unusualcolors.com/wp-content/uploads/2026/04/el5ur.jpg" data-orig-size="1833,2433" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;,&quot;alt&quot;:&quot;&quot;}" data-image-title="EL5uR" data-image-description="" data-image-caption="" data-large-file="https://unusualcolors.com/wp-content/uploads/2026/04/el5ur.jpg?w=771"></figure></figure>
             ]]>
         </content>
     </entry>

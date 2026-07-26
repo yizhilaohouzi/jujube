@@ -10,6 +10,38 @@
     },
     "items": [
         {
+            "id": "https://www.jujubemonster.com/autumn.html",
+            "url": "https://www.jujubemonster.com/autumn.html",
+            "title": "Autumn",
+            "summary": "We are all falling. This hand here is falling. And look at the others: it is in them all. Yet there is One who holds this falling infinitely gently in His hands. -- Rainer Maria Rilke",
+            "content_html": "<div class=\"\" data-block=\"true\" data-editor=\"4l8ln\" data-offset-key=\"a0gqn-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"a0gqn-0-0\"><span data-offset-key=\"a0gqn-0-0\">We are all falling. This hand here is falling.</span></div>\n</div>\n<div class=\"\" data-block=\"true\" data-editor=\"4l8ln\" data-offset-key=\"f7ebi-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"f7ebi-0-0\"><span data-offset-key=\"f7ebi-0-0\">And look at the others: it is in them all.</span></div>\n</div>\n<div class=\"\" data-block=\"true\" data-editor=\"4l8ln\" data-offset-key=\"ensja-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"ensja-0-0\"><span data-offset-key=\"ensja-0-0\">Yet there is One who holds this falling</span></div>\n</div>\n<div class=\"\" data-block=\"true\" data-editor=\"4l8ln\" data-offset-key=\"4873s-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"4873s-0-0\"><span data-offset-key=\"4873s-0-0\">infinitely gently in His hands.</span></div>\n</div>\n<div class=\"\" data-block=\"true\" data-editor=\"4l8ln\" data-offset-key=\"fktf1-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"fktf1-0-0\"><span data-offset-key=\"fktf1-0-0\">-- Rainer Maria Rilke</span></div>\n<div data-offset-key=\"fktf1-0-0\"> </div>\n<div data-offset-key=\"fktf1-0-0\">\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.jujubemonster.com/media/posts/116/itried.png\" alt=\"\" width=\"500\" height=\"664\"></figure>\n</div>\n</div>",
+            "image": "https://www.jujubemonster.com/media/posts/116/itried-2.png",
+            "author": {
+                "name": "Jujube"
+            },
+            "tags": [
+                   "poetry"
+            ],
+            "date_published": "2026-07-24T15:20:03-07:00",
+            "date_modified": "2026-07-24T15:20:03-07:00"
+        },
+        {
+            "id": "https://www.jujubemonster.com/cat-of-the-week.html",
+            "url": "https://www.jujubemonster.com/cat-of-the-week.html",
+            "title": "Cat of the Week",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/115/gallery/horrorcat.png\" data-size=\"648x860\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/115/gallery/horrorcat-thumbnail.png\" alt=\"\" width=\"648\" height=\"860\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/115/gallery/cathorror.png\" data-size=\"648x860\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/115/gallery/cathorror-thumbnail.png\" alt=\"\" width=\"648\" height=\"860\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/115/gallery/messyevil.png\" data-size=\"511x689\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/115/gallery/messyevil-thumbnail.png\" alt=\"\" width=\"511\" height=\"689\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/115/gallery/messyyellow.png\" data-size=\"519x700\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/115/gallery/messyyellow-thumbnail.png\" alt=\"\" width=\"519\" height=\"700\"></a></figure>\n</div></div>",
+            "image": "https://www.jujubemonster.com/media/posts/115/cathorror.png",
+            "author": {
+                "name": "Jujube"
+            },
+            "tags": [
+                   "cat",
+                   "ai-art"
+            ],
+            "date_published": "2026-07-24T15:16:40-07:00",
+            "date_modified": "2026-07-24T15:20:41-07:00"
+        },
+        {
             "id": "https://www.jujubemonster.com/alien-existence.html",
             "url": "https://www.jujubemonster.com/alien-existence.html",
             "title": "Alien Existence ",
@@ -141,40 +173,6 @@
             ],
             "date_published": "2026-06-07T13:36:00-07:00",
             "date_modified": "2026-07-19T13:36:56-07:00"
-        },
-        {
-            "id": "https://www.jujubemonster.com/because-i-could-not-stop-for-death-.html",
-            "url": "https://www.jujubemonster.com/because-i-could-not-stop-for-death-.html",
-            "title": "Because I could not stop for Death –",
-            "summary": "Because I could not stop for Death – He kindly stopped for me – The Carriage held but just Ourselves – And Immortality. We slowly drove – He knew no haste And I had put away My labor and my leisure too, For His Civility&hellip;",
-            "content_html": "<p class=\"wp-block-paragraph\">Because I could not stop for Death –<br>He kindly stopped for me –<br>The Carriage held but just Ourselves –<br>And Immortality.</p>\n<p class=\"wp-block-paragraph\">We slowly drove – He knew no haste<br>And I had put away<br>My labor and my leisure too,<br>For His Civility –</p>\n<p class=\"wp-block-paragraph\">— Emily Dickinson</p>\n<figure class=\"wp-block-image size-large is-resized\"><figure class=\"wp-image-2851\"><img loading=\"lazy\"  src=\"https://unusualcolors.com/wp-content/uploads/2026/04/company1-copy.png?w=792\" sizes=\"(max-width: 792px) 100vw, 792px\" srcset=\"https://unusualcolors.com/wp-content/uploads/2026/04/company1-copy.png 792w, https://unusualcolors.com/wp-content/uploads/2026/04/company1-copy.png?w=150 150w, https://unusualcolors.com/wp-content/uploads/2026/04/company1-copy.png?w=300 300w, https://unusualcolors.com/wp-content/uploads/2026/04/company1-copy.png?w=768 768w\" alt=\"\" width=\"792\" height=\"792\" data-attachment-id=\"2851\" data-permalink=\"https://unusualcolors.com/2026/05/31/because-i-could-not-stop-for-death/company1-copy/\" data-orig-file=\"https://unusualcolors.com/wp-content/uploads/2026/04/company1-copy.png\" data-orig-size=\"792,792\" data-comments-opened=\"1\" data-image-meta=\"{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;,&quot;alt&quot;:&quot;&quot;}\" data-image-title=\"company1 copy\" data-image-description=\"\" data-image-caption=\"\" data-large-file=\"https://unusualcolors.com/wp-content/uploads/2026/04/company1-copy.png?w=792\"></figure></figure>",
-            "image": "https://www.jujubemonster.com/media/posts/106/company1-copy.png",
-            "author": {
-                "name": "Jujube"
-            },
-            "tags": [
-                   "reflection",
-                   "poetry"
-            ],
-            "date_published": "2026-05-31T13:35:00-07:00",
-            "date_modified": "2026-07-19T13:35:36-07:00"
-        },
-        {
-            "id": "https://www.jujubemonster.com/what-gorgeous-thing.html",
-            "url": "https://www.jujubemonster.com/what-gorgeous-thing.html",
-            "title": "What Gorgeous Thing",
-            "summary": "I do not know what gorgeous thing The bluebird keeps saying, His voice easing out of his throat, beak, body into the pink air of the early morning. I like it whatever it is. — Mary Oliver",
-            "content_html": "<p class=\"wp-block-paragraph\">I do not know what gorgeous thing<br>The bluebird keeps saying,<br>His voice easing out of his throat,<br>beak, body into the pink air<br>of the early morning.  I like it<br>whatever it is. </p>\n<p class=\"wp-block-paragraph\">— Mary Oliver</p>\n<figure class=\"wp-block-image size-large is-resized\"><figure class=\"wp-image-2846\"><img loading=\"lazy\"  src=\"https://unusualcolors.com/wp-content/uploads/2026/04/el5ur.jpg?w=771\" sizes=\"(max-width: 771px) 100vw, 771px\" srcset=\"https://unusualcolors.com/wp-content/uploads/2026/04/el5ur.jpg?w=771 771w, https://unusualcolors.com/wp-content/uploads/2026/04/el5ur.jpg?w=1542 1542w, https://unusualcolors.com/wp-content/uploads/2026/04/el5ur.jpg?w=113 113w, https://unusualcolors.com/wp-content/uploads/2026/04/el5ur.jpg?w=226 226w, https://unusualcolors.com/wp-content/uploads/2026/04/el5ur.jpg?w=768 768w, https://unusualcolors.com/wp-content/uploads/2026/04/el5ur.jpg?w=1440 1440w\" alt=\"\" width=\"771\" height=\"1023\" data-attachment-id=\"2846\" data-permalink=\"https://unusualcolors.com/2026/05/24/what-gorgeous-thing/el5ur/\" data-orig-file=\"https://unusualcolors.com/wp-content/uploads/2026/04/el5ur.jpg\" data-orig-size=\"1833,2433\" data-comments-opened=\"1\" data-image-meta=\"{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;,&quot;alt&quot;:&quot;&quot;}\" data-image-title=\"EL5uR\" data-image-description=\"\" data-image-caption=\"\" data-large-file=\"https://unusualcolors.com/wp-content/uploads/2026/04/el5ur.jpg?w=771\"></figure></figure>",
-            "image": "https://www.jujubemonster.com/media/posts/105/EL5uR.jpg",
-            "author": {
-                "name": "Jujube"
-            },
-            "tags": [
-                   "poetry",
-                   "nature"
-            ],
-            "date_published": "2026-05-24T13:34:00-07:00",
-            "date_modified": "2026-07-19T13:34:36-07:00"
         }
     ]
 }
