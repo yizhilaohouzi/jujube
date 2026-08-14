@@ -10,6 +10,37 @@
     },
     "items": [
         {
+            "id": "https://www.jujubemonster.com/stares.html",
+            "url": "https://www.jujubemonster.com/stares.html",
+            "title": "Stares",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/123/gallery/gothicview.png\" data-size=\"648x860\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/123/gallery/gothicview-thumbnail.png\" alt=\"\" width=\"648\" height=\"860\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/123/gallery/foxy3.png\" data-size=\"651x864\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/123/gallery/foxy3-thumbnail.png\" alt=\"\" width=\"651\" height=\"864\"></a></figure>\n</div></div>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://www.jujubemonster.com/media/posts/123/beastwithbg.jpg\" alt=\"\" width=\"500\" height=\"376\"></figure>",
+            "image": "https://www.jujubemonster.com/media/posts/123/stares1.png",
+            "author": {
+                "name": "Jujube"
+            },
+            "tags": [
+                   "ai-art"
+            ],
+            "date_published": "2026-08-13T14:41:57-07:00",
+            "date_modified": "2026-08-13T14:41:57-07:00"
+        },
+        {
+            "id": "https://www.jujubemonster.com/fashion-sketches.html",
+            "url": "https://www.jujubemonster.com/fashion-sketches.html",
+            "title": "Fashion Sketches",
+            "summary": "Animated Version",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/122/gallery/fashiondraw1.png\" data-size=\"648x860\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/122/gallery/fashiondraw1-thumbnail.png\" alt=\"\" width=\"648\" height=\"860\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/122/gallery/fashiondraw2.png\" data-size=\"648x860\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/122/gallery/fashiondraw2-thumbnail.png\" alt=\"\" width=\"648\" height=\"860\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/122/gallery/fashiondraw3.png\" data-size=\"928x1232\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/122/gallery/fashiondraw3-thumbnail.png\" alt=\"\" width=\"720\" height=\"956\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/122/gallery/fashiondraw4.png\" data-size=\"648x860\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/122/gallery/fashiondraw4-thumbnail.png\" alt=\"\" width=\"648\" height=\"860\"></a></figure>\n</div></div>\n<div>\n<p><a href=\"https://x.com/JujubeTing/status/2086833700231418024?s=20\" target=\"_blank\" rel=\"noopener noreferrer\">Animated Version</a></p>\n</div>",
+            "image": "https://www.jujubemonster.com/media/posts/122/fashioninksketch.png",
+            "author": {
+                "name": "Jujube"
+            },
+            "tags": [
+                   "ai-art"
+            ],
+            "date_published": "2026-08-09T13:56:28-07:00",
+            "date_modified": "2026-08-10T08:40:38-07:00"
+        },
+        {
             "id": "https://www.jujubemonster.com/widening-circles.html",
             "url": "https://www.jujubemonster.com/widening-circles.html",
             "title": "Widening Circles",
@@ -40,7 +71,7 @@
                    "ai-art"
             ],
             "date_published": "2026-08-08T10:14:07-07:00",
-            "date_modified": "2026-08-08T10:16:07-07:00"
+            "date_modified": "2026-08-14T07:50:18-07:00"
         },
         {
             "id": "https://www.jujubemonster.com/the-love-song-of-j-alfred-prufrock.html",
@@ -135,42 +166,6 @@
             ],
             "date_published": "2026-07-20T09:24:06-07:00",
             "date_modified": "2026-07-20T09:26:36-07:00"
-        },
-        {
-            "id": "https://www.jujubemonster.com/ascending-the-kuai-pavilion.html",
-            "url": "https://www.jujubemonster.com/ascending-the-kuai-pavilion.html",
-            "title": "Ascending the Kuai Pavilion",
-            "summary": "落木千山天远大， 澄江一道月分明。 Fallen trees spread over a thousand mountains beneath a vast sky; One clear river reflects the bright moon. — Huang Tingjian 黄庭坚 (1045-1105)",
-            "content_html": "<p class=\"wp-block-paragraph\">落木千山天远大，<br>澄江一道月分明。</p>\n<p class=\"wp-block-paragraph\">Fallen trees spread over a thousand mountains beneath a vast sky;<br>One clear river reflects the bright moon.</p>\n<p class=\"wp-block-paragraph\">— Huang Tingjian 黄庭坚 (1045-1105)</p>\n<figure class=\"wp-block-image size-large is-resized\"><img loading=\"lazy\" class=\"wp-image-2893\" src=\"https://unusualcolors.com/wp-content/uploads/2026/07/waterfall.jpeg?w=1024\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://unusualcolors.com/wp-content/uploads/2026/07/waterfall.jpeg?w=1024 1024w, https://unusualcolors.com/wp-content/uploads/2026/07/waterfall.jpeg?w=2048 2048w, https://unusualcolors.com/wp-content/uploads/2026/07/waterfall.jpeg?w=150 150w, https://unusualcolors.com/wp-content/uploads/2026/07/waterfall.jpeg?w=300 300w, https://unusualcolors.com/wp-content/uploads/2026/07/waterfall.jpeg?w=768 768w, https://unusualcolors.com/wp-content/uploads/2026/07/waterfall.jpeg?w=1440 1440w\" alt=\"\" width=\"1024\" height=\"771\" data-attachment-id=\"2893\" data-permalink=\"https://unusualcolors.com/2026/07/19/ascending-the-kuai-pavilion/waterfall/\" data-orig-file=\"https://unusualcolors.com/wp-content/uploads/2026/07/waterfall.jpeg\" data-orig-size=\"2800,2109\" data-comments-opened=\"1\" data-image-meta=\"{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;3aed4dd9-5e66-45ed-b121-bf8900636b2d&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;Signature: CpepvhxvTy5c5Jx1E7u4BAhXNAGXZQ9PmUauRMs6y4sV0fL8mMhFFLJJiREMxxBP4IOxkoFgbfXQzOkrqabuZjHoCls2QqsyONMFuiVyfZgp93s4WadgZA8O+2s54WWkilWAluQWCO439HxISKP+aOBcM0/VqpOPXlpP4ejYySsyws8aHzjTqPddu8STh4q+Jpt4xYPg94csXtyEiUFRgXlvOzQGnBRiMIEx337L6MaQgzeyQR1VHSjDSinIyXnbN0UiDmImhpqlI+6s7N7yHJ3Ic8RIq1tVdYOnOAOCc7U=&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;,&quot;alt&quot;:&quot;&quot;}\" data-image-title=\"waterfall\" data-image-description=\"\" data-image-caption=\"&lt;p&gt;Signature: CpepvhxvTy5c5Jx1E7u4BAhXNAGXZQ9PmUauRMs6y4sV0fL8mMhFFLJJiREMxxBP4IOxkoFgbfXQzOkrqabuZjHoCls2QqsyONMFuiVyfZgp93s4WadgZA8O+2s54WWkilWAluQWCO439HxISKP+aOBcM0/VqpOPXlpP4ejYySsyws8aHzjTqPddu8STh4q+Jpt4xYPg94csXtyEiUFRgXlvOzQGnBRiMIEx337L6MaQgzeyQR1VHSjDSinIyXnbN0UiDmImhpqlI+6s7N7yHJ3Ic8RIq1tVdYOnOAOCc7U=&lt;/p&gt;\n\" data-large-file=\"https://unusualcolors.com/wp-content/uploads/2026/07/waterfall.jpeg?w=960\"></figure>",
-            "image": "https://www.jujubemonster.com/media/posts/113/waterfall.jpeg",
-            "author": {
-                "name": "Jujube"
-            },
-            "tags": [
-                   "poetry",
-                   "nature",
-                   "Chinese poems"
-            ],
-            "date_published": "2026-07-19T13:43:00-07:00",
-            "date_modified": "2026-07-19T13:44:16-07:00"
-        },
-        {
-            "id": "https://www.jujubemonster.com/mount-zhongnan.html",
-            "url": "https://www.jujubemonster.com/mount-zhongnan.html",
-            "title": "Mount Zhongnan",
-            "summary": "太乙近天都， 连山接海隅。 白云回望合， 青霭入看无。 Mount Zhongnan rises toward Heaven’s capital; Its ranges stretch to the edge of the sea. Looking back, white clouds close behind; Looking in, blue mist dissolves into nothing. — Wang Wei 王维 (701-761)",
-            "content_html": "<p class=\"wp-block-paragraph\">太乙近天都，<br>连山接海隅。<br>白云回望合，<br>青霭入看无。</p>\n<p class=\"wp-block-paragraph\">Mount Zhongnan rises toward Heaven’s capital;<br>Its ranges stretch to the edge of the sea.<br>Looking back, white clouds close behind;<br>Looking in, blue mist dissolves into nothing.</p>\n<p class=\"wp-block-paragraph\">— Wang Wei 王维 (701-761)</p>\n<figure class=\"wp-block-image size-large is-resized\"><figure class=\"wp-image-2887\"><img loading=\"lazy\"  src=\"https://unusualcolors.com/wp-content/uploads/2026/07/hilly.png?w=956\" sizes=\"(max-width: 956px) 100vw, 956px\" srcset=\"https://unusualcolors.com/wp-content/uploads/2026/07/hilly.png 956w, https://unusualcolors.com/wp-content/uploads/2026/07/hilly.png?w=150 150w, https://unusualcolors.com/wp-content/uploads/2026/07/hilly.png?w=300 300w, https://unusualcolors.com/wp-content/uploads/2026/07/hilly.png?w=768 768w\" alt=\"\" width=\"956\" height=\"720\" data-attachment-id=\"2887\" data-permalink=\"https://unusualcolors.com/2026/07/12/mount-zhongnan/hilly/\" data-orig-file=\"https://unusualcolors.com/wp-content/uploads/2026/07/hilly.png\" data-orig-size=\"956,720\" data-comments-opened=\"1\" data-image-meta=\"{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;,&quot;alt&quot;:&quot;&quot;}\" data-image-title=\"hilly\" data-image-description=\"\" data-image-caption=\"\" data-large-file=\"https://unusualcolors.com/wp-content/uploads/2026/07/hilly.png?w=956\"></figure></figure>",
-            "image": "https://www.jujubemonster.com/media/posts/112/hilly.png",
-            "author": {
-                "name": "Jujube"
-            },
-            "tags": [
-                   "poetry",
-                   "nature",
-                   "Chinese poems"
-            ],
-            "date_published": "2026-07-12T13:42:00-07:00",
-            "date_modified": "2026-07-19T13:43:14-07:00"
         }
     ]
 }
