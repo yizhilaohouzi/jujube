@@ -10,6 +10,38 @@
     },
     "items": [
         {
+            "id": "https://www.jujubemonster.com/morning-song.html",
+            "url": "https://www.jujubemonster.com/morning-song.html",
+            "title": "Morning Song",
+            "summary": "Dawn had taken in the stars And left the faint white moon. O white moon, you are lonely, It is the same with me, But we have the world to roam over, Only the lonely are free. -- Sara Teasdale (1884-1933)",
+            "content_html": "<p>Dawn had taken in the stars <br>And left the faint white moon. <br>O white moon, you are lonely, <br>It is the same with me, <br>But we have the world to roam over, <br>Only the lonely are free.</p>\n<p>-- Sara Teasdale (1884-1933) </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.jujubemonster.com/media/posts/125/coldmoon.png\" alt=\"\" width=\"500\" height=\"664\"></figure>",
+            "image": "https://www.jujubemonster.com/media/posts/125/coldmoon-2.png",
+            "author": {
+                "name": "Jujube"
+            },
+            "tags": [
+                   "poetry"
+            ],
+            "date_published": "2026-08-16T08:36:18-07:00",
+            "date_modified": "2026-08-16T08:36:18-07:00"
+        },
+        {
+            "id": "https://www.jujubemonster.com/cats-of-the-week-3.html",
+            "url": "https://www.jujubemonster.com/cats-of-the-week-3.html",
+            "title": "Cats of the Week",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/124/gallery/pinklips.png\" data-size=\"648x860\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/124/gallery/pinklips-thumbnail.png\" alt=\"\" width=\"648\" height=\"860\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/124/gallery/longneck2.jpg\" data-size=\"1216x1616\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/124/gallery/longneck2-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"957\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/124/gallery/longneck.png\" data-size=\"648x860\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/124/gallery/longneck-thumbnail.png\" alt=\"\" width=\"648\" height=\"860\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/124/gallery/bwcatgirl.png\" data-size=\"720x956\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/124/gallery/bwcatgirl-thumbnail.png\" alt=\"\" width=\"720\" height=\"956\"></a></figure>\n</div></div>",
+            "image": "https://www.jujubemonster.com/media/posts/124/blueeyes.png",
+            "author": {
+                "name": "Jujube"
+            },
+            "tags": [
+                   "cat",
+                   "ai-art"
+            ],
+            "date_published": "2026-08-16T08:31:43-07:00",
+            "date_modified": "2026-08-16T08:31:43-07:00"
+        },
+        {
             "id": "https://www.jujubemonster.com/stares.html",
             "url": "https://www.jujubemonster.com/stares.html",
             "title": "Stares",
@@ -135,37 +167,6 @@
             ],
             "date_published": "2026-07-24T15:20:03-07:00",
             "date_modified": "2026-07-24T15:20:03-07:00"
-        },
-        {
-            "id": "https://www.jujubemonster.com/cat-of-the-week.html",
-            "url": "https://www.jujubemonster.com/cat-of-the-week.html",
-            "title": "Cats of the Week",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/115/gallery/horrorcat.png\" data-size=\"648x860\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/115/gallery/horrorcat-thumbnail.png\" alt=\"\" width=\"648\" height=\"860\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/115/gallery/cathorror.png\" data-size=\"648x860\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/115/gallery/cathorror-thumbnail.png\" alt=\"\" width=\"648\" height=\"860\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/115/gallery/messyevil.png\" data-size=\"511x689\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/115/gallery/messyevil-thumbnail.png\" alt=\"\" width=\"511\" height=\"689\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/115/gallery/messyyellow.png\" data-size=\"519x700\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/115/gallery/messyyellow-thumbnail.png\" alt=\"\" width=\"519\" height=\"700\"></a></figure>\n</div></div>",
-            "image": "https://www.jujubemonster.com/media/posts/115/cathorror.png",
-            "author": {
-                "name": "Jujube"
-            },
-            "tags": [
-                   "cat",
-                   "ai-art"
-            ],
-            "date_published": "2026-07-24T15:16:40-07:00",
-            "date_modified": "2026-08-01T08:54:18-07:00"
-        },
-        {
-            "id": "https://www.jujubemonster.com/alien-existence.html",
-            "url": "https://www.jujubemonster.com/alien-existence.html",
-            "title": "Alien Existence ",
-            "content_html": "<figure class=\"post__video\"><video loading=\"lazy\" width=\"500\" height=\"250\" controls=\"controls\" data-mce-fragment=\"1\">\n<source src=\"media/files/alienexistence.mp4\" type=\"video/mp4\" /></video></figure>",
-            "image": "https://www.jujubemonster.com/media/posts/114/aliengirl.png",
-            "author": {
-                "name": "Jujube"
-            },
-            "tags": [
-                   "ai-art"
-            ],
-            "date_published": "2026-07-20T09:24:06-07:00",
-            "date_modified": "2026-07-20T09:26:36-07:00"
         }
     ]
 }
