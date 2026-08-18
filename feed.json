@@ -10,6 +10,37 @@
     },
     "items": [
         {
+            "id": "https://www.jujubemonster.com/bad-dreams-by-midjourney.html",
+            "url": "https://www.jujubemonster.com/bad-dreams-by-midjourney.html",
+            "title": "Bad Dreams by Midjourney",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/127/gallery/baaddreams.png\" data-size=\"648x860\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/127/gallery/baaddreams-thumbnail.png\" alt=\"\" width=\"648\" height=\"860\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/127/gallery/baddreams.png\" data-size=\"576x765\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/127/gallery/baddreams-thumbnail.png\" alt=\"\" width=\"576\" height=\"765\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/127/gallery/fadingbirds.png\" data-size=\"576x764\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/127/gallery/fadingbirds-thumbnail.png\" alt=\"\" width=\"576\" height=\"764\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/127/gallery/nightmareaalien.png\" data-size=\"576x765\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/127/gallery/nightmareaalien-thumbnail.png\" alt=\"\" width=\"576\" height=\"765\"></a></figure>\n</div></div>",
+            "image": "https://www.jujubemonster.com/media/posts/127/nighmarerabbit.png",
+            "author": {
+                "name": "Jujube"
+            },
+            "tags": [
+                   "ai-art"
+            ],
+            "date_published": "2026-08-17T11:17:48-07:00",
+            "date_modified": "2026-08-17T11:17:48-07:00"
+        },
+        {
+            "id": "https://www.jujubemonster.com/black-and-orange-love.html",
+            "url": "https://www.jujubemonster.com/black-and-orange-love.html",
+            "title": "Black and Orange Love",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/126/gallery/orangefashionfly.png\" data-size=\"928x1232\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/126/gallery/orangefashionfly-thumbnail.png\" alt=\"\" width=\"720\" height=\"956\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/126/gallery/fashiondrawing.png\" data-size=\"576x765\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/126/gallery/fashiondrawing-thumbnail.png\" alt=\"\" width=\"576\" height=\"765\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/126/gallery/kimono1.png\" data-size=\"648x861\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/126/gallery/kimono1-thumbnail.png\" alt=\"\" width=\"648\" height=\"861\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/126/gallery/kimonolove.png\" data-size=\"576x764\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/126/gallery/kimonolove-thumbnail.png\" alt=\"\" width=\"576\" height=\"764\"></a></figure>\n</div></div>",
+            "image": "https://www.jujubemonster.com/media/posts/126/blackorangelove.png",
+            "author": {
+                "name": "Jujube"
+            },
+            "tags": [
+                   "fashion",
+                   "ai-art"
+            ],
+            "date_published": "2026-08-17T11:05:09-07:00",
+            "date_modified": "2026-08-17T11:05:09-07:00"
+        },
+        {
             "id": "https://www.jujubemonster.com/morning-song.html",
             "url": "https://www.jujubemonster.com/morning-song.html",
             "title": "Morning Song",
@@ -67,10 +98,11 @@
                 "name": "Jujube"
             },
             "tags": [
+                   "fashion",
                    "ai-art"
             ],
             "date_published": "2026-08-09T13:56:28-07:00",
-            "date_modified": "2026-08-10T08:40:38-07:00"
+            "date_modified": "2026-08-17T11:05:18-07:00"
         },
         {
             "id": "https://www.jujubemonster.com/widening-circles.html",
@@ -136,37 +168,6 @@
             ],
             "date_published": "2026-08-01T08:57:02-07:00",
             "date_modified": "2026-08-01T08:57:02-07:00"
-        },
-        {
-            "id": "https://www.jujubemonster.com/scarecrow-blue.html",
-            "url": "https://www.jujubemonster.com/scarecrow-blue.html",
-            "title": "Scarecrow Blue",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/117/gallery/scarecrow3.png\" data-size=\"576x765\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/117/gallery/scarecrow3-thumbnail.png\" alt=\"\" width=\"576\" height=\"765\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/117/gallery/scraredoll.png\" data-size=\"504x669\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/117/gallery/scraredoll-thumbnail.png\" alt=\"\" width=\"504\" height=\"669\"></a></figure>\n</div></div>\n<figure class=\"post__video\"><video loading=\"lazy\" width=\"600\" height=\"300\" controls=\"controls\" data-mce-fragment=\"1\">\n<source src=\"media/files/scarecrow1.mp4\" type=\"video/mp4\" /></video></figure>",
-            "image": "https://www.jujubemonster.com/media/posts/117/scarecrow2.png",
-            "author": {
-                "name": "Jujube"
-            },
-            "tags": [
-                   "ai-art"
-            ],
-            "date_published": "2026-07-30T17:34:08-07:00",
-            "date_modified": "2026-07-30T17:37:48-07:00"
-        },
-        {
-            "id": "https://www.jujubemonster.com/autumn.html",
-            "url": "https://www.jujubemonster.com/autumn.html",
-            "title": "Autumn",
-            "summary": "We are all falling. This hand here is falling. And look at the others: it is in them all. Yet there is One who holds this falling infinitely gently in His hands. -- Rainer Maria Rilke",
-            "content_html": "<div class=\"\" data-block=\"true\" data-editor=\"4l8ln\" data-offset-key=\"a0gqn-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"a0gqn-0-0\"><span data-offset-key=\"a0gqn-0-0\">We are all falling. This hand here is falling.</span></div>\n</div>\n<div class=\"\" data-block=\"true\" data-editor=\"4l8ln\" data-offset-key=\"f7ebi-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"f7ebi-0-0\"><span data-offset-key=\"f7ebi-0-0\">And look at the others: it is in them all.</span></div>\n</div>\n<div class=\"\" data-block=\"true\" data-editor=\"4l8ln\" data-offset-key=\"ensja-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"ensja-0-0\"><span data-offset-key=\"ensja-0-0\">Yet there is One who holds this falling</span></div>\n</div>\n<div class=\"\" data-block=\"true\" data-editor=\"4l8ln\" data-offset-key=\"4873s-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"4873s-0-0\"><span data-offset-key=\"4873s-0-0\">infinitely gently in His hands.</span></div>\n</div>\n<div class=\"\" data-block=\"true\" data-editor=\"4l8ln\" data-offset-key=\"fktf1-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"fktf1-0-0\"><span data-offset-key=\"fktf1-0-0\">-- Rainer Maria Rilke</span></div>\n<div data-offset-key=\"fktf1-0-0\"> </div>\n<div data-offset-key=\"fktf1-0-0\">\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.jujubemonster.com/media/posts/116/itried.png\" alt=\"\" width=\"500\" height=\"664\"></figure>\n</div>\n</div>",
-            "image": "https://www.jujubemonster.com/media/posts/116/itried-2.png",
-            "author": {
-                "name": "Jujube"
-            },
-            "tags": [
-                   "poetry"
-            ],
-            "date_published": "2026-07-24T15:20:03-07:00",
-            "date_modified": "2026-07-24T15:20:03-07:00"
         }
     ]
 }
