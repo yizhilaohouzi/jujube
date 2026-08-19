@@ -3,12 +3,62 @@
     <title>jujube monster</title>
     <link href="https://www.jujubemonster.com/feed.xml" rel="self" />
     <link href="https://www.jujubemonster.com" />
-    <updated>2026-08-17T11:17:48-07:00</updated>
+    <updated>2026-08-19T10:20:00-07:00</updated>
     <author>
         <name>Jujube</name>
     </author>
     <id>https://www.jujubemonster.com</id>
 
+    <entry>
+        <title>Dragons Come in All Shapes </title>
+        <author>
+            <name>Jujube</name>
+        </author>
+        <link href="https://www.jujubemonster.com/dragons-come-in-all-shapes.html"/>
+        <id>https://www.jujubemonster.com/dragons-come-in-all-shapes.html</id>
+        <media:content url="https://www.jujubemonster.com/media/posts/129/blockdragon.png" medium="image" />
+            <category term="ai-art"/>
+
+        <updated>2026-08-19T10:20:00-07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.jujubemonster.com/media/posts/129/blockdragon.png" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/129/gallery/chinesedrragon3.png" data-size="576x764"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/129/gallery/chinesedrragon3-thumbnail.png" alt="" width="576" height="764"></a></figure>
+<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/129/gallery/chinesedragon1.png" data-size="928x1232"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/129/gallery/chinesedragon1-thumbnail.png" alt="" width="720" height="956"></a></figure>
+<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/129/gallery/chinesedragon2.png" data-size="648x860"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/129/gallery/chinesedragon2-thumbnail.png" alt="" width="648" height="860"></a></figure>
+<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/129/gallery/dragonbeer.png" data-size="720x956"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/129/gallery/dragonbeer-thumbnail.png" alt="" width="720" height="956"></a></figure>
+<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/129/gallery/dragonmount.png" data-size="720x542"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/129/gallery/dragonmount-thumbnail.png" alt="" width="720" height="542"></a></figure>
+<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/129/gallery/dragonnoodle.png" data-size="576x765"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/129/gallery/dragonnoodle-thumbnail.png" alt="" width="576" height="765"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>A Bit Ghostly</title>
+        <author>
+            <name>Jujube</name>
+        </author>
+        <link href="https://www.jujubemonster.com/a-bit-ghostly.html"/>
+        <id>https://www.jujubemonster.com/a-bit-ghostly.html</id>
+        <media:content url="https://www.jujubemonster.com/media/posts/128/splashred.png" medium="image" />
+            <category term="ai-art"/>
+
+        <updated>2026-08-19T10:08:32-07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.jujubemonster.com/media/posts/128/splashred.png" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/128/gallery/pinkblackfairy.jpg" data-size="1216x1616"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/128/gallery/pinkblackfairy-thumbnail.jpg" alt="" width="720" height="957"></a></figure>
+<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/128/gallery/followrabbit.png" data-size="576x765"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/128/gallery/followrabbit-thumbnail.png" alt="" width="576" height="765"></a></figure>
+<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/128/gallery/nightmarecats.png" data-size="928x1232"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/128/gallery/nightmarecats-thumbnail.png" alt="" width="720" height="956"></a></figure>
+<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/128/gallery/ghost1.png" data-size="720x956"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/128/gallery/ghost1-thumbnail.png" alt="" width="720" height="956"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Bad Dreams by Midjourney</title>
         <author>
@@ -242,89 +292,6 @@
 </div></div>
 <figure class="post__image"><img loading="lazy"  src="https://www.jujubemonster.com/media/posts/120/brushcat.png" alt="" width="500" height="664"></figure>
 <p> <a href="https://x.com/JujubeTing/status/2086114720499851405?s=20" target="_blank" rel="noopener noreferrer">Animated version </a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>The Love Song of J. Alfred Prufrock</title>
-        <author>
-            <name>Jujube</name>
-        </author>
-        <link href="https://www.jujubemonster.com/the-love-song-of-j-alfred-prufrock.html"/>
-        <id>https://www.jujubemonster.com/the-love-song-of-j-alfred-prufrock.html</id>
-        <media:content url="https://www.jujubemonster.com/media/posts/119/faces-2.jpg" medium="image" />
-            <category term="poetry"/>
-
-        <updated>2026-08-01T09:00:10-07:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://www.jujubemonster.com/media/posts/119/faces-2.jpg" alt="" />
-                    There will be time, there will be time To prepare a face to meet the faces that you meet; There will be time to murder and create, And time for all the works and days of hands That lift and drop a question on your&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.jujubemonster.com/media/posts/119/faces-2.jpg" class="type:primaryImage" alt="" /></p>
-                <div class="" data-block="true" data-editor="e51kr" data-offset-key="7i1t7-0-0">
-<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="7i1t7-0-0"><span data-offset-key="7i1t7-0-0">There will be time, there will be time</span></div>
-</div>
-<div class="" data-block="true" data-editor="e51kr" data-offset-key="kqmn-0-0">
-<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="kqmn-0-0"><span data-offset-key="kqmn-0-0">To prepare a face to meet the faces that you meet;</span></div>
-</div>
-<div class="" data-block="true" data-editor="e51kr" data-offset-key="96ppl-0-0">
-<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="96ppl-0-0"><span data-offset-key="96ppl-0-0">There will be time to murder and create,</span></div>
-</div>
-<div class="" data-block="true" data-editor="e51kr" data-offset-key="b9tn7-0-0">
-<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="b9tn7-0-0"><span data-offset-key="b9tn7-0-0">And time for all the works and days of hands</span></div>
-</div>
-<div class="" data-block="true" data-editor="e51kr" data-offset-key="2bpn0-0-0">
-<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="2bpn0-0-0"><span data-offset-key="2bpn0-0-0">That lift and drop a question on your plate;</span></div>
-</div>
-<div class="" data-block="true" data-editor="e51kr" data-offset-key="6kjoa-0-0">
-<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="6kjoa-0-0"><span data-offset-key="6kjoa-0-0">Time for you and time for me,</span></div>
-</div>
-<div class="" data-block="true" data-editor="e51kr" data-offset-key="9p1jo-0-0">
-<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="9p1jo-0-0"><span data-offset-key="9p1jo-0-0">And time yet for a hundred indecisions,</span></div>
-</div>
-<div class="" data-block="true" data-editor="e51kr" data-offset-key="6p50q-0-0">
-<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="6p50q-0-0"><span data-offset-key="6p50q-0-0">And for a hundred visions and revisions,</span></div>
-</div>
-<div class="" data-block="true" data-editor="e51kr" data-offset-key="dmjf4-0-0">
-<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="dmjf4-0-0"><span data-offset-key="dmjf4-0-0">Before the taking of a toast and tea.</span></div>
-</div>
-<div class="" data-block="true" data-editor="e51kr" data-offset-key="63tjq-0-0">
-<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="63tjq-0-0"><span data-offset-key="63tjq-0-0">- T. S. Eliot</span></div>
-<div data-offset-key="63tjq-0-0"> </div>
-<div data-offset-key="63tjq-0-0">
-<figure class="post__image"><img loading="lazy"  src="https://www.jujubemonster.com/media/posts/119/faces.jpg" alt="" width="2495" height="1654"></figure>
-</div>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Cats of the Week</title>
-        <author>
-            <name>Jujube</name>
-        </author>
-        <link href="https://www.jujubemonster.com/cats-of-the-week.html"/>
-        <id>https://www.jujubemonster.com/cats-of-the-week.html</id>
-        <media:content url="https://www.jujubemonster.com/media/posts/118/seeya.png" medium="image" />
-            <category term="cat"/>
-            <category term="ai-art"/>
-
-        <updated>2026-08-01T08:57:02-07:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.jujubemonster.com/media/posts/118/seeya.png" class="type:primaryImage" alt="" /></p>
-                <p> </p>
-<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
-<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/118/gallery/floralcat.png" data-size="720x542"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/118/gallery/floralcat-thumbnail.png" alt="" width="720" height="542"></a></figure>
-<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/118/gallery/redbluecat.png" data-size="720x534"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/118/gallery/redbluecat-thumbnail.png" alt="" width="720" height="534"></a></figure>
-<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/118/gallery/morningcat.png" data-size="928x1232"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/118/gallery/morningcat-thumbnail.png" alt="" width="720" height="956"></a></figure>
-<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/118/gallery/afternooncat.png" data-size="928x1232"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/118/gallery/afternooncat-thumbnail.png" alt="" width="720" height="956"></a></figure>
-</div></div>
             ]]>
         </content>
     </entry>
