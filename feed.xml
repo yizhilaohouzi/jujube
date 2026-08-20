@@ -3,12 +3,47 @@
     <title>jujube monster</title>
     <link href="https://www.jujubemonster.com/feed.xml" rel="self" />
     <link href="https://www.jujubemonster.com" />
-    <updated>2026-08-19T10:20:00-07:00</updated>
+    <updated>2026-08-20T07:08:40-07:00</updated>
     <author>
         <name>Jujube</name>
     </author>
     <id>https://www.jujubemonster.com</id>
 
+    <entry>
+        <title>Test Grok Edit</title>
+        <author>
+            <name>Jujube</name>
+        </author>
+        <link href="https://www.jujubemonster.com/test-grok-edit.html"/>
+        <id>https://www.jujubemonster.com/test-grok-edit.html</id>
+        <media:content url="https://www.jujubemonster.com/media/posts/130/fractal.png" medium="image" />
+            <category term="fashion"/>
+            <category term="ai-art"/>
+
+        <updated>2026-08-20T07:05:01-07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://www.jujubemonster.com/media/posts/130/fractal.png" alt="" />
+                    Color changes: AR and arm position changes: Guess which one can be animated? (see video)
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.jujubemonster.com/media/posts/130/fractal.png" class="type:primaryImage" alt="" /></p>
+                <p>Color changes:</p>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/130/gallery/fractalfashion4.png" data-size="651x864"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/130/gallery/fractalfashion4-thumbnail.png" alt="" width="651" height="864"></a></figure>
+<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/130/gallery/grokcolors.jpg" data-size="1216x1616"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/130/gallery/grokcolors-thumbnail.jpg" alt="" width="720" height="957"></a></figure>
+</div></div>
+<p>AR and arm position changes:</p>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/130/gallery/fractal.png" data-size="720x956"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/130/gallery/fractal-thumbnail.png" alt="" width="720" height="956"></a></figure>
+<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/130/gallery/artest.jpg" data-size="1008x1792"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/130/gallery/artest-thumbnail.jpg" alt="" width="720" height="1280"></a></figure>
+</div></div>
+<p>Guess which one can be animated? (see<a href="https://x.com/JujubeTing/status/2090430090773762236?s=20" target="_blank" rel="noopener noreferrer"> video</a>)<br><br></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Dragons Come in All Shapes </title>
         <author>
@@ -262,36 +297,6 @@
 <div data-offset-key="31ds2-0-0"> </div>
 <div data-offset-key="31ds2-0-0"><figure class="post__image"><img loading="lazy"  src="https://www.jujubemonster.com/media/posts/121/nosleep.png" alt="" width="500" height="664"></figure></div>
 </div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Cats of the Week</title>
-        <author>
-            <name>Jujube</name>
-        </author>
-        <link href="https://www.jujubemonster.com/cats-of-the-week-2.html"/>
-        <id>https://www.jujubemonster.com/cats-of-the-week-2.html</id>
-        <media:content url="https://www.jujubemonster.com/media/posts/120/danceyarncat.png" medium="image" />
-            <category term="cat"/>
-            <category term="ai-art"/>
-
-        <updated>2026-08-08T10:14:07-07:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://www.jujubemonster.com/media/posts/120/danceyarncat.png" alt="" />
-                    Animated version 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.jujubemonster.com/media/posts/120/danceyarncat.png" class="type:primaryImage" alt="" /></p>
-                <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
-<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/120/gallery/buttoncat.png" data-size="368x496"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/120/gallery/buttoncat-thumbnail.png" alt="" width="368" height="496"></a></figure>
-<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/120/gallery/catyarn.png" data-size="864x651"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/120/gallery/catyarn-thumbnail.png" alt="" width="720" height="543"></a></figure>
-</div></div>
-<figure class="post__image"><img loading="lazy"  src="https://www.jujubemonster.com/media/posts/120/brushcat.png" alt="" width="500" height="664"></figure>
-<p> <a href="https://x.com/JujubeTing/status/2086114720499851405?s=20" target="_blank" rel="noopener noreferrer">Animated version </a></p>
             ]]>
         </content>
     </entry>

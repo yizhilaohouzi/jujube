@@ -10,6 +10,23 @@
     },
     "items": [
         {
+            "id": "https://www.jujubemonster.com/test-grok-edit.html",
+            "url": "https://www.jujubemonster.com/test-grok-edit.html",
+            "title": "Test Grok Edit",
+            "summary": "Color changes: AR and arm position changes: Guess which one can be animated? (see video)",
+            "content_html": "<p>Color changes:</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/130/gallery/fractalfashion4.png\" data-size=\"651x864\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/130/gallery/fractalfashion4-thumbnail.png\" alt=\"\" width=\"651\" height=\"864\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/130/gallery/grokcolors.jpg\" data-size=\"1216x1616\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/130/gallery/grokcolors-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"957\"></a></figure>\n</div></div>\n<p>AR and arm position changes:</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/130/gallery/fractal.png\" data-size=\"720x956\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/130/gallery/fractal-thumbnail.png\" alt=\"\" width=\"720\" height=\"956\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/130/gallery/artest.jpg\" data-size=\"1008x1792\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/130/gallery/artest-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"1280\"></a></figure>\n</div></div>\n<p>Guess which one can be animated? (see<a href=\"https://x.com/JujubeTing/status/2090430090773762236?s=20\" target=\"_blank\" rel=\"noopener noreferrer\"> video</a>)<br><br></p>",
+            "image": "https://www.jujubemonster.com/media/posts/130/fractal.png",
+            "author": {
+                "name": "Jujube"
+            },
+            "tags": [
+                   "fashion",
+                   "ai-art"
+            ],
+            "date_published": "2026-08-20T07:05:01-07:00",
+            "date_modified": "2026-08-20T07:08:40-07:00"
+        },
+        {
             "id": "https://www.jujubemonster.com/dragons-come-in-all-shapes.html",
             "url": "https://www.jujubemonster.com/dragons-come-in-all-shapes.html",
             "title": "Dragons Come in All Shapes ",
@@ -149,23 +166,6 @@
             ],
             "date_published": "2026-08-08T10:19:17-07:00",
             "date_modified": "2026-08-08T10:19:17-07:00"
-        },
-        {
-            "id": "https://www.jujubemonster.com/cats-of-the-week-2.html",
-            "url": "https://www.jujubemonster.com/cats-of-the-week-2.html",
-            "title": "Cats of the Week",
-            "summary": "Animated version ",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/120/gallery/buttoncat.png\" data-size=\"368x496\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/120/gallery/buttoncat-thumbnail.png\" alt=\"\" width=\"368\" height=\"496\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/120/gallery/catyarn.png\" data-size=\"864x651\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/120/gallery/catyarn-thumbnail.png\" alt=\"\" width=\"720\" height=\"543\"></a></figure>\n</div></div>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.jujubemonster.com/media/posts/120/brushcat.png\" alt=\"\" width=\"500\" height=\"664\"></figure>\n<p> <a href=\"https://x.com/JujubeTing/status/2086114720499851405?s=20\" target=\"_blank\" rel=\"noopener noreferrer\">Animated version </a></p>",
-            "image": "https://www.jujubemonster.com/media/posts/120/danceyarncat.png",
-            "author": {
-                "name": "Jujube"
-            },
-            "tags": [
-                   "cat",
-                   "ai-art"
-            ],
-            "date_published": "2026-08-08T10:14:07-07:00",
-            "date_modified": "2026-08-14T07:50:18-07:00"
         }
     ]
 }
