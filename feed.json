@@ -10,11 +10,44 @@
     },
     "items": [
         {
+            "id": "https://www.jujubemonster.com/fun-videos-of-the-week.html",
+            "url": "https://www.jujubemonster.com/fun-videos-of-the-week.html",
+            "title": "Fun Videos of the Week",
+            "content_html": "<figure class=\"post__image\"><video loading=\"lazy\" width=\"300\" height=\"300\" controls=\"controls\">\n<source src=\"media/files/self.mp4\" type=\"video/mp4\" /></video></figure>\n<figure class=\"post__video\"><video loading=\"lazy\" width=\"300\" height=\"400\" controls=\"controls\">\n<source src=\"media/files/skullbirdbounce.mp4\" type=\"video/mp4\" /></video></figure>\n<figure class=\"post__image\"><video loading=\"lazy\" width=\"300\" height=\"400\" controls=\"controls\">\n<source src=\"media/files/funfriday.mp4\" type=\"video/mp4\" /></video></figure>",
+            "image": "https://www.jujubemonster.com/media/posts/139/skullbbird-2.png",
+            "author": {
+                "name": "Jujube"
+            },
+            "tags": [
+                   "video",
+                   "ai-art"
+            ],
+            "date_published": "2026-09-02T15:46:00-07:00",
+            "date_modified": "2026-09-02T16:03:05-07:00"
+        },
+        {
+            "id": "https://www.jujubemonster.com/self-portrait.html",
+            "url": "https://www.jujubemonster.com/self-portrait.html",
+            "title": "Self-Portrait",
+            "summary": "I keep finding pieces of myself in the lines that take too long to form a shape in the colors that wait too long to settle or to escape Some marks connect, some break All refuse to be final -jujube",
+            "content_html": "<p>I keep finding pieces of myself <br>in the lines <br>that take too long to form a shape <br>in the colors <br>that wait too long to settle or to escape <br>Some marks connect, some break <br>All refuse to be final</p>\n<p>-jujube</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.jujubemonster.com/media/posts/138/portraitideas.png\" alt=\"watercolor and ink drawing of a young woman, messy sketch vibe\" width=\"500\" height=\"377\"></figure>",
+            "image": "https://www.jujubemonster.com/media/posts/138/portraitideas-2.png",
+            "author": {
+                "name": "Jujube"
+            },
+            "tags": [
+                   "poetry",
+                   "jujube"
+            ],
+            "date_published": "2026-08-30T10:31:31-07:00",
+            "date_modified": "2026-08-31T08:07:03-07:00"
+        },
+        {
             "id": "https://www.jujubemonster.com/cats-of-the-week-5.html",
             "url": "https://www.jujubemonster.com/cats-of-the-week-5.html",
             "title": "Cats of the Week",
             "summary": "Animation",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/137/gallery/huhcat.png\" data-size=\"864x651\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/137/gallery/huhcat-thumbnail.png\" alt=\"\" width=\"720\" height=\"543\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/137/gallery/smokingcafecat.png\" data-size=\"648x860\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/137/gallery/smokingcafecat-thumbnail.png\" alt=\"\" width=\"648\" height=\"860\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/137/gallery/headddresscat.png\" data-size=\"576x764\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/137/gallery/headddresscat-thumbnail.png\" alt=\"\" width=\"576\" height=\"764\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/137/gallery/hoodedcat.png\" data-size=\"648x860\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/137/gallery/hoodedcat-thumbnail.png\" alt=\"\" width=\"648\" height=\"860\"></a></figure>\n</div></div>\n<p><a href=\"https://x.com/JujubeTing/status/2092268130768924799?s=20\" target=\"_blank\" rel=\"noopener noreferrer\">Animation</a></p>",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/137/gallery/huhcat.png\" data-size=\"864x651\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/137/gallery/huhcat-thumbnail.png\" alt=\"White cat with a black head leaping through a blue sky above a mouse on desert sand\" width=\"720\" height=\"543\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/137/gallery/smokingcafecat.png\" data-size=\"648x860\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/137/gallery/smokingcafecat-thumbnail.png\" alt=\"Woman with a black bob sitting at a cafe table beside a blue-eyed leopard-spotted cat\" width=\"648\" height=\"860\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/137/gallery/headddresscat.png\" data-size=\"576x764\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/137/gallery/headddresscat-thumbnail.png\" alt=\"White cat sitting on a gold sofa under a tall rainbow headdress and peacock-like tail\" width=\"576\" height=\"764\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/137/gallery/hoodedcat.png\" data-size=\"648x860\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/137/gallery/hoodedcat-thumbnail.png\" alt=\"Cat in an oversized blue hooded coat standing on a rainy city street at night\" width=\"648\" height=\"860\"></a></figure>\n</div></div>\n<p><a href=\"https://x.com/JujubeTing/status/2092268130768924799?s=20\" target=\"_blank\" rel=\"noopener noreferrer\">Animation</a></p>",
             "image": "https://www.jujubemonster.com/media/posts/137/2ndfloor.png",
             "author": {
                 "name": "Jujube"
@@ -23,7 +56,7 @@
                    "cat"
             ],
             "date_published": "2026-08-29T08:55:35-07:00",
-            "date_modified": "2026-08-29T08:55:35-07:00"
+            "date_modified": "2026-08-31T07:59:25-07:00"
         },
         {
             "id": "https://www.jujubemonster.com/colorful-sexy.html",
@@ -39,7 +72,7 @@
                    "ai-art"
             ],
             "date_published": "2026-08-29T08:50:18-07:00",
-            "date_modified": "2026-08-29T08:50:18-07:00"
+            "date_modified": "2026-08-31T08:01:33-07:00"
         },
         {
             "id": "https://www.jujubemonster.com/cats-of-the-week-4.html",
@@ -55,14 +88,14 @@
                    "ai-art"
             ],
             "date_published": "2026-08-23T09:50:04-07:00",
-            "date_modified": "2026-08-23T09:50:04-07:00"
+            "date_modified": "2026-08-31T08:02:51-07:00"
         },
         {
             "id": "https://www.jujubemonster.com/the-solitary.html",
             "url": "https://www.jujubemonster.com/the-solitary.html",
             "title": "The Solitary",
             "summary": "Let them think I love them more than I do, Let them think I care, though I go alone, If it lifts their pride, what is it to me Who am self-complete as a flower or a stone? It is one to me that they&hellip;",
-            "content_html": "<p>Let them think I love them more than I do, <br>Let them think I care, though I go alone, <br>If it lifts their pride, what is it to me <br>Who am self-complete as a flower or a stone? <br>It is one to me that they come or go <br>If I have myself and the drive of my will</p>\n<p>-- Sara Teasdale </p>\n<p><a href=\"https://pro.x.com/JujubeTing/status/2091550028540129344/photo/1\" role=\"link\" class=\"css-g5y9jx r-1pi2tsx r-1ny4l3l r-1loqt21\">\n<div class=\"css-g5y9jx r-1adg3ll r-1udh08x\">\n<div class=\"r-1p0dtai r-1pi2tsx r-1d2f490 r-u8s1d r-ipm5af r-13qz1uu\">\n<div class=\"css-g5y9jx r-1mlwlqe r-1udh08x r-417010 r-aqfbo4 r-n1ft60 r-gf0ln r-agouwx r-1p0dtai r-1d2f490 r-u8s1d r-zchlnj r-ipm5af\" aria-label=\"Image\" data-testid=\"tweetPhoto\"><figure class=\"css-9pa8cd\"><img loading=\"lazy\"  src=\"https://pbs.twimg.com/media/HPNrpMZb0AA4-oq?format=png&amp;name=small\" alt=\"Image\"></figure></div>\n</div>\n</div>\n</a></p>",
+            "content_html": "<p>Let them think I love them more than I do, <br>Let them think I care, though I go alone, <br>If it lifts their pride, what is it to me <br>Who am self-complete as a flower or a stone? <br>It is one to me that they come or go <br>If I have myself and the drive of my will</p>\n<p>-- Sara Teasdale </p>\n<p> </p>\n<div class=\"css-g5y9jx r-1adg3ll r-1udh08x\">\n<div class=\"r-1p0dtai r-1pi2tsx r-1d2f490 r-u8s1d r-ipm5af r-13qz1uu\">\n<div class=\"css-g5y9jx r-1mlwlqe r-1udh08x r-417010 r-aqfbo4 r-n1ft60 r-gf0ln r-agouwx r-1p0dtai r-1d2f490 r-u8s1d r-zchlnj r-ipm5af\" aria-label=\"Image\" data-testid=\"tweetPhoto\"><a href=\"https://pro.x.com/JujubeTing/status/2091550028540129344/photo/1\" role=\"link\" class=\"css-g5y9jx r-1pi2tsx r-1ny4l3l r-1loqt21\"><figure class=\"css-9pa8cd\"><img loading=\"lazy\"  src=\"https://pbs.twimg.com/media/HPNrpMZb0AA4-oq?format=png&amp;name=small\" alt=\"Image\"></figure></a></div>\n</div>\n</div>\n<p> </p>",
             "image": "https://www.jujubemonster.com/media/posts/134/cyborgrabbit.png",
             "author": {
                 "name": "Jujube"
@@ -71,7 +104,7 @@
                    "poetry"
             ],
             "date_published": "2026-08-23T09:39:29-07:00",
-            "date_modified": "2026-08-23T09:39:29-07:00"
+            "date_modified": "2026-08-31T08:03:45-07:00"
         },
         {
             "id": "https://www.jujubemonster.com/girls-with-a-mind-of-their-own.html",
@@ -86,7 +119,7 @@
                    "ai-art"
             ],
             "date_published": "2026-08-21T19:02:01-07:00",
-            "date_modified": "2026-08-21T19:02:01-07:00"
+            "date_modified": "2026-08-31T08:05:30-07:00"
         },
         {
             "id": "https://www.jujubemonster.com/all-about-hats.html",
@@ -136,36 +169,6 @@
             ],
             "date_published": "2026-08-20T07:05:01-07:00",
             "date_modified": "2026-08-20T07:08:40-07:00"
-        },
-        {
-            "id": "https://www.jujubemonster.com/dragons-come-in-all-shapes.html",
-            "url": "https://www.jujubemonster.com/dragons-come-in-all-shapes.html",
-            "title": "Dragons Come in All Shapes ",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/129/gallery/chinesedrragon3.png\" data-size=\"576x764\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/129/gallery/chinesedrragon3-thumbnail.png\" alt=\"\" width=\"576\" height=\"764\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/129/gallery/chinesedragon1.png\" data-size=\"928x1232\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/129/gallery/chinesedragon1-thumbnail.png\" alt=\"\" width=\"720\" height=\"956\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/129/gallery/chinesedragon2.png\" data-size=\"648x860\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/129/gallery/chinesedragon2-thumbnail.png\" alt=\"\" width=\"648\" height=\"860\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/129/gallery/dragonbeer.png\" data-size=\"720x956\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/129/gallery/dragonbeer-thumbnail.png\" alt=\"\" width=\"720\" height=\"956\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/129/gallery/dragonmount.png\" data-size=\"720x542\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/129/gallery/dragonmount-thumbnail.png\" alt=\"\" width=\"720\" height=\"542\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/129/gallery/dragonnoodle.png\" data-size=\"576x765\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/129/gallery/dragonnoodle-thumbnail.png\" alt=\"\" width=\"576\" height=\"765\"></a></figure>\n</div></div>",
-            "image": "https://www.jujubemonster.com/media/posts/129/blockdragon.png",
-            "author": {
-                "name": "Jujube"
-            },
-            "tags": [
-                   "ai-art"
-            ],
-            "date_published": "2026-08-19T10:20:00-07:00",
-            "date_modified": "2026-08-19T10:20:00-07:00"
-        },
-        {
-            "id": "https://www.jujubemonster.com/a-bit-ghostly.html",
-            "url": "https://www.jujubemonster.com/a-bit-ghostly.html",
-            "title": "A Bit Ghostly",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/128/gallery/pinkblackfairy.jpg\" data-size=\"1216x1616\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/128/gallery/pinkblackfairy-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"957\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/128/gallery/followrabbit.png\" data-size=\"576x765\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/128/gallery/followrabbit-thumbnail.png\" alt=\"\" width=\"576\" height=\"765\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/128/gallery/nightmarecats.png\" data-size=\"928x1232\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/128/gallery/nightmarecats-thumbnail.png\" alt=\"\" width=\"720\" height=\"956\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/128/gallery/ghost1.png\" data-size=\"720x956\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/128/gallery/ghost1-thumbnail.png\" alt=\"\" width=\"720\" height=\"956\"></a></figure>\n</div></div>",
-            "image": "https://www.jujubemonster.com/media/posts/128/splashred.png",
-            "author": {
-                "name": "Jujube"
-            },
-            "tags": [
-                   "ai-art"
-            ],
-            "date_published": "2026-08-19T10:08:32-07:00",
-            "date_modified": "2026-08-19T10:08:32-07:00"
         }
     ]
 }
