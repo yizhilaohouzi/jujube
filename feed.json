@@ -10,6 +10,37 @@
     },
     "items": [
         {
+            "id": "https://www.jujubemonster.com/beauty-attitude.html",
+            "url": "https://www.jujubemonster.com/beauty-attitude.html",
+            "title": "Beauty + Attitude",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/148/gallery/orangefluffy.png\" data-size=\"720x956\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/148/gallery/orangefluffy-thumbnail.png\" alt=\"\" width=\"720\" height=\"956\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/148/gallery/glossyspider.jpg\" data-size=\"2304x3062\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/148/gallery/glossyspider-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"957\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/148/gallery/medusa.png\" data-size=\"648x860\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/148/gallery/medusa-thumbnail.png\" alt=\"\" width=\"648\" height=\"860\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/148/gallery/frecklelove.png\" data-size=\"576x765\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/148/gallery/frecklelove-thumbnail.png\" alt=\"\" width=\"576\" height=\"765\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/148/gallery/mondayfashion1.png\" data-size=\"648x860\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/148/gallery/mondayfashion1-thumbnail.png\" alt=\"\" width=\"648\" height=\"860\"></a></figure>\n</div></div>",
+            "image": "https://www.jujubemonster.com/media/posts/148/flyhair-2.png",
+            "author": {
+                "name": "Jujube"
+            },
+            "tags": [
+                   "ai-art"
+            ],
+            "date_published": "2026-09-16T09:59:45-07:00",
+            "date_modified": "2026-09-16T10:05:35-07:00"
+        },
+        {
+            "id": "https://www.jujubemonster.com/dust-and-light.html",
+            "url": "https://www.jujubemonster.com/dust-and-light.html",
+            "title": "Dust and Light",
+            "summary": "dust and light couldn’t decide to arrive or to depart to recollect or to forsake hovering until nows become forever or a delicate liberation",
+            "content_html": "<p>dust and light couldn’t decide <br>to arrive or to depart <br>to recollect or to forsake <br>hovering until nows become forever <br>or a delicate liberation</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.jujubemonster.com/media/posts/147/wings-and-boots.jpeg\" alt=\"\" width=\"500\" height=\"745\"></figure>",
+            "image": "https://www.jujubemonster.com/media/posts/147/wings-and-boots-2.jpeg",
+            "author": {
+                "name": "Jujube"
+            },
+            "tags": [
+                   "jujube"
+            ],
+            "date_published": "2026-09-13T09:08:00-07:00",
+            "date_modified": "2026-09-13T09:08:00-07:00"
+        },
+        {
             "id": "https://www.jujubemonster.com/cats-of-the-week-7.html",
             "url": "https://www.jujubemonster.com/cats-of-the-week-7.html",
             "title": "Cats of the Week",
@@ -132,39 +163,6 @@
             ],
             "date_published": "2026-09-02T15:46:00-07:00",
             "date_modified": "2026-09-12T08:10:50-07:00"
-        },
-        {
-            "id": "https://www.jujubemonster.com/self-portrait.html",
-            "url": "https://www.jujubemonster.com/self-portrait.html",
-            "title": "Self-Portrait",
-            "summary": "I keep finding pieces of myself in the lines that take too long to form a shape in the colors that wait too long to settle or to escape Some marks connect, some break All refuse to be final -jujube",
-            "content_html": "<p>I keep finding pieces of myself <br>in the lines <br>that take too long to form a shape <br>in the colors <br>that wait too long to settle or to escape <br>Some marks connect, some break <br>All refuse to be final</p>\n<p>-jujube</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.jujubemonster.com/media/posts/138/portraitideas.png\" alt=\"watercolor and ink drawing of a young woman, messy sketch vibe\" width=\"500\" height=\"377\"></figure>",
-            "image": "https://www.jujubemonster.com/media/posts/138/portraitideas-2.png",
-            "author": {
-                "name": "Jujube"
-            },
-            "tags": [
-                   "poetry",
-                   "jujube"
-            ],
-            "date_published": "2026-08-30T10:31:31-07:00",
-            "date_modified": "2026-08-31T08:07:03-07:00"
-        },
-        {
-            "id": "https://www.jujubemonster.com/cats-of-the-week-5.html",
-            "url": "https://www.jujubemonster.com/cats-of-the-week-5.html",
-            "title": "Cats of the Week",
-            "summary": "Animation",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/137/gallery/huhcat.png\" data-size=\"864x651\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/137/gallery/huhcat-thumbnail.png\" alt=\"White cat with a black head leaping through a blue sky above a mouse on desert sand\" width=\"720\" height=\"543\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/137/gallery/smokingcafecat.png\" data-size=\"648x860\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/137/gallery/smokingcafecat-thumbnail.png\" alt=\"Woman with a black bob sitting at a cafe table beside a blue-eyed leopard-spotted cat\" width=\"648\" height=\"860\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/137/gallery/headddresscat.png\" data-size=\"576x764\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/137/gallery/headddresscat-thumbnail.png\" alt=\"White cat sitting on a gold sofa under a tall rainbow headdress and peacock-like tail\" width=\"576\" height=\"764\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/137/gallery/hoodedcat.png\" data-size=\"648x860\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/137/gallery/hoodedcat-thumbnail.png\" alt=\"Cat in an oversized blue hooded coat standing on a rainy city street at night\" width=\"648\" height=\"860\"></a></figure>\n</div></div>\n<p><a href=\"https://x.com/JujubeTing/status/2092268130768924799?s=20\" target=\"_blank\" rel=\"noopener noreferrer\">Animation</a></p>",
-            "image": "https://www.jujubemonster.com/media/posts/137/2ndfloor.png",
-            "author": {
-                "name": "Jujube"
-            },
-            "tags": [
-                   "cat"
-            ],
-            "date_published": "2026-08-29T08:55:35-07:00",
-            "date_modified": "2026-08-31T07:59:25-07:00"
         }
     ]
 }
