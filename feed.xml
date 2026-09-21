@@ -3,12 +3,109 @@
     <title>jujube monster</title>
     <link href="https://www.jujubemonster.com/feed.xml" rel="self" />
     <link href="https://www.jujubemonster.com" />
-    <updated>2026-09-16T10:05:35-07:00</updated>
+    <updated>2026-09-19T09:07:48-07:00</updated>
     <author>
         <name>Jujube</name>
     </author>
     <id>https://www.jujubemonster.com</id>
 
+    <entry>
+        <title>Bling Bling</title>
+        <author>
+            <name>Jujube</name>
+        </author>
+        <link href="https://www.jujubemonster.com/bling-bling.html"/>
+        <id>https://www.jujubemonster.com/bling-bling.html</id>
+        <media:content url="https://www.jujubemonster.com/media/posts/151/magicflower.png" medium="image" />
+            <category term="ai-art"/>
+
+        <updated>2026-09-19T09:07:48-07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.jujubemonster.com/media/posts/151/magicflower.png" class="type:primaryImage" alt="etheral flowers with morning dew" /></p>
+                <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/151/gallery/giraffbalcony.png" data-size="576x765"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/151/gallery/giraffbalcony-thumbnail.png" alt="" width="576" height="765"></a></figure>
+<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/151/gallery/kid5.jpeg" data-size="1728x2574"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/151/gallery/kid5-thumbnail.jpeg" alt="" width="720" height="1073"></a></figure>
+<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/151/gallery/magicflower.png" data-size="864x651"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/151/gallery/magicflower-thumbnail.png" alt="" width="720" height="543"></a></figure>
+<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/151/gallery/monsterwing1.png" data-size="576x765"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/151/gallery/monsterwing1-thumbnail.png" alt="" width="576" height="765"></a></figure>
+<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/151/gallery/superfluffy.png" data-size="648x860"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/151/gallery/superfluffy-thumbnail.png" alt="" width="648" height="860"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Upon the Sight of a Beautiful Picture</title>
+        <author>
+            <name>Jujube</name>
+        </author>
+        <link href="https://www.jujubemonster.com/upon-the-sight-of-a-beautiful-picture.html"/>
+        <id>https://www.jujubemonster.com/upon-the-sight-of-a-beautiful-picture.html</id>
+        <media:content url="https://www.jujubemonster.com/media/posts/150/chase-2.png" medium="image" />
+            <category term="poetry"/>
+
+        <updated>2026-09-19T09:00:45-07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://www.jujubemonster.com/media/posts/150/chase-2.png" alt="expressive pastel painting of Spanish bullfighting" />
+                    Thou, with ambition modest yet sublime, Here, for the sight of mortal man, hast given To one brief moment caught from fleeting time The appropriate calm of blest eternity. -- William Wordsworth
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.jujubemonster.com/media/posts/150/chase-2.png" class="type:primaryImage" alt="expressive pastel painting of Spanish bullfighting" /></p>
+                <div class="" data-block="true" data-editor="d34eb" data-offset-key="d2kce-0-0">
+<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="d2kce-0-0"><span data-offset-key="d2kce-0-0">Thou, with ambition modest yet sublime,</span></div>
+</div>
+<div class="" data-block="true" data-editor="d34eb" data-offset-key="26su3-0-0">
+<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="26su3-0-0"><span data-offset-key="26su3-0-0">Here, for the sight of mortal man, hast given</span></div>
+</div>
+<div class="" data-block="true" data-editor="d34eb" data-offset-key="9lqpv-0-0">
+<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="9lqpv-0-0"><span data-offset-key="9lqpv-0-0">To one brief moment caught from fleeting time</span></div>
+</div>
+<div class="" data-block="true" data-editor="d34eb" data-offset-key="82hbn-0-0">
+<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="82hbn-0-0"><span data-offset-key="82hbn-0-0">The appropriate calm of blest eternity.</span></div>
+<div data-offset-key="82hbn-0-0"> </div>
+</div>
+<div class="" data-block="true" data-editor="d34eb" data-offset-key="d3l8-0-0">
+<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="d3l8-0-0"><span data-offset-key="d3l8-0-0">-- William Wordsworth</span></div>
+<div data-offset-key="d3l8-0-0"> </div>
+<div data-offset-key="d3l8-0-0"><figure class="post__image"><img loading="lazy"  src="https://www.jujubemonster.com/media/posts/150/chase.png" alt="" width="500" height="377"></figure></div>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Cats of the Week</title>
+        <author>
+            <name>Jujube</name>
+        </author>
+        <link href="https://www.jujubemonster.com/cats-of-the-week-8.html"/>
+        <id>https://www.jujubemonster.com/cats-of-the-week-8.html</id>
+        <media:content url="https://www.jujubemonster.com/media/posts/149/punkgothic.png" medium="image" />
+            <category term="cat"/>
+
+        <updated>2026-09-19T08:57:29-07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://www.jujubemonster.com/media/posts/149/punkgothic.png" alt="gothic girl looking at a cat" />
+                    Animation:
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.jujubemonster.com/media/posts/149/punkgothic.png" class="type:primaryImage" alt="gothic girl looking at a cat" /></p>
+                <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/149/gallery/floralcatprint.png" data-size="792x597"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/149/gallery/floralcatprint-thumbnail.png" alt="" width="720" height="543"></a></figure>
+<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/149/gallery/catbrush.png" data-size="864x651"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/149/gallery/catbrush-thumbnail.png" alt="" width="720" height="543"></a></figure>
+<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/149/gallery/punkgothic.png" data-size="792x792"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/149/gallery/punkgothic-thumbnail.png" alt="" width="720" height="720"></a></figure>
+<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/149/gallery/spidercatcach.png" data-size="720x956"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/149/gallery/spidercatcach-thumbnail.png" alt="" width="720" height="956"></a></figure>
+</div></div>
+<p>Animation:</p>
+<figure class="post__image"><a href="https://x.com/JujubeTing/status/2101324979266802111?s=20"  target="_blank" rel="noopener noreferrer"><img class="post__image" src="https://www.jujubemonster.com/media/posts/149/catbrush.png" alt="" width="300" height="226"></figure>    </a> <a href="https://x.com/JujubeTing/status/2099148606137909423?s=20" class="post__image" target="_blank" rel="noopener noreferrer"><figure class="post__image"><img loading="lazy"  src="https://www.jujubemonster.com/media/posts/149/spidercatcach.png" alt="" width="300" height="398"></figure></a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Beauty + Attitude</title>
         <author>
@@ -182,84 +279,6 @@
 <figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/142/gallery/adventurecat.png" data-size="1008x759"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/142/gallery/adventurecat-thumbnail.png" alt="cat with travel gear and lanturn, under the moon" width="720" height="542"></a></figure>
 <figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/142/gallery/catbeer.png" data-size="648x864"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/142/gallery/catbeer-thumbnail.png" alt="grrumpy cat looks at a beer bottle" width="648" height="864"></a></figure>
 </div></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Punk Girls</title>
-        <author>
-            <name>Jujube</name>
-        </author>
-        <link href="https://www.jujubemonster.com/punk-girls.html"/>
-        <id>https://www.jujubemonster.com/punk-girls.html</id>
-        <media:content url="https://www.jujubemonster.com/media/posts/141/blue-eyes.jpg" medium="image" />
-            <category term="fashion"/>
-            <category term="ai-art"/>
-
-        <updated>2026-09-02T16:17:43-07:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.jujubemonster.com/media/posts/141/blue-eyes.jpg" class="type:primaryImage" alt="Beautiful punk girl with blue eyes and hoody" /></p>
-                <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
-<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/141/gallery/blue-eyes.jpg" data-size="1700x2259"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/141/gallery/blue-eyes-thumbnail.jpg" alt="" width="720" height="957"></a></figure>
-<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/141/gallery/smokinghot2.png" data-size="667x864"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/141/gallery/smokinghot2-thumbnail.png" alt="" width="667" height="864"></a></figure>
-<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/141/gallery/punkwhitehair.png" data-size="576x765"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/141/gallery/punkwhitehair-thumbnail.png" alt="" width="576" height="765"></a></figure>
-<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/141/gallery/punkstare-2.png" data-size="648x860"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/141/gallery/punkstare-2-thumbnail.png" alt="" width="648" height="860"></a></figure>
-</div></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Cute Kids</title>
-        <author>
-            <name>Jujube</name>
-        </author>
-        <link href="https://www.jujubemonster.com/cute-kids.html"/>
-        <id>https://www.jujubemonster.com/cute-kids.html</id>
-        <media:content url="https://www.jujubemonster.com/media/posts/140/colorfullady.png" medium="image" />
-            <category term="ai-art"/>
-
-        <updated>2026-09-02T16:13:54-07:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.jujubemonster.com/media/posts/140/colorfullady.png" class="type:primaryImage" alt="portrait of a pretty girl with flower decorated in hair" /></p>
-                <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
-<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/140/gallery/dogcompanion.png" data-size="576x765"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/140/gallery/dogcompanion-thumbnail.png" alt="" width="576" height="765"></a></figure>
-<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/140/gallery/hippieflowergirl.png" data-size="720x956"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/140/gallery/hippieflowergirl-thumbnail.png" alt="" width="720" height="956"></a></figure>
-<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/140/gallery/kid2.jpeg" data-size="784x1168"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/140/gallery/kid2-thumbnail.jpeg" alt="" width="720" height="1073"></a></figure>
-<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/140/gallery/kid6.jpeg" data-size="2178x3244"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/140/gallery/kid6-thumbnail.jpeg" alt="" width="720" height="1072"></a></figure>
-<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/140/gallery/encountermini.png" data-size="1232x928"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/140/gallery/encountermini-thumbnail.png" alt="" width="720" height="542"></a></figure>
-<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/140/gallery/owlfriend.png" data-size="864x651"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/140/gallery/owlfriend-thumbnail.png" alt="" width="720" height="543"></a></figure>
-<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/140/gallery/kidportrait.png" data-size="864x1147"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/140/gallery/kidportrait-thumbnail.png" alt="" width="720" height="956"></a></figure>
-<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/140/gallery/magic2.png" data-size="792x1051"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/140/gallery/magic2-thumbnail.png" alt="" width="720" height="955"></a></figure>
-</div></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Fun Videos of the Week</title>
-        <author>
-            <name>Jujube</name>
-        </author>
-        <link href="https://www.jujubemonster.com/fun-videos-of-the-week.html"/>
-        <id>https://www.jujubemonster.com/fun-videos-of-the-week.html</id>
-        <media:content url="https://www.jujubemonster.com/media/posts/139/skullbbird-2.png" medium="image" />
-            <category term="video"/>
-            <category term="ai-art"/>
-
-        <updated>2026-09-02T15:46:00-07:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.jujubemonster.com/media/posts/139/skullbbird-2.png" class="type:primaryImage" alt="red bird standing on a decorated skull" /></p>
-                <figure class="post__image"><video loading="lazy" width="300" height="300" controls="controls">
-<source src="media/files/self.mp4" type="video/mp4" /></video></figure>
-<figure class="post__video"><video loading="lazy" width="300" height="400" controls="controls">
-<source src="media/files/skullbirdbounce.mp4" type="video/mp4" /></video></figure>
-<figure class="post__image"><video loading="lazy" width="300" height="400" controls="controls">
-<source src="media/files/funfriday.mp4" type="video/mp4" /></video></figure>
             ]]>
         </content>
     </entry>

@@ -10,6 +10,53 @@
     },
     "items": [
         {
+            "id": "https://www.jujubemonster.com/bling-bling.html",
+            "url": "https://www.jujubemonster.com/bling-bling.html",
+            "title": "Bling Bling",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/151/gallery/giraffbalcony.png\" data-size=\"576x765\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/151/gallery/giraffbalcony-thumbnail.png\" alt=\"\" width=\"576\" height=\"765\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/151/gallery/kid5.jpeg\" data-size=\"1728x2574\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/151/gallery/kid5-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"1073\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/151/gallery/magicflower.png\" data-size=\"864x651\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/151/gallery/magicflower-thumbnail.png\" alt=\"\" width=\"720\" height=\"543\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/151/gallery/monsterwing1.png\" data-size=\"576x765\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/151/gallery/monsterwing1-thumbnail.png\" alt=\"\" width=\"576\" height=\"765\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/151/gallery/superfluffy.png\" data-size=\"648x860\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/151/gallery/superfluffy-thumbnail.png\" alt=\"\" width=\"648\" height=\"860\"></a></figure>\n</div></div>",
+            "image": "https://www.jujubemonster.com/media/posts/151/magicflower.png",
+            "author": {
+                "name": "Jujube"
+            },
+            "tags": [
+                   "ai-art"
+            ],
+            "date_published": "2026-09-19T09:07:48-07:00",
+            "date_modified": "2026-09-19T09:07:48-07:00"
+        },
+        {
+            "id": "https://www.jujubemonster.com/upon-the-sight-of-a-beautiful-picture.html",
+            "url": "https://www.jujubemonster.com/upon-the-sight-of-a-beautiful-picture.html",
+            "title": "Upon the Sight of a Beautiful Picture",
+            "summary": "Thou, with ambition modest yet sublime, Here, for the sight of mortal man, hast given To one brief moment caught from fleeting time The appropriate calm of blest eternity. -- William Wordsworth",
+            "content_html": "<div class=\"\" data-block=\"true\" data-editor=\"d34eb\" data-offset-key=\"d2kce-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"d2kce-0-0\"><span data-offset-key=\"d2kce-0-0\">Thou, with ambition modest yet sublime,</span></div>\n</div>\n<div class=\"\" data-block=\"true\" data-editor=\"d34eb\" data-offset-key=\"26su3-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"26su3-0-0\"><span data-offset-key=\"26su3-0-0\">Here, for the sight of mortal man, hast given</span></div>\n</div>\n<div class=\"\" data-block=\"true\" data-editor=\"d34eb\" data-offset-key=\"9lqpv-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"9lqpv-0-0\"><span data-offset-key=\"9lqpv-0-0\">To one brief moment caught from fleeting time</span></div>\n</div>\n<div class=\"\" data-block=\"true\" data-editor=\"d34eb\" data-offset-key=\"82hbn-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"82hbn-0-0\"><span data-offset-key=\"82hbn-0-0\">The appropriate calm of blest eternity.</span></div>\n<div data-offset-key=\"82hbn-0-0\"> </div>\n</div>\n<div class=\"\" data-block=\"true\" data-editor=\"d34eb\" data-offset-key=\"d3l8-0-0\">\n<div class=\"public-DraftStyleDefault-block public-DraftStyleDefault-ltr\" data-offset-key=\"d3l8-0-0\"><span data-offset-key=\"d3l8-0-0\">-- William Wordsworth</span></div>\n<div data-offset-key=\"d3l8-0-0\"> </div>\n<div data-offset-key=\"d3l8-0-0\"><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.jujubemonster.com/media/posts/150/chase.png\" alt=\"\" width=\"500\" height=\"377\"></figure></div>\n</div>",
+            "image": "https://www.jujubemonster.com/media/posts/150/chase-2.png",
+            "author": {
+                "name": "Jujube"
+            },
+            "tags": [
+                   "poetry"
+            ],
+            "date_published": "2026-09-19T09:00:45-07:00",
+            "date_modified": "2026-09-19T09:00:45-07:00"
+        },
+        {
+            "id": "https://www.jujubemonster.com/cats-of-the-week-8.html",
+            "url": "https://www.jujubemonster.com/cats-of-the-week-8.html",
+            "title": "Cats of the Week",
+            "summary": "Animation:",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/149/gallery/floralcatprint.png\" data-size=\"792x597\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/149/gallery/floralcatprint-thumbnail.png\" alt=\"\" width=\"720\" height=\"543\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/149/gallery/catbrush.png\" data-size=\"864x651\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/149/gallery/catbrush-thumbnail.png\" alt=\"\" width=\"720\" height=\"543\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/149/gallery/punkgothic.png\" data-size=\"792x792\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/149/gallery/punkgothic-thumbnail.png\" alt=\"\" width=\"720\" height=\"720\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/149/gallery/spidercatcach.png\" data-size=\"720x956\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/149/gallery/spidercatcach-thumbnail.png\" alt=\"\" width=\"720\" height=\"956\"></a></figure>\n</div></div>\n<p>Animation:</p>\n<figure class=\"post__image\"><a href=\"https://x.com/JujubeTing/status/2101324979266802111?s=20\"  target=\"_blank\" rel=\"noopener noreferrer\"><img class=\"post__image\" src=\"https://www.jujubemonster.com/media/posts/149/catbrush.png\" alt=\"\" width=\"300\" height=\"226\"></figure>    </a> <a href=\"https://x.com/JujubeTing/status/2099148606137909423?s=20\" class=\"post__image\" target=\"_blank\" rel=\"noopener noreferrer\"><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.jujubemonster.com/media/posts/149/spidercatcach.png\" alt=\"\" width=\"300\" height=\"398\"></figure></a></p>",
+            "image": "https://www.jujubemonster.com/media/posts/149/punkgothic.png",
+            "author": {
+                "name": "Jujube"
+            },
+            "tags": [
+                   "cat"
+            ],
+            "date_published": "2026-09-19T08:57:29-07:00",
+            "date_modified": "2026-09-19T08:57:29-07:00"
+        },
+        {
             "id": "https://www.jujubemonster.com/beauty-attitude.html",
             "url": "https://www.jujubemonster.com/beauty-attitude.html",
             "title": "Beauty + Attitude",
@@ -116,53 +163,6 @@
             ],
             "date_published": "2026-09-06T09:17:22-07:00",
             "date_modified": "2026-09-07T13:44:56-07:00"
-        },
-        {
-            "id": "https://www.jujubemonster.com/punk-girls.html",
-            "url": "https://www.jujubemonster.com/punk-girls.html",
-            "title": "Punk Girls",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/141/gallery/blue-eyes.jpg\" data-size=\"1700x2259\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/141/gallery/blue-eyes-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"957\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/141/gallery/smokinghot2.png\" data-size=\"667x864\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/141/gallery/smokinghot2-thumbnail.png\" alt=\"\" width=\"667\" height=\"864\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/141/gallery/punkwhitehair.png\" data-size=\"576x765\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/141/gallery/punkwhitehair-thumbnail.png\" alt=\"\" width=\"576\" height=\"765\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/141/gallery/punkstare-2.png\" data-size=\"648x860\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/141/gallery/punkstare-2-thumbnail.png\" alt=\"\" width=\"648\" height=\"860\"></a></figure>\n</div></div>",
-            "image": "https://www.jujubemonster.com/media/posts/141/blue-eyes.jpg",
-            "author": {
-                "name": "Jujube"
-            },
-            "tags": [
-                   "fashion",
-                   "ai-art"
-            ],
-            "date_published": "2026-09-02T16:17:43-07:00",
-            "date_modified": "2026-09-02T16:19:25-07:00"
-        },
-        {
-            "id": "https://www.jujubemonster.com/cute-kids.html",
-            "url": "https://www.jujubemonster.com/cute-kids.html",
-            "title": "Cute Kids",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/140/gallery/dogcompanion.png\" data-size=\"576x765\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/140/gallery/dogcompanion-thumbnail.png\" alt=\"\" width=\"576\" height=\"765\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/140/gallery/hippieflowergirl.png\" data-size=\"720x956\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/140/gallery/hippieflowergirl-thumbnail.png\" alt=\"\" width=\"720\" height=\"956\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/140/gallery/kid2.jpeg\" data-size=\"784x1168\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/140/gallery/kid2-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"1073\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/140/gallery/kid6.jpeg\" data-size=\"2178x3244\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/140/gallery/kid6-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"1072\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/140/gallery/encountermini.png\" data-size=\"1232x928\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/140/gallery/encountermini-thumbnail.png\" alt=\"\" width=\"720\" height=\"542\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/140/gallery/owlfriend.png\" data-size=\"864x651\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/140/gallery/owlfriend-thumbnail.png\" alt=\"\" width=\"720\" height=\"543\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/140/gallery/kidportrait.png\" data-size=\"864x1147\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/140/gallery/kidportrait-thumbnail.png\" alt=\"\" width=\"720\" height=\"956\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/140/gallery/magic2.png\" data-size=\"792x1051\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/140/gallery/magic2-thumbnail.png\" alt=\"\" width=\"720\" height=\"955\"></a></figure>\n</div></div>",
-            "image": "https://www.jujubemonster.com/media/posts/140/colorfullady.png",
-            "author": {
-                "name": "Jujube"
-            },
-            "tags": [
-                   "ai-art"
-            ],
-            "date_published": "2026-09-02T16:13:54-07:00",
-            "date_modified": "2026-09-02T16:13:54-07:00"
-        },
-        {
-            "id": "https://www.jujubemonster.com/fun-videos-of-the-week.html",
-            "url": "https://www.jujubemonster.com/fun-videos-of-the-week.html",
-            "title": "Fun Videos of the Week",
-            "content_html": "<figure class=\"post__image\"><video loading=\"lazy\" width=\"300\" height=\"300\" controls=\"controls\">\n<source src=\"media/files/self.mp4\" type=\"video/mp4\" /></video></figure>\n<figure class=\"post__video\"><video loading=\"lazy\" width=\"300\" height=\"400\" controls=\"controls\">\n<source src=\"media/files/skullbirdbounce.mp4\" type=\"video/mp4\" /></video></figure>\n<figure class=\"post__image\"><video loading=\"lazy\" width=\"300\" height=\"400\" controls=\"controls\">\n<source src=\"media/files/funfriday.mp4\" type=\"video/mp4\" /></video></figure>",
-            "image": "https://www.jujubemonster.com/media/posts/139/skullbbird-2.png",
-            "author": {
-                "name": "Jujube"
-            },
-            "tags": [
-                   "video",
-                   "ai-art"
-            ],
-            "date_published": "2026-09-02T15:46:00-07:00",
-            "date_modified": "2026-09-12T08:10:50-07:00"
         }
     ]
 }
