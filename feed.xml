@@ -3,12 +3,64 @@
     <title>jujube monster</title>
     <link href="https://www.jujubemonster.com/feed.xml" rel="self" />
     <link href="https://www.jujubemonster.com" />
-    <updated>2026-09-19T09:07:48-07:00</updated>
+    <updated>2026-09-23T09:17:59-07:00</updated>
     <author>
         <name>Jujube</name>
     </author>
     <id>https://www.jujubemonster.com</id>
 
+    <entry>
+        <title>Dragons, Dragons</title>
+        <author>
+            <name>Jujube</name>
+        </author>
+        <link href="https://www.jujubemonster.com/dragons-dragons.html"/>
+        <id>https://www.jujubemonster.com/dragons-dragons.html</id>
+        <media:content url="https://www.jujubemonster.com/media/posts/153/lunchvisiter.png" medium="image" />
+            <category term="ai-art"/>
+
+        <updated>2026-09-23T09:17:59-07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.jujubemonster.com/media/posts/153/lunchvisiter.png" class="type:primaryImage" alt="Dragon watching a girl having noodle" /></p>
+                <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/153/gallery/morningcoffee.png" data-size="648x860"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/153/gallery/morningcoffee-thumbnail.png" alt="" width="648" height="860"></a></figure>
+<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/153/gallery/dragonramen.png" data-size="648x860"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/153/gallery/dragonramen-thumbnail.png" alt="" width="648" height="860"></a></figure>
+<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/153/gallery/lunchvisiter.png" data-size="648x860"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/153/gallery/lunchvisiter-thumbnail.png" alt="" width="648" height="860"></a></figure>
+<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/153/gallery/dragonramen2.png" data-size="720x956"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/153/gallery/dragonramen2-thumbnail.png" alt="" width="720" height="956"></a></figure>
+<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/153/gallery/prrettydragon.png" data-size="720x956"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/153/gallery/prrettydragon-thumbnail.png" alt="" width="720" height="956"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Oriental Beauty</title>
+        <author>
+            <name>Jujube</name>
+        </author>
+        <link href="https://www.jujubemonster.com/oriental-beauty.html"/>
+        <id>https://www.jujubemonster.com/oriental-beauty.html</id>
+        <media:content url="https://www.jujubemonster.com/media/posts/152/butterfly.png" medium="image" />
+            <category term="ai-art"/>
+
+        <updated>2026-09-23T09:15:19-07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.jujubemonster.com/media/posts/152/butterfly.png" class="type:primaryImage" alt="Ancient Chinese beauty with butterfly and peonies" /></p>
+                <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/152/gallery/japanesebeauty.png" data-size="720x956"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/152/gallery/japanesebeauty-thumbnail.png" alt="" width="720" height="956"></a></figure>
+<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/152/gallery/asianbeauty.png" data-size="720x956"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/152/gallery/asianbeauty-thumbnail.png" alt="" width="720" height="956"></a></figure>
+<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/152/gallery/cutesteampunk.png" data-size="648x860"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/152/gallery/cutesteampunk-thumbnail.png" alt="" width="648" height="860"></a></figure>
+<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/152/gallery/modernbeauty.png" data-size="792x1051"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/152/gallery/modernbeauty-thumbnail.png" alt="" width="720" height="955"></a></figure>
+<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/152/gallery/flight2.png" data-size="720x956"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/152/gallery/flight2-thumbnail.png" alt="" width="720" height="956"></a></figure>
+<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/152/gallery/petalwine.png" data-size="651x864"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/152/gallery/petalwine-thumbnail.png" alt="" width="651" height="864"></a></figure>
+<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/152/gallery/butterfly.png" data-size="576x765"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/152/gallery/butterfly-thumbnail.png" alt="" width="576" height="765"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Bling Bling</title>
         <author>
@@ -229,56 +281,6 @@
 </div></div>
 <figure class="post__video"><video loading="lazy" width="300" height="300" controls="controls" data-mce-fragment="1">
 <source src="media/files/blondmodel.mp4" type="video/mp4" /></video></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>There is a Solitude of Space</title>
-        <author>
-            <name>Jujube</name>
-        </author>
-        <link href="https://www.jujubemonster.com/there-is-a-solitude-of-space.html"/>
-        <id>https://www.jujubemonster.com/there-is-a-solitude-of-space.html</id>
-        <media:content url="https://www.jujubemonster.com/media/posts/143/tutu-2.png" medium="image" />
-            <category term="poetry"/>
-
-        <updated>2026-09-06T09:21:19-07:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://www.jujubemonster.com/media/posts/143/tutu-2.png" alt="a cute lonely rabbit sitting on the counter of a bar, retro photography" />
-                    There is a solitude of space A solitude of sea A solitude of death, but these Society shall be Compared with that profounder site That polar privacy A soul admitted to itself – Finite infinity. -- Emily Dickinson
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.jujubemonster.com/media/posts/143/tutu-2.png" class="type:primaryImage" alt="a cute lonely rabbit sitting on the counter of a bar, retro photography" /></p>
-                <p>There is a solitude of space <br>A solitude of sea <br>A solitude of death, but these <br>Society shall be <br>Compared with that profounder site <br>That polar privacy <br>A soul admitted to itself – <br>Finite infinity.</p>
-<p>-- Emily Dickinson</p>
-<figure class="post__image"><img loading="lazy"  src="https://www.jujubemonster.com/media/posts/143/tutu.png" alt="a cute lonely rabbit sitting on the counter of a bar, retro photography " width="500" height="664"></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Cats of the Week</title>
-        <author>
-            <name>Jujube</name>
-        </author>
-        <link href="https://www.jujubemonster.com/cats-of-the-week-6.html"/>
-        <id>https://www.jujubemonster.com/cats-of-the-week-6.html</id>
-        <media:content url="https://www.jujubemonster.com/media/posts/142/firececatbw.png" medium="image" />
-            <category term="cat"/>
-
-        <updated>2026-09-06T09:17:22-07:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.jujubemonster.com/media/posts/142/firececatbw.png" class="type:primaryImage" alt="fierce cat wiith black and white pattern, oriental vibe" /></p>
-                <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
-<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/142/gallery/anotherbeer.png" data-size="576x765"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/142/gallery/anotherbeer-thumbnail.png" alt="drunken cat with a beer bottle" width="576" height="765"></a></figure>
-<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/142/gallery/firececatbw.png" data-size="792x792"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/142/gallery/firececatbw-thumbnail.png" alt="fierce cat with black an white patterns" width="720" height="720"></a></figure>
-<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/142/gallery/adventurecat.png" data-size="1008x759"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/142/gallery/adventurecat-thumbnail.png" alt="cat with travel gear and lanturn, under the moon" width="720" height="542"></a></figure>
-<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/142/gallery/catbeer.png" data-size="648x864"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/142/gallery/catbeer-thumbnail.png" alt="grrumpy cat looks at a beer bottle" width="648" height="864"></a></figure>
-</div></div>
             ]]>
         </content>
     </entry>

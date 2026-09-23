@@ -10,6 +10,36 @@
     },
     "items": [
         {
+            "id": "https://www.jujubemonster.com/dragons-dragons.html",
+            "url": "https://www.jujubemonster.com/dragons-dragons.html",
+            "title": "Dragons, Dragons",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/153/gallery/morningcoffee.png\" data-size=\"648x860\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/153/gallery/morningcoffee-thumbnail.png\" alt=\"\" width=\"648\" height=\"860\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/153/gallery/dragonramen.png\" data-size=\"648x860\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/153/gallery/dragonramen-thumbnail.png\" alt=\"\" width=\"648\" height=\"860\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/153/gallery/lunchvisiter.png\" data-size=\"648x860\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/153/gallery/lunchvisiter-thumbnail.png\" alt=\"\" width=\"648\" height=\"860\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/153/gallery/dragonramen2.png\" data-size=\"720x956\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/153/gallery/dragonramen2-thumbnail.png\" alt=\"\" width=\"720\" height=\"956\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/153/gallery/prrettydragon.png\" data-size=\"720x956\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/153/gallery/prrettydragon-thumbnail.png\" alt=\"\" width=\"720\" height=\"956\"></a></figure>\n</div></div>",
+            "image": "https://www.jujubemonster.com/media/posts/153/lunchvisiter.png",
+            "author": {
+                "name": "Jujube"
+            },
+            "tags": [
+                   "ai-art"
+            ],
+            "date_published": "2026-09-23T09:17:59-07:00",
+            "date_modified": "2026-09-23T09:17:59-07:00"
+        },
+        {
+            "id": "https://www.jujubemonster.com/oriental-beauty.html",
+            "url": "https://www.jujubemonster.com/oriental-beauty.html",
+            "title": "Oriental Beauty",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/152/gallery/japanesebeauty.png\" data-size=\"720x956\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/152/gallery/japanesebeauty-thumbnail.png\" alt=\"\" width=\"720\" height=\"956\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/152/gallery/asianbeauty.png\" data-size=\"720x956\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/152/gallery/asianbeauty-thumbnail.png\" alt=\"\" width=\"720\" height=\"956\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/152/gallery/cutesteampunk.png\" data-size=\"648x860\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/152/gallery/cutesteampunk-thumbnail.png\" alt=\"\" width=\"648\" height=\"860\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/152/gallery/modernbeauty.png\" data-size=\"792x1051\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/152/gallery/modernbeauty-thumbnail.png\" alt=\"\" width=\"720\" height=\"955\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/152/gallery/flight2.png\" data-size=\"720x956\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/152/gallery/flight2-thumbnail.png\" alt=\"\" width=\"720\" height=\"956\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/152/gallery/petalwine.png\" data-size=\"651x864\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/152/gallery/petalwine-thumbnail.png\" alt=\"\" width=\"651\" height=\"864\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/152/gallery/butterfly.png\" data-size=\"576x765\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/152/gallery/butterfly-thumbnail.png\" alt=\"\" width=\"576\" height=\"765\"></a></figure>\n</div></div>",
+            "image": "https://www.jujubemonster.com/media/posts/152/butterfly.png",
+            "author": {
+                "name": "Jujube"
+            },
+            "tags": [
+                   "ai-art"
+            ],
+            "date_published": "2026-09-23T09:15:19-07:00",
+            "date_modified": "2026-09-23T09:15:19-07:00"
+        },
+        {
             "id": "https://www.jujubemonster.com/bling-bling.html",
             "url": "https://www.jujubemonster.com/bling-bling.html",
             "title": "Bling Bling",
@@ -132,37 +162,6 @@
             ],
             "date_published": "2026-09-12T08:08:39-07:00",
             "date_modified": "2026-09-12T08:12:04-07:00"
-        },
-        {
-            "id": "https://www.jujubemonster.com/there-is-a-solitude-of-space.html",
-            "url": "https://www.jujubemonster.com/there-is-a-solitude-of-space.html",
-            "title": "There is a Solitude of Space",
-            "summary": "There is a solitude of space A solitude of sea A solitude of death, but these Society shall be Compared with that profounder site That polar privacy A soul admitted to itself – Finite infinity. -- Emily Dickinson",
-            "content_html": "<p>There is a solitude of space <br>A solitude of sea <br>A solitude of death, but these <br>Society shall be <br>Compared with that profounder site <br>That polar privacy <br>A soul admitted to itself – <br>Finite infinity.</p>\n<p>-- Emily Dickinson</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.jujubemonster.com/media/posts/143/tutu.png\" alt=\"a cute lonely rabbit sitting on the counter of a bar, retro photography \" width=\"500\" height=\"664\"></figure>",
-            "image": "https://www.jujubemonster.com/media/posts/143/tutu-2.png",
-            "author": {
-                "name": "Jujube"
-            },
-            "tags": [
-                   "poetry"
-            ],
-            "date_published": "2026-09-06T09:21:19-07:00",
-            "date_modified": "2026-09-06T09:21:19-07:00"
-        },
-        {
-            "id": "https://www.jujubemonster.com/cats-of-the-week-6.html",
-            "url": "https://www.jujubemonster.com/cats-of-the-week-6.html",
-            "title": "Cats of the Week",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/142/gallery/anotherbeer.png\" data-size=\"576x765\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/142/gallery/anotherbeer-thumbnail.png\" alt=\"drunken cat with a beer bottle\" width=\"576\" height=\"765\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/142/gallery/firececatbw.png\" data-size=\"792x792\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/142/gallery/firececatbw-thumbnail.png\" alt=\"fierce cat with black an white patterns\" width=\"720\" height=\"720\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/142/gallery/adventurecat.png\" data-size=\"1008x759\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/142/gallery/adventurecat-thumbnail.png\" alt=\"cat with travel gear and lanturn, under the moon\" width=\"720\" height=\"542\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/142/gallery/catbeer.png\" data-size=\"648x864\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/142/gallery/catbeer-thumbnail.png\" alt=\"grrumpy cat looks at a beer bottle\" width=\"648\" height=\"864\"></a></figure>\n</div></div>",
-            "image": "https://www.jujubemonster.com/media/posts/142/firececatbw.png",
-            "author": {
-                "name": "Jujube"
-            },
-            "tags": [
-                   "cat"
-            ],
-            "date_published": "2026-09-06T09:17:22-07:00",
-            "date_modified": "2026-09-07T13:44:56-07:00"
         }
     ]
 }
