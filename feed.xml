@@ -3,12 +3,62 @@
     <title>jujube monster</title>
     <link href="https://www.jujubemonster.com/feed.xml" rel="self" />
     <link href="https://www.jujubemonster.com" />
-    <updated>2026-09-23T09:17:59-07:00</updated>
+    <updated>2026-09-28T15:31:30-07:00</updated>
     <author>
         <name>Jujube</name>
     </author>
     <id>https://www.jujubemonster.com</id>
 
+    <entry>
+        <title>Green</title>
+        <author>
+            <name>Jujube</name>
+        </author>
+        <link href="https://www.jujubemonster.com/green.html"/>
+        <id>https://www.jujubemonster.com/green.html</id>
+        <media:content url="https://www.jujubemonster.com/media/posts/155/Henri_Fantin_Latour-2.png" medium="image" />
+            <category term="poetry"/>
+
+        <updated>2026-09-28T15:30:22-07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://www.jujubemonster.com/media/posts/155/Henri_Fantin_Latour-2.png" alt="still life paitingin the style of Henri Fantin Latour" />
+                    “Voici des fruits, des fleurs, des feuilles et des branches, Et puis voici mon cœur qui ne bat que pour vous.” Here are fruits, flowers, leaves and branches and then here is my heart which beats only for you -- Paul Verlaine
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.jujubemonster.com/media/posts/155/Henri_Fantin_Latour-2.png" class="type:primaryImage" alt="still life paitingin the style of Henri Fantin Latour" /></p>
+                <p>“Voici des fruits, des fleurs, des feuilles et des branches,<br>Et puis voici mon cœur qui ne bat que pour vous.”</p>
+<p>Here are fruits, flowers, leaves and branches <br>and then here is my heart<br>which beats only for you</p>
+<p>-- Paul Verlaine</p>
+<figure class="post__image"><img loading="lazy"  src="https://www.jujubemonster.com/media/posts/155/Henri_Fantin_Latour.png" alt="" width="500" height="376"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Mid-Autumn Festival</title>
+        <author>
+            <name>Jujube</name>
+        </author>
+        <link href="https://www.jujubemonster.com/mid-autumn-festival.html"/>
+        <id>https://www.jujubemonster.com/mid-autumn-festival.html</id>
+        <media:content url="https://www.jujubemonster.com/media/posts/154/fullmoon2.png" medium="image" />
+            <category term="moon"/>
+            <category term="holiday"/>
+
+        <updated>2026-09-28T15:16:52-07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.jujubemonster.com/media/posts/154/fullmoon2.png" class="type:primaryImage" alt="pastel drawing of a rabbit sitting by a koii pond, dark night, bright moon, flowers around" /></p>
+                <figure class="post__video"><video loading="lazy" width="600" height="300" controls="controls" data-mce-fragment="1">
+<source src="media/files/2026moon.mp4" type="video/mp4" /></video></figure>
+<figure class="post__video"><video loading="lazy" width="600" height="300" controls="controls" data-mce-fragment="1">
+<source src="media/files/2026moon2.mp4" type="video/mp4" /></video></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Dragons, Dragons</title>
         <author>
@@ -229,58 +279,6 @@
 <figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/146/gallery/attitudeblue.png" data-size="648x860"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/146/gallery/attitudeblue-thumbnail.png" alt="" width="648" height="860"></a></figure>
 <figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/146/gallery/messycat.png" data-size="648x868"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/146/gallery/messycat-thumbnail.png" alt="" width="648" height="868"></a></figure>
 </div></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Weirdos of the Week</title>
-        <author>
-            <name>Jujube</name>
-        </author>
-        <link href="https://www.jujubemonster.com/weirdos-of-the-week.html"/>
-        <id>https://www.jujubemonster.com/weirdos-of-the-week.html</id>
-        <media:content url="https://www.jujubemonster.com/media/posts/145/skulldisguise.png" medium="image" />
-            <category term="ai-art"/>
-
-        <updated>2026-09-12T08:17:04-07:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.jujubemonster.com/media/posts/145/skulldisguise.png" class="type:primaryImage" alt="2d drawing of a skull wearing green hat, green floral coat" /></p>
-                <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
-<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/145/gallery/weirdbunch.png" data-size="648x860"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/145/gallery/weirdbunch-thumbnail.png" alt="2d drawing of weird creatures" width="648" height="860"></a></figure>
-<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/145/gallery/attitude.png" data-size="720x720"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/145/gallery/attitude-thumbnail.png" alt="blue creature photography" width="720" height="720"></a></figure>
-<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/145/gallery/seahorsebird.png" data-size="1100x1460"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/145/gallery/seahorsebird-thumbnail.png" alt="colorful bird never seen" width="720" height="956"></a></figure>
-<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/145/gallery/skulldisguise.png" data-size="720x956"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/145/gallery/skulldisguise-thumbnail.png" alt="skeleton in disguise 2d art" width="720" height="956"></a></figure>
-</div></div>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Golden Girls</title>
-        <author>
-            <name>Jujube</name>
-        </author>
-        <link href="https://www.jujubemonster.com/golden-girls.html"/>
-        <id>https://www.jujubemonster.com/golden-girls.html</id>
-        <media:content url="https://www.jujubemonster.com/media/posts/144/blonddesign.png" medium="image" />
-            <category term="fashion"/>
-            <category term="ai-art"/>
-
-        <updated>2026-09-12T08:08:39-07:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.jujubemonster.com/media/posts/144/blonddesign.png" class="type:primaryImage" alt="retro style blond model" /></p>
-                <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
-<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/144/gallery/golden.png" data-size="648x860"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/144/gallery/golden-thumbnail.png" alt="artistic rendition of golden girls" width="648" height="860"></a></figure>
-<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/144/gallery/grokedit.jpg" data-size="1296x1722"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/144/gallery/grokedit-thumbnail.jpg" alt="artistic rendition of golden girls" width="720" height="957"></a></figure>
-<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/144/gallery/sunny2.png" data-size="648x860"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/144/gallery/sunny2-thumbnail.png" alt="artistic rendition of golden girls" width="648" height="860"></a></figure>
-<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/144/gallery/sunny3.png" data-size="705x936"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/144/gallery/sunny3-thumbnail.png" alt="artistic rendition of golden girls" width="705" height="936"></a></figure>
-</div></div>
-<figure class="post__video"><video loading="lazy" width="300" height="300" controls="controls" data-mce-fragment="1">
-<source src="media/files/blondmodel.mp4" type="video/mp4" /></video></figure>
             ]]>
         </content>
     </entry>
