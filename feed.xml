@@ -3,12 +3,68 @@
     <title>jujube monster</title>
     <link href="https://www.jujubemonster.com/feed.xml" rel="self" />
     <link href="https://www.jujubemonster.com" />
-    <updated>2026-09-30T08:48:14-07:00</updated>
+    <updated>2026-09-30T09:05:41-07:00</updated>
     <author>
         <name>Jujube</name>
     </author>
     <id>https://www.jujubemonster.com</id>
 
+    <entry>
+        <title>I Wake and Feel the Fell of Dark, Not Day</title>
+        <author>
+            <name>Jujube</name>
+        </author>
+        <link href="https://www.jujubemonster.com/i-wake-and-feel-the-fell-of-dark-not-day.html"/>
+        <id>https://www.jujubemonster.com/i-wake-and-feel-the-fell-of-dark-not-day.html</id>
+        <media:content url="https://www.jujubemonster.com/media/posts/160/abstractalien-2.png" medium="image" />
+            <category term="poetry"/>
+
+        <updated>2026-09-30T09:05:41-07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://www.jujubemonster.com/media/posts/160/abstractalien-2.png" alt="scared and shocked face, collage, modern art" />
+                    I am gall, I am heartburn. God's most deep decree Bitter would have me taste: my taste was me; Bones built in me, flesh filled, blood brimmed the curse. Selfyeast of spirit a dull dough sours. I see The lost are like this, and their&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.jujubemonster.com/media/posts/160/abstractalien-2.png" class="type:primaryImage" alt="scared and shocked face, collage, modern art" /></p>
+                <p>I am gall, I am heartburn. God's most deep decree<br>Bitter would have me taste: my taste was me;<br>Bones built in me, flesh filled, blood brimmed the curse.<br><br>Selfyeast of spirit a dull dough sours. I see <br>The lost are like this, and their scourge to be<br>As I am mine, their sweating selves, but worse. </p>
+<p>-- Gerard Manley Hopkins (1844 –1889)</p>
+<figure class="post__image"><img loading="lazy"  src="https://www.jujubemonster.com/media/posts/160/abstractalien.png" alt="" width="500" height="663"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Cats of the Week</title>
+        <author>
+            <name>Jujube</name>
+        </author>
+        <link href="https://www.jujubemonster.com/cats-of-the-week-9.html"/>
+        <id>https://www.jujubemonster.com/cats-of-the-week-9.html</id>
+        <media:content url="https://www.jujubemonster.com/media/posts/159/purplelure.png" medium="image" />
+            <category term="cat"/>
+
+        <updated>2026-09-30T08:57:55-07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.jujubemonster.com/media/posts/159/purplelure.png" class="type:primaryImage" alt="exotic beautiful woman with her pet cat" /></p>
+                <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/159/gallery/funhaircut.png" data-size="648x860"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/159/gallery/funhaircut-thumbnail.png" alt="" width="648" height="860"></a></figure>
+<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/159/gallery/creepycat.png" data-size="648x860"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/159/gallery/creepycat-thumbnail.png" alt="" width="648" height="860"></a></figure>
+<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/159/gallery/catspider.png" data-size="648x860"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/159/gallery/catspider-thumbnail.png" alt="" width="648" height="860"></a></figure>
+<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/159/gallery/wingedcat.png" data-size="792x1051"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/159/gallery/wingedcat-thumbnail.png" alt="" width="720" height="955"></a></figure>
+<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/159/gallery/grokeditcat.jpg" data-size="1216x1616"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/159/gallery/grokeditcat-thumbnail.jpg" alt="" width="720" height="957"></a></figure>
+<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/159/gallery/purplelure.png" data-size="648x860"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/159/gallery/purplelure-thumbnail.png" alt="" width="648" height="860"></a></figure>
+</div></div>
+<div>
+<figure class="post__video"><video loading="lazy" width="300" height="150" controls="controls" data-mce-fragment="1">
+<source src="https://x.com/JujubeTing/status/2103881197592228260?s=20" /></video></figure>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Portraits and Faces</title>
         <author>
@@ -213,78 +269,6 @@
 <figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/151/gallery/monsterwing1.png" data-size="576x765"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/151/gallery/monsterwing1-thumbnail.png" alt="" width="576" height="765"></a></figure>
 <figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/151/gallery/superfluffy.png" data-size="648x860"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/151/gallery/superfluffy-thumbnail.png" alt="" width="648" height="860"></a></figure>
 </div></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Upon the Sight of a Beautiful Picture</title>
-        <author>
-            <name>Jujube</name>
-        </author>
-        <link href="https://www.jujubemonster.com/upon-the-sight-of-a-beautiful-picture.html"/>
-        <id>https://www.jujubemonster.com/upon-the-sight-of-a-beautiful-picture.html</id>
-        <media:content url="https://www.jujubemonster.com/media/posts/150/chase-2.png" medium="image" />
-            <category term="poetry"/>
-
-        <updated>2026-09-19T09:00:45-07:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://www.jujubemonster.com/media/posts/150/chase-2.png" alt="expressive pastel painting of Spanish bullfighting" />
-                    Thou, with ambition modest yet sublime, Here, for the sight of mortal man, hast given To one brief moment caught from fleeting time The appropriate calm of blest eternity. -- William Wordsworth
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.jujubemonster.com/media/posts/150/chase-2.png" class="type:primaryImage" alt="expressive pastel painting of Spanish bullfighting" /></p>
-                <div class="" data-block="true" data-editor="d34eb" data-offset-key="d2kce-0-0">
-<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="d2kce-0-0"><span data-offset-key="d2kce-0-0">Thou, with ambition modest yet sublime,</span></div>
-</div>
-<div class="" data-block="true" data-editor="d34eb" data-offset-key="26su3-0-0">
-<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="26su3-0-0"><span data-offset-key="26su3-0-0">Here, for the sight of mortal man, hast given</span></div>
-</div>
-<div class="" data-block="true" data-editor="d34eb" data-offset-key="9lqpv-0-0">
-<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="9lqpv-0-0"><span data-offset-key="9lqpv-0-0">To one brief moment caught from fleeting time</span></div>
-</div>
-<div class="" data-block="true" data-editor="d34eb" data-offset-key="82hbn-0-0">
-<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="82hbn-0-0"><span data-offset-key="82hbn-0-0">The appropriate calm of blest eternity.</span></div>
-<div data-offset-key="82hbn-0-0"> </div>
-</div>
-<div class="" data-block="true" data-editor="d34eb" data-offset-key="d3l8-0-0">
-<div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="d3l8-0-0"><span data-offset-key="d3l8-0-0">-- William Wordsworth</span></div>
-<div data-offset-key="d3l8-0-0"> </div>
-<div data-offset-key="d3l8-0-0"><figure class="post__image"><img loading="lazy"  src="https://www.jujubemonster.com/media/posts/150/chase.png" alt="" width="500" height="377"></figure></div>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Cats of the Week</title>
-        <author>
-            <name>Jujube</name>
-        </author>
-        <link href="https://www.jujubemonster.com/cats-of-the-week-8.html"/>
-        <id>https://www.jujubemonster.com/cats-of-the-week-8.html</id>
-        <media:content url="https://www.jujubemonster.com/media/posts/149/punkgothic.png" medium="image" />
-            <category term="cat"/>
-
-        <updated>2026-09-19T08:57:29-07:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://www.jujubemonster.com/media/posts/149/punkgothic.png" alt="gothic girl looking at a cat" />
-                    Animation:
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.jujubemonster.com/media/posts/149/punkgothic.png" class="type:primaryImage" alt="gothic girl looking at a cat" /></p>
-                <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
-<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/149/gallery/floralcatprint.png" data-size="792x597"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/149/gallery/floralcatprint-thumbnail.png" alt="" width="720" height="543"></a></figure>
-<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/149/gallery/catbrush.png" data-size="864x651"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/149/gallery/catbrush-thumbnail.png" alt="" width="720" height="543"></a></figure>
-<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/149/gallery/punkgothic.png" data-size="792x792"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/149/gallery/punkgothic-thumbnail.png" alt="" width="720" height="720"></a></figure>
-<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/149/gallery/spidercatcach.png" data-size="720x956"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/149/gallery/spidercatcach-thumbnail.png" alt="" width="720" height="956"></a></figure>
-</div></div>
-<p>Animation:</p>
-<figure class="post__image"><a href="https://x.com/JujubeTing/status/2101324979266802111?s=20"  target="_blank" rel="noopener noreferrer"><img class="post__image" src="https://www.jujubemonster.com/media/posts/149/catbrush.png" alt="" width="300" height="226"></figure>    </a> <a href="https://x.com/JujubeTing/status/2099148606137909423?s=20" class="post__image" target="_blank" rel="noopener noreferrer"><figure class="post__image"><img loading="lazy"  src="https://www.jujubemonster.com/media/posts/149/spidercatcach.png" alt="" width="300" height="398"></figure></a></p>
             ]]>
         </content>
     </entry>
