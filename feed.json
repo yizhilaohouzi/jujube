@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://www.jujubemonster.com/beauty-and-shadow.html",
+            "url": "https://www.jujubemonster.com/beauty-and-shadow.html",
+            "title": "Beauty and Shadow",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/161/gallery/officelady.jpg\" data-size=\"1216x1616\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/161/gallery/officelady-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"957\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/161/gallery/shadowumbrella.jpg\" data-size=\"1216x1616\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/161/gallery/shadowumbrella-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"957\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/161/gallery/umbrellashadow.png\" data-size=\"928x1232\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/161/gallery/umbrellashadow-thumbnail.png\" alt=\"\" width=\"720\" height=\"956\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/161/gallery/shadeshadow.png\" data-size=\"928x1232\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/161/gallery/shadeshadow-thumbnail.png\" alt=\"\" width=\"720\" height=\"956\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/161/gallery/lilygreen.png\" data-size=\"1232x928\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/161/gallery/lilygreen-thumbnail.png\" alt=\"\" width=\"720\" height=\"542\"></a></figure>\n</div></div>",
+            "image": "https://www.jujubemonster.com/media/posts/161/umbrellashadow.png",
+            "author": {
+                "name": "Jujube"
+            },
+            "tags": [
+                   "fashion",
+                   "ai-art"
+            ],
+            "date_published": "2026-10-10T08:02:47-07:00",
+            "date_modified": "2026-10-10T08:02:47-07:00"
+        },
+        {
             "id": "https://www.jujubemonster.com/i-wake-and-feel-the-fell-of-dark-not-day.html",
             "url": "https://www.jujubemonster.com/i-wake-and-feel-the-fell-of-dark-not-day.html",
             "title": "I Wake and Feel the Fell of Dark, Not Day",
@@ -147,21 +163,6 @@
             ],
             "date_published": "2026-09-23T09:15:19-07:00",
             "date_modified": "2026-09-23T09:15:19-07:00"
-        },
-        {
-            "id": "https://www.jujubemonster.com/bling-bling.html",
-            "url": "https://www.jujubemonster.com/bling-bling.html",
-            "title": "Bling Bling",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/151/gallery/giraffbalcony.png\" data-size=\"576x765\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/151/gallery/giraffbalcony-thumbnail.png\" alt=\"\" width=\"576\" height=\"765\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/151/gallery/kid5.jpeg\" data-size=\"1728x2574\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/151/gallery/kid5-thumbnail.jpeg\" alt=\"\" width=\"720\" height=\"1073\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/151/gallery/magicflower.png\" data-size=\"864x651\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/151/gallery/magicflower-thumbnail.png\" alt=\"\" width=\"720\" height=\"543\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/151/gallery/monsterwing1.png\" data-size=\"576x765\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/151/gallery/monsterwing1-thumbnail.png\" alt=\"\" width=\"576\" height=\"765\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/151/gallery/superfluffy.png\" data-size=\"648x860\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/151/gallery/superfluffy-thumbnail.png\" alt=\"\" width=\"648\" height=\"860\"></a></figure>\n</div></div>",
-            "image": "https://www.jujubemonster.com/media/posts/151/magicflower.png",
-            "author": {
-                "name": "Jujube"
-            },
-            "tags": [
-                   "ai-art"
-            ],
-            "date_published": "2026-09-19T09:07:48-07:00",
-            "date_modified": "2026-09-19T09:07:48-07:00"
         }
     ]
 }
