@@ -10,6 +10,38 @@
     },
     "items": [
         {
+            "id": "https://www.jujubemonster.com/our-furry-companions.html",
+            "url": "https://www.jujubemonster.com/our-furry-companions.html",
+            "title": "Our Furry Companions",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/163/gallery/mine.png\" data-size=\"648x860\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/163/gallery/mine-thumbnail.png\" alt=\"\" width=\"648\" height=\"860\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/163/gallery/rabbitwomanchecck.png\" data-size=\"864x651\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/163/gallery/rabbitwomanchecck-thumbnail.png\" alt=\"\" width=\"720\" height=\"543\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/163/gallery/whitehair.png\" data-size=\"792x792\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/163/gallery/whitehair-thumbnail.png\" alt=\"\" width=\"720\" height=\"720\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/163/gallery/umbrellawhitehair.jpg\" data-size=\"1216x1616\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/163/gallery/umbrellawhitehair-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"957\"></a></figure>\n</div></div>",
+            "image": "https://www.jujubemonster.com/media/posts/163/mine.png",
+            "author": {
+                "name": "Jujube"
+            },
+            "tags": [
+                   "cat",
+                   "ai-art"
+            ],
+            "date_published": "2026-10-11T08:47:14-07:00",
+            "date_modified": "2026-10-11T08:47:14-07:00"
+        },
+        {
+            "id": "https://www.jujubemonster.com/lines-composed-a-few-miles-above-tintern-abbey.html",
+            "url": "https://www.jujubemonster.com/lines-composed-a-few-miles-above-tintern-abbey.html",
+            "title": "Lines Composed a Few Miles above Tintern Abbey",
+            "summary": "That blessed mood, In which the burthen of the mystery, In which the heavy and the weary weight Of all this unintelligible world, Is lightened:—that serene and blessed mood, In which the affections gently lead us on, Until, the breath of this corporeal frame And&hellip;",
+            "content_html": "<p>That blessed mood, <br>In which the burthen of the mystery, <br>In which the heavy and the weary weight <br>Of all this unintelligible world, <br>Is lightened:—that serene and blessed mood, <br>In which the affections gently lead us on, <br>Until, the breath of this corporeal frame <br>And even the motion of our feline blood</p>\n<p>-- William Wordsworth (1770–1850)</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.jujubemonster.com/media/posts/162/catmissed.png\" alt=\"\" width=\"500\" height=\"377\"></figure>",
+            "image": "https://www.jujubemonster.com/media/posts/162/catmissed-2.png",
+            "author": {
+                "name": "Jujube"
+            },
+            "tags": [
+                   "poetry"
+            ],
+            "date_published": "2026-10-11T08:40:31-07:00",
+            "date_modified": "2026-10-11T08:40:31-07:00"
+        },
+        {
             "id": "https://www.jujubemonster.com/beauty-and-shadow.html",
             "url": "https://www.jujubemonster.com/beauty-and-shadow.html",
             "title": "Beauty and Shadow",
@@ -133,36 +165,6 @@
             ],
             "date_published": "2026-09-28T15:16:52-07:00",
             "date_modified": "2026-09-28T15:26:41-07:00"
-        },
-        {
-            "id": "https://www.jujubemonster.com/dragons-dragons.html",
-            "url": "https://www.jujubemonster.com/dragons-dragons.html",
-            "title": "Dragons, Dragons",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/153/gallery/morningcoffee.png\" data-size=\"648x860\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/153/gallery/morningcoffee-thumbnail.png\" alt=\"\" width=\"648\" height=\"860\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/153/gallery/dragonramen.png\" data-size=\"648x860\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/153/gallery/dragonramen-thumbnail.png\" alt=\"\" width=\"648\" height=\"860\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/153/gallery/lunchvisiter.png\" data-size=\"648x860\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/153/gallery/lunchvisiter-thumbnail.png\" alt=\"\" width=\"648\" height=\"860\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/153/gallery/dragonramen2.png\" data-size=\"720x956\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/153/gallery/dragonramen2-thumbnail.png\" alt=\"\" width=\"720\" height=\"956\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/153/gallery/prrettydragon.png\" data-size=\"720x956\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/153/gallery/prrettydragon-thumbnail.png\" alt=\"\" width=\"720\" height=\"956\"></a></figure>\n</div></div>",
-            "image": "https://www.jujubemonster.com/media/posts/153/lunchvisiter.png",
-            "author": {
-                "name": "Jujube"
-            },
-            "tags": [
-                   "ai-art"
-            ],
-            "date_published": "2026-09-23T09:17:59-07:00",
-            "date_modified": "2026-09-23T09:17:59-07:00"
-        },
-        {
-            "id": "https://www.jujubemonster.com/oriental-beauty.html",
-            "url": "https://www.jujubemonster.com/oriental-beauty.html",
-            "title": "Oriental Beauty",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/152/gallery/japanesebeauty.png\" data-size=\"720x956\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/152/gallery/japanesebeauty-thumbnail.png\" alt=\"\" width=\"720\" height=\"956\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/152/gallery/asianbeauty.png\" data-size=\"720x956\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/152/gallery/asianbeauty-thumbnail.png\" alt=\"\" width=\"720\" height=\"956\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/152/gallery/cutesteampunk.png\" data-size=\"648x860\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/152/gallery/cutesteampunk-thumbnail.png\" alt=\"\" width=\"648\" height=\"860\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/152/gallery/modernbeauty.png\" data-size=\"792x1051\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/152/gallery/modernbeauty-thumbnail.png\" alt=\"\" width=\"720\" height=\"955\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/152/gallery/flight2.png\" data-size=\"720x956\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/152/gallery/flight2-thumbnail.png\" alt=\"\" width=\"720\" height=\"956\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/152/gallery/petalwine.png\" data-size=\"651x864\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/152/gallery/petalwine-thumbnail.png\" alt=\"\" width=\"651\" height=\"864\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/152/gallery/butterfly.png\" data-size=\"576x765\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/152/gallery/butterfly-thumbnail.png\" alt=\"\" width=\"576\" height=\"765\"></a></figure>\n</div></div>",
-            "image": "https://www.jujubemonster.com/media/posts/152/butterfly.png",
-            "author": {
-                "name": "Jujube"
-            },
-            "tags": [
-                   "ai-art"
-            ],
-            "date_published": "2026-09-23T09:15:19-07:00",
-            "date_modified": "2026-09-23T09:15:19-07:00"
         }
     ]
 }
