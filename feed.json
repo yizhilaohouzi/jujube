@@ -10,6 +10,38 @@
     },
     "items": [
         {
+            "id": "https://www.jujubemonster.com/theres-a-certain-slant-of-light.html",
+            "url": "https://www.jujubemonster.com/theres-a-certain-slant-of-light.html",
+            "title": "There&#x27;s a Certain Slant of Light",
+            "summary": "There's a certain Slant of light, Winter Afternoons - That oppresses, like the Heft Of Cathedral Tunes - Heavenly Hurt, it gives us - We can find no scar, But internal difference - Where the Meanings, are - — Emily Dickinson",
+            "content_html": "<p>There's a certain Slant of light, <br>Winter Afternoons - <br>That oppresses, like the Heft <br>Of Cathedral Tunes - </p>\n<p>Heavenly Hurt, it gives us - <br>We can find no scar, <br>But internal difference - <br>Where the Meanings, are -</p>\n<p>— Emily Dickinson</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.jujubemonster.com/media/posts/165/lightwoman-2.png\" alt=\"\" width=\"500\" height=\"663\"></figure>",
+            "image": "https://www.jujubemonster.com/media/posts/165/lightwoman.png",
+            "author": {
+                "name": "Jujube"
+            },
+            "tags": [
+                   "poetry"
+            ],
+            "date_published": "2026-10-18T12:15:41-07:00",
+            "date_modified": "2026-10-18T12:15:41-07:00"
+        },
+        {
+            "id": "https://www.jujubemonster.com/cats-of-the-week-10.html",
+            "url": "https://www.jujubemonster.com/cats-of-the-week-10.html",
+            "title": "Cats of the Week",
+            "summary": "Click to see the animation:",
+            "content_html": "<p>Click to see the animation:</p>\n<p><a href=\"https://x.com/JujubeTing/status/2111474061532684339\" class=\"post__image\" target=\"_blank\" rel=\"noopener noreferrer\"><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.jujubemonster.com/media/posts/164/cateyes.png\" alt=\"\" width=\"300\" height=\"398\"></figure></a></p>\n<p><a href=\"https://x.com/JujubeTing/status/2111846012323250195\" class=\"post__image\" target=\"_blank\" rel=\"noopener noreferrer\"><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.jujubemonster.com/media/posts/164/poor.png\" alt=\"\" width=\"350\" height=\"264\"></figure></a></p>\n<p><a href=\"https://x.com/JujubeTing/status/2111481611409891773\" class=\"post__image\" target=\"_blank\" rel=\"noopener noreferrer\"><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.jujubemonster.com/media/posts/164/smokingblackcat-2.png\" alt=\"\" width=\"350\" height=\"264\"></figure></a></p>",
+            "image": "https://www.jujubemonster.com/media/posts/164/catninja.png",
+            "author": {
+                "name": "Jujube"
+            },
+            "tags": [
+                   "cat"
+            ],
+            "date_published": "2026-10-18T12:10:58-07:00",
+            "date_modified": "2026-10-18T12:10:58-07:00"
+        },
+        {
             "id": "https://www.jujubemonster.com/our-furry-companions.html",
             "url": "https://www.jujubemonster.com/our-furry-companions.html",
             "title": "Our Furry Companions",
@@ -133,38 +165,6 @@
             ],
             "date_published": "2026-09-30T08:34:24-07:00",
             "date_modified": "2026-09-30T08:34:24-07:00"
-        },
-        {
-            "id": "https://www.jujubemonster.com/green.html",
-            "url": "https://www.jujubemonster.com/green.html",
-            "title": "Green",
-            "summary": "“Voici des fruits, des fleurs, des feuilles et des branches, Et puis voici mon cœur qui ne bat que pour vous.” Here are fruits, flowers, leaves and branches and then here is my heart which beats only for you -- Paul Verlaine",
-            "content_html": "<p>“Voici des fruits, des fleurs, des feuilles et des branches,<br>Et puis voici mon cœur qui ne bat que pour vous.”</p>\n<p>Here are fruits, flowers, leaves and branches <br>and then here is my heart<br>which beats only for you</p>\n<p>-- Paul Verlaine</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.jujubemonster.com/media/posts/155/Henri_Fantin_Latour.png\" alt=\"\" width=\"500\" height=\"376\"></figure>",
-            "image": "https://www.jujubemonster.com/media/posts/155/Henri_Fantin_Latour-2.png",
-            "author": {
-                "name": "Jujube"
-            },
-            "tags": [
-                   "poetry"
-            ],
-            "date_published": "2026-09-28T15:30:22-07:00",
-            "date_modified": "2026-09-28T15:31:30-07:00"
-        },
-        {
-            "id": "https://www.jujubemonster.com/mid-autumn-festival.html",
-            "url": "https://www.jujubemonster.com/mid-autumn-festival.html",
-            "title": "Mid-Autumn Festival",
-            "content_html": "<figure class=\"post__video\"><video loading=\"lazy\" width=\"600\" height=\"300\" controls=\"controls\" data-mce-fragment=\"1\">\n<source src=\"media/files/2026moon.mp4\" type=\"video/mp4\" /></video></figure>\n<figure class=\"post__video\"><video loading=\"lazy\" width=\"600\" height=\"300\" controls=\"controls\" data-mce-fragment=\"1\">\n<source src=\"media/files/2026moon2.mp4\" type=\"video/mp4\" /></video></figure>",
-            "image": "https://www.jujubemonster.com/media/posts/154/fullmoon2.png",
-            "author": {
-                "name": "Jujube"
-            },
-            "tags": [
-                   "moon",
-                   "holiday"
-            ],
-            "date_published": "2026-09-28T15:16:52-07:00",
-            "date_modified": "2026-09-28T15:26:41-07:00"
         }
     ]
 }
