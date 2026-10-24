@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://www.jujubemonster.com/cute.html",
+            "url": "https://www.jujubemonster.com/cute.html",
+            "title": "Cute ... ?",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-translation=\"Add images\" data-columns=\"2\" data-is-empty=\"false\">\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/166/gallery/hornscute.png\" data-size=\"684x908\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/166/gallery/hornscute-thumbnail.png\" alt=\"\" width=\"684\" height=\"908\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/166/gallery/monsterbot.jpg\" data-size=\"1689x2244\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/166/gallery/monsterbot-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"957\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/166/gallery/mouseglasses.png\" data-size=\"720x956\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/166/gallery/mouseglasses-thumbnail.png\" alt=\"\" width=\"720\" height=\"956\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/166/gallery/nijaskull.png\" data-size=\"720x956\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/166/gallery/nijaskull-thumbnail.png\" alt=\"\" width=\"720\" height=\"956\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/166/gallery/stripfish.png\" data-size=\"648x860\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/166/gallery/stripfish-thumbnail.png\" alt=\"\" width=\"648\" height=\"860\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/166/gallery/rabbitcoffee.png\" data-size=\"576x765\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/166/gallery/rabbitcoffee-thumbnail.png\" alt=\"\" width=\"576\" height=\"765\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/166/gallery/goat-2.png\" data-size=\"648x860\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/166/gallery/goat-2-thumbnail.png\" alt=\"\" width=\"648\" height=\"860\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/166/gallery/pumpkinskull.png\" data-size=\"648x860\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/166/gallery/pumpkinskull-thumbnail.png\" alt=\"\" width=\"648\" height=\"860\"></a></figure>\n</div></div>",
+            "image": "https://www.jujubemonster.com/media/posts/166/candid.png",
+            "author": {
+                "name": "Jujube"
+            },
+            "tags": [
+                   "ai-art"
+            ],
+            "date_published": "2026-10-23T16:13:26-07:00",
+            "date_modified": "2026-10-23T16:15:49-07:00"
+        },
+        {
             "id": "https://www.jujubemonster.com/theres-a-certain-slant-of-light.html",
             "url": "https://www.jujubemonster.com/theres-a-certain-slant-of-light.html",
             "title": "There&#x27;s a Certain Slant of Light",
@@ -149,22 +164,6 @@
             ],
             "date_published": "2026-09-30T08:42:31-07:00",
             "date_modified": "2026-09-30T08:42:31-07:00"
-        },
-        {
-            "id": "https://www.jujubemonster.com/shadow-play.html",
-            "url": "https://www.jujubemonster.com/shadow-play.html",
-            "title": "Shadow Play",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/156/gallery/gptcrown.png\" data-size=\"720x900\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/156/gallery/gptcrown-thumbnail.png\" alt=\"\" width=\"720\" height=\"900\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/156/gallery/redwolf.png\" data-size=\"928x1232\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/156/gallery/redwolf-thumbnail.png\" alt=\"\" width=\"720\" height=\"956\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/156/gallery/overshoulder2.png\" data-size=\"792x1051\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/156/gallery/overshoulder2-thumbnail.png\" alt=\"\" width=\"720\" height=\"955\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/156/gallery/shouldershadow.png\" data-size=\"1008x759\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/156/gallery/shouldershadow-thumbnail.png\" alt=\"\" width=\"720\" height=\"542\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/156/gallery/reddress.png\" data-size=\"648x860\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/156/gallery/reddress-thumbnail.png\" alt=\"\" width=\"648\" height=\"860\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/156/gallery/danceshadow.png\" data-size=\"648x860\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/156/gallery/danceshadow-thumbnail.png\" alt=\"\" width=\"648\" height=\"860\"></a></figure>\n</div></div>",
-            "image": "https://www.jujubemonster.com/media/posts/156/overshoulder2.png",
-            "author": {
-                "name": "Jujube"
-            },
-            "tags": [
-                   "fashion",
-                   "ai-art"
-            ],
-            "date_published": "2026-09-30T08:34:24-07:00",
-            "date_modified": "2026-09-30T08:34:24-07:00"
         }
     ]
 }

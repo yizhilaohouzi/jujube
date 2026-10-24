@@ -3,12 +3,40 @@
     <title>jujube monster</title>
     <link href="https://www.jujubemonster.com/feed.xml" rel="self" />
     <link href="https://www.jujubemonster.com" />
-    <updated>2026-10-18T12:15:41-07:00</updated>
+    <updated>2026-10-23T16:15:49-07:00</updated>
     <author>
         <name>Jujube</name>
     </author>
     <id>https://www.jujubemonster.com</id>
 
+    <entry>
+        <title>Cute ... ?</title>
+        <author>
+            <name>Jujube</name>
+        </author>
+        <link href="https://www.jujubemonster.com/cute.html"/>
+        <id>https://www.jujubemonster.com/cute.html</id>
+        <media:content url="https://www.jujubemonster.com/media/posts/166/candid.png" medium="image" />
+            <category term="ai-art"/>
+
+        <updated>2026-10-23T16:13:26-07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.jujubemonster.com/media/posts/166/candid.png" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper"><div class="gallery" data-translation="Add images" data-columns="2" data-is-empty="false">
+<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/166/gallery/hornscute.png" data-size="684x908"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/166/gallery/hornscute-thumbnail.png" alt="" width="684" height="908"></a></figure>
+<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/166/gallery/monsterbot.jpg" data-size="1689x2244"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/166/gallery/monsterbot-thumbnail.jpg" alt="" width="720" height="957"></a></figure>
+<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/166/gallery/mouseglasses.png" data-size="720x956"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/166/gallery/mouseglasses-thumbnail.png" alt="" width="720" height="956"></a></figure>
+<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/166/gallery/nijaskull.png" data-size="720x956"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/166/gallery/nijaskull-thumbnail.png" alt="" width="720" height="956"></a></figure>
+<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/166/gallery/stripfish.png" data-size="648x860"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/166/gallery/stripfish-thumbnail.png" alt="" width="648" height="860"></a></figure>
+<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/166/gallery/rabbitcoffee.png" data-size="576x765"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/166/gallery/rabbitcoffee-thumbnail.png" alt="" width="576" height="765"></a></figure>
+<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/166/gallery/goat-2.png" data-size="648x860"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/166/gallery/goat-2-thumbnail.png" alt="" width="648" height="860"></a></figure>
+<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/166/gallery/pumpkinskull.png" data-size="648x860"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/166/gallery/pumpkinskull-thumbnail.png" alt="" width="648" height="860"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>There&#x27;s a Certain Slant of Light</title>
         <author>
@@ -245,33 +273,6 @@
 <figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/157/gallery/rabbitcoffeeknit.jpg" data-size="1216x1616"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/157/gallery/rabbitcoffeeknit-thumbnail.jpg" alt="" width="720" height="957"></a></figure>
 <figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/157/gallery/latteart.png" data-size="648x860"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/157/gallery/latteart-thumbnail.png" alt="" width="648" height="860"></a></figure>
 <figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/157/gallery/girlmonster.png" data-size="720x956"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/157/gallery/girlmonster-thumbnail.png" alt="" width="720" height="956"></a></figure>
-</div></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Shadow Play</title>
-        <author>
-            <name>Jujube</name>
-        </author>
-        <link href="https://www.jujubemonster.com/shadow-play.html"/>
-        <id>https://www.jujubemonster.com/shadow-play.html</id>
-        <media:content url="https://www.jujubemonster.com/media/posts/156/overshoulder2.png" medium="image" />
-            <category term="fashion"/>
-            <category term="ai-art"/>
-
-        <updated>2026-09-30T08:34:24-07:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.jujubemonster.com/media/posts/156/overshoulder2.png" class="type:primaryImage" alt="beautifull woman in crimson evening dress standing in front of red carpet stairs, intriguing shadow and composition" /></p>
-                <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="2">
-<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/156/gallery/gptcrown.png" data-size="720x900"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/156/gallery/gptcrown-thumbnail.png" alt="" width="720" height="900"></a></figure>
-<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/156/gallery/redwolf.png" data-size="928x1232"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/156/gallery/redwolf-thumbnail.png" alt="" width="720" height="956"></a></figure>
-<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/156/gallery/overshoulder2.png" data-size="792x1051"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/156/gallery/overshoulder2-thumbnail.png" alt="" width="720" height="955"></a></figure>
-<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/156/gallery/shouldershadow.png" data-size="1008x759"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/156/gallery/shouldershadow-thumbnail.png" alt="" width="720" height="542"></a></figure>
-<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/156/gallery/reddress.png" data-size="648x860"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/156/gallery/reddress-thumbnail.png" alt="" width="648" height="860"></a></figure>
-<figure class="gallery__item"><a href="https://www.jujubemonster.com/media/posts/156/gallery/danceshadow.png" data-size="648x860"><img loading="lazy" src="https://www.jujubemonster.com/media/posts/156/gallery/danceshadow-thumbnail.png" alt="" width="648" height="860"></a></figure>
 </div></div>
             ]]>
         </content>
