@@ -10,6 +10,37 @@
     },
     "items": [
         {
+            "id": "https://www.jujubemonster.com/halloween-fun.html",
+            "url": "https://www.jujubemonster.com/halloween-fun.html",
+            "title": "Halloween Fun",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-translation=\"Add images\" data-columns=\"2\" data-is-empty=\"false\">\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/172/gallery/catblood.png\" data-size=\"864x1147\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/172/gallery/catblood-thumbnail.png\" alt=\"\" width=\"720\" height=\"956\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/172/gallery/terror.png\" data-size=\"720x956\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/172/gallery/terror-thumbnail.png\" alt=\"\" width=\"720\" height=\"956\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/172/gallery/girlpumpkincatt.png\" data-size=\"648x860\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/172/gallery/girlpumpkincatt-thumbnail.png\" alt=\"\" width=\"648\" height=\"860\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/172/gallery/weirdo1.png\" data-size=\"720x956\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/172/gallery/weirdo1-thumbnail.png\" alt=\"\" width=\"720\" height=\"956\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/172/gallery/whitehaircat.png\" data-size=\"648x860\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/172/gallery/whitehaircat-thumbnail.png\" alt=\"\" width=\"648\" height=\"860\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/172/gallery/whitehairpumpkin.png\" data-size=\"576x765\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/172/gallery/whitehairpumpkin-thumbnail.png\" alt=\"\" width=\"576\" height=\"765\"></a></figure>\n</div></div>\n<p><a href=\"https://x.com/JujubeTing/status/2116184348659482688?a=tSXw0AApI_mgr1TOZmc&amp;s=20\" class=\"post__image\" target=\"_blank\" rel=\"noopener noreferrer\"><figure class=\"post__image\"><img  src=\"https://www.jujubemonster.com/media/posts/172/rabbitpumpkin.png\" alt=\"\" width=\"300\" height=\"398\"></figure></a>            <a href=\"https://x.com/JujubeTing/status/2116550793784385824?a=HA3bJ7lyyr6ZCOziBB4&amp;s=20\" class=\"post__image\" target=\"_blank\" rel=\"noopener noreferrer\"><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.jujubemonster.com/media/posts/172/pumpkinscare-2.png\" alt=\"\" width=\"300\" height=\"398\"></figure></a></p>",
+            "image": "https://www.jujubemonster.com/media/posts/172/pumpkinscare.png",
+            "author": {
+                "name": "Jujube"
+            },
+            "tags": [
+                   "holiday"
+            ],
+            "date_published": "2026-11-01T11:47:58-08:00",
+            "date_modified": "2026-11-01T11:47:58-08:00"
+        },
+        {
+            "id": "https://www.jujubemonster.com/the-hollow-men.html",
+            "url": "https://www.jujubemonster.com/the-hollow-men.html",
+            "title": "The Hollow Men",
+            "summary": "We are the hollow men We are the stuffed men Leaning together Headpiece filled with straw. Alas! Our dried voices, when We whisper together Are quiet and meaningless As wind in dry grass … … Shape without form, shade without colour. Paralysed force, gesture without motion&hellip;",
+            "content_html": "<p>We are the hollow men <br>We are the stuffed men <br>Leaning together <br>Headpiece filled with straw. Alas! <br>Our dried voices, when <br>We whisper together <br>Are quiet and meaningless <br>As wind in dry grass <br>… … <br>Shape without form, shade without colour. <br>Paralysed force, gesture without motion</p>\n<p>-- T. S. Eliot</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.jujubemonster.com/media/posts/171/twoscarecrows.png\" alt=\"\" width=\"864\" height=\"651\"></figure>",
+            "image": "https://www.jujubemonster.com/media/posts/171/twoscarecrows-2.png",
+            "author": {
+                "name": "Jujube"
+            },
+            "tags": [
+                   "poetry"
+            ],
+            "date_published": "2026-11-01T11:43:22-08:00",
+            "date_modified": "2026-11-01T11:43:22-08:00"
+        },
+        {
             "id": "https://www.jujubemonster.com/monsters-inc.html",
             "url": "https://www.jujubemonster.com/monsters-inc.html",
             "title": "Monsters Inc.",
@@ -132,38 +163,6 @@
             ],
             "date_published": "2026-10-11T08:47:14-07:00",
             "date_modified": "2026-10-11T08:47:14-07:00"
-        },
-        {
-            "id": "https://www.jujubemonster.com/lines-composed-a-few-miles-above-tintern-abbey.html",
-            "url": "https://www.jujubemonster.com/lines-composed-a-few-miles-above-tintern-abbey.html",
-            "title": "Lines Composed a Few Miles above Tintern Abbey",
-            "summary": "That blessed mood, In which the burthen of the mystery, In which the heavy and the weary weight Of all this unintelligible world, Is lightened:—that serene and blessed mood, In which the affections gently lead us on, Until, the breath of this corporeal frame And&hellip;",
-            "content_html": "<p>That blessed mood, <br>In which the burthen of the mystery, <br>In which the heavy and the weary weight <br>Of all this unintelligible world, <br>Is lightened:—that serene and blessed mood, <br>In which the affections gently lead us on, <br>Until, the breath of this corporeal frame <br>And even the motion of our feline blood</p>\n<p>-- William Wordsworth (1770–1850)</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.jujubemonster.com/media/posts/162/catmissed.png\" alt=\"\" width=\"500\" height=\"377\"></figure>",
-            "image": "https://www.jujubemonster.com/media/posts/162/catmissed-2.png",
-            "author": {
-                "name": "Jujube"
-            },
-            "tags": [
-                   "poetry"
-            ],
-            "date_published": "2026-10-11T08:40:31-07:00",
-            "date_modified": "2026-10-11T08:40:31-07:00"
-        },
-        {
-            "id": "https://www.jujubemonster.com/beauty-and-shadow.html",
-            "url": "https://www.jujubemonster.com/beauty-and-shadow.html",
-            "title": "Beauty and Shadow",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/161/gallery/officelady.jpg\" data-size=\"1216x1616\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/161/gallery/officelady-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"957\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/161/gallery/shadowumbrella.jpg\" data-size=\"1216x1616\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/161/gallery/shadowumbrella-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"957\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/161/gallery/umbrellashadow.png\" data-size=\"928x1232\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/161/gallery/umbrellashadow-thumbnail.png\" alt=\"\" width=\"720\" height=\"956\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/161/gallery/shadeshadow.png\" data-size=\"928x1232\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/161/gallery/shadeshadow-thumbnail.png\" alt=\"\" width=\"720\" height=\"956\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/161/gallery/lilygreen.png\" data-size=\"1232x928\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/161/gallery/lilygreen-thumbnail.png\" alt=\"\" width=\"720\" height=\"542\"></a></figure>\n</div></div>",
-            "image": "https://www.jujubemonster.com/media/posts/161/umbrellashadow.png",
-            "author": {
-                "name": "Jujube"
-            },
-            "tags": [
-                   "fashion",
-                   "ai-art"
-            ],
-            "date_published": "2026-10-10T08:02:47-07:00",
-            "date_modified": "2026-10-10T08:02:47-07:00"
         }
     ]
 }
