@@ -10,6 +10,37 @@
     },
     "items": [
         {
+            "id": "https://www.jujubemonster.com/on-the-horse-of-officer-fang.html",
+            "url": "https://www.jujubemonster.com/on-the-horse-of-officer-fang.html",
+            "title": "On the Horse of Officer Fang",
+            "summary": "A famed horse from Ferghana stock, Its lean bones shaped in sharp ridges. Its ears erect like blades of split bamboo, Its four hooves fly light as if riding the wind. No distance is too vast for it to cross; One could entrust it with&hellip;",
+            "content_html": "<p>A famed horse from Ferghana stock, <br>Its lean bones shaped in sharp ridges. <br>Its ears erect like blades of split bamboo, <br>Its four hooves fly light as if riding the wind. </p>\n<p>No distance is too vast for it to cross; <br>One could entrust it with life and death.  <br>With such valiant swiftness, <br>It could roam unhindered for ten thousand miles.</p>\n<p>胡马大宛名，锋棱瘦骨成。 <br>竹批双耳峻，风入四蹄轻。 <br>所向无空阔，真堪托死生。 <br>骁腾有如此，万里可横行。</p>\n<p>-- Du Fu 杜甫 (712-770)</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.jujubemonster.com/media/posts/174/horserun-2.png\" alt=\"\" width=\"500\" height=\"377\"></figure>",
+            "image": "https://www.jujubemonster.com/media/posts/174/horserun.png",
+            "author": {
+                "name": "Jujube"
+            },
+            "tags": [
+                   "poetry"
+            ],
+            "date_published": "2026-11-07T15:09:32-08:00",
+            "date_modified": "2026-11-07T15:09:32-08:00"
+        },
+        {
+            "id": "https://www.jujubemonster.com/cats-of-the-week-12.html",
+            "url": "https://www.jujubemonster.com/cats-of-the-week-12.html",
+            "title": "Cats of the Week",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-translation=\"Add images\" data-columns=\"2\" data-is-empty=\"false\">\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/173/gallery/blackcat2.png\" data-size=\"720x720\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/173/gallery/blackcat2-thumbnail.png\" alt=\"\" width=\"720\" height=\"720\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/173/gallery/jujubecatstarbucks.png\" data-size=\"720x956\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/173/gallery/jujubecatstarbucks-thumbnail.png\" alt=\"\" width=\"720\" height=\"956\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/173/gallery/seecoffee.png\" data-size=\"792x792\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/173/gallery/seecoffee-thumbnail.png\" alt=\"\" width=\"720\" height=\"720\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/173/gallery/nap.png\" data-size=\"576x764\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/173/gallery/nap-thumbnail.png\" alt=\"\" width=\"576\" height=\"764\"></a></figure>\n</div></div>",
+            "image": "https://www.jujubemonster.com/media/posts/173/blackcat2.png",
+            "author": {
+                "name": "Jujube"
+            },
+            "tags": [
+                   "cat"
+            ],
+            "date_published": "2026-11-01T11:59:15-08:00",
+            "date_modified": "2026-11-01T11:59:15-08:00"
+        },
+        {
             "id": "https://www.jujubemonster.com/halloween-fun.html",
             "url": "https://www.jujubemonster.com/halloween-fun.html",
             "title": "Halloween Fun",
@@ -19,10 +50,11 @@
                 "name": "Jujube"
             },
             "tags": [
+                   "video",
                    "holiday"
             ],
             "date_published": "2026-11-01T11:47:58-08:00",
-            "date_modified": "2026-11-01T11:47:58-08:00"
+            "date_modified": "2026-11-01T11:59:36-08:00"
         },
         {
             "id": "https://www.jujubemonster.com/the-hollow-men.html",
@@ -131,38 +163,6 @@
             ],
             "date_published": "2026-10-18T12:15:41-07:00",
             "date_modified": "2026-10-18T12:15:41-07:00"
-        },
-        {
-            "id": "https://www.jujubemonster.com/cats-of-the-week-10.html",
-            "url": "https://www.jujubemonster.com/cats-of-the-week-10.html",
-            "title": "Cats of the Week",
-            "summary": "Click to see the animation:",
-            "content_html": "<p>Click to see the animation:</p>\n<p><a href=\"https://x.com/JujubeTing/status/2111474061532684339\" class=\"post__image\" target=\"_blank\" rel=\"noopener noreferrer\"><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.jujubemonster.com/media/posts/164/cateyes.png\" alt=\"\" width=\"300\" height=\"398\"></figure></a></p>\n<p><a href=\"https://x.com/JujubeTing/status/2111846012323250195\" class=\"post__image\" target=\"_blank\" rel=\"noopener noreferrer\"><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.jujubemonster.com/media/posts/164/poor.png\" alt=\"\" width=\"350\" height=\"264\"></figure></a></p>\n<p><a href=\"https://x.com/JujubeTing/status/2111481611409891773\" class=\"post__image\" target=\"_blank\" rel=\"noopener noreferrer\"><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.jujubemonster.com/media/posts/164/smokingblackcat-2.png\" alt=\"\" width=\"350\" height=\"264\"></figure></a></p>",
-            "image": "https://www.jujubemonster.com/media/posts/164/catninja.png",
-            "author": {
-                "name": "Jujube"
-            },
-            "tags": [
-                   "cat"
-            ],
-            "date_published": "2026-10-18T12:10:58-07:00",
-            "date_modified": "2026-10-18T12:10:58-07:00"
-        },
-        {
-            "id": "https://www.jujubemonster.com/our-furry-companions.html",
-            "url": "https://www.jujubemonster.com/our-furry-companions.html",
-            "title": "Our Furry Companions",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/163/gallery/mine.png\" data-size=\"648x860\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/163/gallery/mine-thumbnail.png\" alt=\"\" width=\"648\" height=\"860\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/163/gallery/rabbitwomanchecck.png\" data-size=\"864x651\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/163/gallery/rabbitwomanchecck-thumbnail.png\" alt=\"\" width=\"720\" height=\"543\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/163/gallery/whitehair.png\" data-size=\"792x792\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/163/gallery/whitehair-thumbnail.png\" alt=\"\" width=\"720\" height=\"720\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.jujubemonster.com/media/posts/163/gallery/umbrellawhitehair.jpg\" data-size=\"1216x1616\"><img loading=\"lazy\" src=\"https://www.jujubemonster.com/media/posts/163/gallery/umbrellawhitehair-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"957\"></a></figure>\n</div></div>",
-            "image": "https://www.jujubemonster.com/media/posts/163/mine.png",
-            "author": {
-                "name": "Jujube"
-            },
-            "tags": [
-                   "cat",
-                   "ai-art"
-            ],
-            "date_published": "2026-10-11T08:47:14-07:00",
-            "date_modified": "2026-10-11T08:47:14-07:00"
         }
     ]
 }
